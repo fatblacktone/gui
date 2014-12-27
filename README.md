@@ -1,4 +1,4 @@
 gui
 ===
 
-java gui classes
+Basic Java gui classes for extending
