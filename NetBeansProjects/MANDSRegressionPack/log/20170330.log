@@ -1,0 +1,172 @@
+[log (2017-03-30 09:54:45.314)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-30 09:54:45.330)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-30 09:54:45.330)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-30 09:54:45.330)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-30 09:54:45.330)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-30 09:54:45.330)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-30 09:54:45.330)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-30 09:54:45.330)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-30 09:54:46.593)]  Attempting to interface an Order
+[log (2017-03-30 09:54:46.593)]  inserting order header: A900000666
+[log (2017-03-30 09:54:47.654)]  inserting order line A900000666::1
+[log (2017-03-30 09:54:49.402)]  inserting order line A900000666::1
+[log (2017-03-30 09:54:49.839)]  Waiting for merge....A900000666
+[log (2017-03-30 09:54:49.839)]  Waiting for merge....60
+[log (2017-03-30 09:54:50.931)]  Waiting for merge....59
+[log (2017-03-30 09:54:51.961)]  Waiting for merge....58
+[log (2017-03-30 09:54:52.990)]  Waiting for merge....57
+[log (2017-03-30 09:54:54.020)]  Waiting for merge....56
+[log (2017-03-30 09:54:55.049)]  Waiting for merge....55
+[log (2017-03-30 09:54:56.079)]  Waiting for merge....54
+[log (2017-03-30 09:55:11.714)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-30 09:55:11.714)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-30 09:55:11.730)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-30 09:55:11.730)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-30 09:55:11.746)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-30 09:55:11.746)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-30 09:55:11.746)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-30 09:55:11.746)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-30 09:55:12.839)]  Attempting to interface an Order
+[log (2017-03-30 09:55:12.854)]  inserting order header: A900000666
+[log (2017-03-30 09:55:13.915)]  inserting order line A900000666::1
+[log (2017-03-30 09:55:14.415)]  inserting order line A900000666::2
+[log (2017-03-30 09:55:14.571)]  Waiting for merge....A900000666
+[log (2017-03-30 09:55:14.571)]  Waiting for merge....60
+[log (2017-03-30 09:55:15.649)]  Waiting for merge....59
+[log (2017-03-30 09:55:16.679)]  Waiting for merge....58
+[log (2017-03-30 09:55:17.709)]  Waiting for merge....57
+[log (2017-03-30 09:55:18.738)]  Waiting for merge....56
+[log (2017-03-30 09:55:19.768)]  Waiting for merge....55
+[log (2017-03-30 09:55:20.798)]  Waiting for merge....54
+[log (2017-03-30 09:55:21.827)]  Waiting for merge....53
+[log (2017-03-30 09:55:22.857)]  Waiting for merge....52
+[log (2017-03-30 09:55:23.886)]  Waiting for merge....51
+[log (2017-03-30 09:55:24.912)]  Waiting for merge....50
+[log (2017-03-30 09:55:25.941)]  Waiting for merge....49
+[log (2017-03-30 09:55:26.971)]  Waiting for merge....48
+[log (2017-03-30 09:55:28.001)]  Waiting for merge....47
+[log (2017-03-30 09:55:29.030)]  Waiting for merge....46
+[log (2017-03-30 09:55:30.060)]  Waiting for merge....45
+[log (2017-03-30 09:55:31.090)]  Waiting for merge....44
+[log (2017-03-30 09:55:32.119)]  Waiting for merge....43
+[log (2017-03-30 09:55:33.164)]  Waiting for merge....42
+[log (2017-03-30 09:55:34.194)]  Waiting for merge....41
+[log (2017-03-30 09:55:35.224)]  Waiting for merge....40
+[log (2017-03-30 09:55:36.269)]  Order A900000666 merged
+[log (2017-03-30 10:01:46.178)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-30 10:01:46.180)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-30 10:01:46.182)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-30 10:01:46.185)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-30 10:01:46.187)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-30 10:01:46.189)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-30 10:01:46.190)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-30 10:01:46.192)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-30 10:01:48.315)]  Attempting to interface an Order
+[log (2017-03-30 10:01:48.317)]  inserting order header: A900000666
+[log (2017-03-30 10:01:48.790)]  inserting order header: A900000667
+[log (2017-03-30 10:01:48.977)]  inserting order header: A900000668
+[log (2017-03-30 10:01:49.161)]  inserting order header: A900000669
+[log (2017-03-30 10:01:50.037)]  inserting order header: A900000670
+[log (2017-03-30 10:01:50.613)]  inserting order header: A900000671
+[log (2017-03-30 10:01:51.217)]  inserting order header: A900000672
+[log (2017-03-30 10:01:51.423)]  inserting order header: A900000673
+[log (2017-03-30 10:01:51.635)]  inserting order line A900000666::1
+[log (2017-03-30 10:01:51.811)]  inserting order line A900000666::2
+[log (2017-03-30 10:01:51.968)]  inserting order line A900000667::1
+[log (2017-03-30 10:01:52.124)]  inserting order line A900000667::2
+[log (2017-03-30 10:01:52.335)]  inserting order line A900000667::3
+[log (2017-03-30 10:01:52.493)]  inserting order line A900000667::4
+[log (2017-03-30 10:01:52.650)]  inserting order line A900000667::5
+[log (2017-03-30 10:01:52.829)]  inserting order line A900000667::6
+[log (2017-03-30 10:01:52.993)]  inserting order line A900000668::1
+[log (2017-03-30 10:01:53.154)]  inserting order line A900000669::1
+[log (2017-03-30 10:01:53.316)]  inserting order line A900000670::1
+[log (2017-03-30 10:01:53.478)]  inserting order line A900000671::1
+[log (2017-03-30 10:01:53.637)]  inserting order line A900000672::1
+[log (2017-03-30 10:01:53.796)]  inserting order line A900000673::1
+[log (2017-03-30 10:01:53.971)]  Waiting for merge....A900000666
+[log (2017-03-30 10:01:53.974)]  Waiting for merge....60
+[log (2017-03-30 10:01:55.063)]  Waiting for merge....A900000667
+[log (2017-03-30 10:01:55.064)]  Waiting for merge....60
+[log (2017-03-30 10:01:56.096)]  Waiting for merge....59
+[log (2017-03-30 10:01:57.116)]  Waiting for merge....58
+[log (2017-03-30 10:01:58.151)]  Waiting for merge....57
+[log (2017-03-30 10:01:59.171)]  Waiting for merge....56
+[log (2017-03-30 10:02:00.191)]  Waiting for merge....55
+[log (2017-03-30 10:02:01.209)]  Waiting for merge....54
+[log (2017-03-30 10:02:02.243)]  Waiting for merge....53
+[log (2017-03-30 10:02:03.264)]  Waiting for merge....52
+[log (2017-03-30 10:02:04.284)]  Waiting for merge....51
+[log (2017-03-30 10:02:05.305)]  Waiting for merge....50
+[log (2017-03-30 10:02:06.323)]  Waiting for merge....49
+[log (2017-03-30 10:02:07.343)]  Waiting for merge....48
+[log (2017-03-30 10:02:08.363)]  Waiting for merge....47
+[log (2017-03-30 10:02:09.383)]  Waiting for merge....46
+[log (2017-03-30 10:02:10.404)]  Waiting for merge....45
+[log (2017-03-30 10:02:11.464)]  Waiting for merge....44
+[log (2017-03-30 10:02:12.493)]  Waiting for merge....43
+[log (2017-03-30 10:02:13.523)]  Waiting for merge....42
+[log (2017-03-30 10:02:14.553)]  Waiting for merge....41
+[log (2017-03-30 10:02:15.582)]  Waiting for merge....40
+[log (2017-03-30 10:02:16.612)]  Waiting for merge....39
+[log (2017-03-30 10:02:17.633)]  Waiting for merge....38
+[log (2017-03-30 10:02:18.662)]  Waiting for merge....37
+[log (2017-03-30 10:02:19.692)]  Waiting for merge....36
+[log (2017-03-30 10:02:20.722)]  Waiting for merge....35
+[log (2017-03-30 10:02:21.751)]  Waiting for merge....34
+[log (2017-03-30 10:02:22.781)]  Waiting for merge....33
+[log (2017-03-30 10:02:23.798)]  Waiting for merge....32
+[log (2017-03-30 10:02:24.802)]  Waiting for merge....31
+[log (2017-03-30 10:02:25.854)]  Waiting for merge....30
+[log (2017-03-30 10:02:26.883)]  Waiting for merge....29
+[log (2017-03-30 10:02:27.913)]  Waiting for merge....28
+[log (2017-03-30 10:02:28.943)]  Waiting for merge....27
+[log (2017-03-30 10:02:29.973)]  Waiting for merge....26
+[log (2017-03-30 10:02:31.002)]  Waiting for merge....25
+[log (2017-03-30 10:02:32.032)]  Waiting for merge....24
+[log (2017-03-30 10:02:33.061)]  Waiting for merge....23
+[log (2017-03-30 10:02:34.091)]  Waiting for merge....22
+[log (2017-03-30 10:02:35.119)]  Waiting for merge....21
+[log (2017-03-30 10:02:36.164)]  Waiting for merge....A900000668
+[log (2017-03-30 10:02:36.164)]  Waiting for merge....60
+[log (2017-03-30 10:02:37.209)]  Waiting for merge....A900000669
+[log (2017-03-30 10:02:37.225)]  Waiting for merge....60
+[log (2017-03-30 10:02:38.286)]  Waiting for merge....A900000670
+[log (2017-03-30 10:02:38.286)]  Waiting for merge....60
+[log (2017-03-30 10:02:39.331)]  Waiting for merge....A900000671
+[log (2017-03-30 10:02:39.331)]  Waiting for merge....60
+[log (2017-03-30 10:02:40.377)]  Waiting for merge....A900000672
+[log (2017-03-30 10:02:40.393)]  Waiting for merge....60
+[log (2017-03-30 10:02:41.454)]  Waiting for merge....A900000673
+[log (2017-03-30 10:02:41.454)]  Waiting for merge....60
+[log (2017-03-30 10:02:42.499)]  Order A900000673 merged
+[log (2017-03-30 14:07:06.969)]  Something went wrong connecting to the database
+[log (2017-03-30 14:07:06.969)]  java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+[log (2017-03-30 14:07:46.270)]  Something went wrong connecting to the database
+[log (2017-03-30 14:07:46.286)]  java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+[log (2017-03-30 14:08:31.426)]  Something went wrong connecting to the database
+[log (2017-03-30 14:08:31.426)]  java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+[log (2017-03-30 14:09:43.987)]  Something went wrong connecting to the database
+[log (2017-03-30 14:09:43.987)]  java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+[log (2017-03-30 14:23:38.003)]  At the user defined menu
+[log (2017-03-30 14:34:03.747)]  At the user defined menu
+[log (2017-03-30 14:34:03.763)]  1
+[log (2017-03-30 14:34:03.825)]  
+
+[log (2017-03-30 14:38:48.346)]  At the receiving menu
+[log (2017-03-30 14:38:48.346)]  1
+[log (2017-03-30 14:38:48.408)]  
+
+[log (2017-03-30 14:39:04.077)]  At the receiving menu
+[log (2017-03-30 14:39:04.077)]  1
+[log (2017-03-30 14:39:04.155)]  
+
+[log (2017-03-30 14:41:52.615)]  At the basic receiving screen
+[log (2017-03-30 14:41:52.615)]  2
+[log (2017-03-30 14:41:52.693)]  
+
+[log (2017-03-30 14:49:15.758)]  At the Pre Advice entry screen
+[log (2017-03-30 14:49:15.758)]  2055734757
+[log (2017-03-30 14:49:16.382)]  20001275
+[log (2017-03-30 14:49:16.881)]  
+

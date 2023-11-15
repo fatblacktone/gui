@@ -1,0 +1,1400 @@
+[log (2017-03-16 08:49:12.285)]  Trying to insert Pre Advice
+[log (2017-03-16 08:49:12.285)]  inserting header file
+[log (2017-03-16 08:49:12.831)]  inserting line file
+[log (2017-03-16 08:49:13.018)]  Waiting for merge.....A000000215
+[log (2017-03-16 08:49:14.033)]  Waiting for merge.....70
+[log (2017-03-16 08:49:15.093)]  Waiting for merge.....69
+[log (2017-03-16 08:49:16.123)]  Waiting for merge.....68
+[log (2017-03-16 08:49:17.153)]  Waiting for merge.....67
+[log (2017-03-16 08:49:18.183)]  Waiting for merge.....66
+[log (2017-03-16 08:49:19.213)]  Waiting for merge.....65
+[log (2017-03-16 08:49:20.242)]  Waiting for merge.....64
+[log (2017-03-16 08:49:21.272)]  Waiting for merge.....63
+[log (2017-03-16 08:49:22.318)]  Waiting for merge.....62
+[log (2017-03-16 08:49:23.347)]  Waiting for merge.....61
+[log (2017-03-16 08:49:24.377)]  Waiting for merge.....60
+[log (2017-03-16 08:49:25.407)]  Waiting for merge.....59
+[log (2017-03-16 08:49:26.437)]  Waiting for merge.....58
+[log (2017-03-16 08:49:27.474)]  Waiting for merge.....57
+[log (2017-03-16 08:49:28.504)]  Waiting for merge.....56
+[log (2017-03-16 08:49:29.534)]  Waiting for merge.....55
+[log (2017-03-16 08:49:30.564)]  Waiting for merge.....54
+[log (2017-03-16 08:49:31.594)]  Waiting for merge.....53
+[log (2017-03-16 08:49:32.623)]  Waiting for merge.....52
+[log (2017-03-16 08:49:33.653)]  Waiting for merge.....51
+[log (2017-03-16 08:49:34.678)]  Waiting for merge.....50
+[log (2017-03-16 08:49:35.708)]  Waiting for merge.....49
+[log (2017-03-16 08:49:36.738)]  Waiting for merge.....48
+[log (2017-03-16 08:49:37.768)]  Waiting for merge.....47
+[log (2017-03-16 08:49:38.798)]  Waiting for merge.....46
+[log (2017-03-16 08:49:39.814)]  Waiting for merge.....45
+[log (2017-03-16 08:49:40.859)]  Waiting for merge.....44
+[log (2017-03-16 08:49:41.889)]  Waiting for merge.....43
+[log (2017-03-16 08:49:42.919)]  Waiting for merge.....42
+[log (2017-03-16 08:49:43.948)]  Waiting for merge.....41
+[log (2017-03-16 08:49:44.978)]  Waiting for merge.....40
+[log (2017-03-16 08:49:46.008)]  Waiting for merge.....39
+[log (2017-03-16 08:49:47.038)]  Waiting for merge.....38
+[log (2017-03-16 08:49:48.068)]  Waiting for merge.....37
+[log (2017-03-16 08:49:49.097)]  Waiting for merge.....36
+[log (2017-03-16 08:49:50.127)]  Waiting for merge.....35
+[log (2017-03-16 08:49:51.158)]  Waiting for merge.....34
+[log (2017-03-16 08:49:52.188)]  Waiting for merge.....33
+[log (2017-03-16 08:49:53.218)]  Waiting for merge.....32
+[log (2017-03-16 08:49:54.247)]  Waiting for merge.....31
+[log (2017-03-16 08:49:55.277)]  Waiting for merge.....30
+[log (2017-03-16 08:49:56.307)]  Waiting for merge.....29
+[log (2017-03-16 08:49:57.337)]  Waiting for merge.....28
+[log (2017-03-16 08:49:58.367)]  Waiting for merge.....27
+[log (2017-03-16 08:49:59.387)]  Waiting for merge.....26
+[log (2017-03-16 08:50:00.417)]  Waiting for merge.....25
+[log (2017-03-16 08:50:01.447)]  Waiting for merge.....24
+[log (2017-03-16 08:50:02.477)]  Waiting for merge.....23
+[log (2017-03-16 08:50:03.506)]  Waiting for merge.....22
+[log (2017-03-16 08:50:04.524)]  Waiting for merge.....21
+[log (2017-03-16 08:50:05.551)]  Waiting for merge.....20
+[log (2017-03-16 08:50:06.581)]  Waiting for merge.....19
+[log (2017-03-16 08:50:07.611)]  Waiting for merge.....18
+[log (2017-03-16 08:50:08.640)]  Waiting for merge.....17
+[log (2017-03-16 08:50:09.670)]  Waiting for merge.....16
+[log (2017-03-16 08:50:10.700)]  Waiting for merge.....15
+[log (2017-03-16 08:50:11.730)]  Waiting for merge.....14
+[log (2017-03-16 08:50:12.760)]  Waiting for merge.....13
+[log (2017-03-16 08:50:13.789)]  Waiting for merge.....12
+[log (2017-03-16 08:50:14.819)]  Waiting for merge.....11
+[log (2017-03-16 08:50:15.849)]  Waiting for merge.....10
+[log (2017-03-16 08:50:16.879)]  Waiting for merge.....9
+[log (2017-03-16 08:50:17.909)]  Waiting for merge.....8
+[log (2017-03-16 08:50:18.938)]  Waiting for merge.....7
+[log (2017-03-16 08:50:19.968)]  Waiting for merge.....6
+[log (2017-03-16 08:50:20.998)]  Waiting for merge.....5
+[log (2017-03-16 08:50:22.028)]  Waiting for merge.....4
+[log (2017-03-16 08:50:23.055)]  Waiting for merge.....3
+[log (2017-03-16 08:50:24.085)]  Waiting for merge.....2
+[log (2017-03-16 08:50:25.115)]  Waiting for merge.....1
+[log (2017-03-16 08:50:25.146)]  Failed to merge
+[log (2017-03-16 08:59:17.533)]  Trying to insert Pre Advice
+[log (2017-03-16 08:59:17.533)]  inserting header file
+[log (2017-03-16 08:59:18.282)]  inserting line file
+[log (2017-03-16 08:59:18.453)]  Waiting for merge.....A000000215
+[log (2017-03-16 08:59:19.467)]  Waiting for merge.....70
+[log (2017-03-16 08:59:19.514)]  merged
+[log (2017-03-16 09:15:51.763)]  Attempting to interface an Order
+[log (2017-03-16 09:15:51.766)]  inserting order header
+[log (2017-03-16 09:15:52.230)]  inserting order header
+[log (2017-03-16 09:15:52.421)]  inserting order header
+[log (2017-03-16 09:15:52.651)]  inserting order header
+[log (2017-03-16 09:15:52.874)]  inserting order header
+[log (2017-03-16 09:15:53.089)]  inserting order line
+[log (2017-03-16 09:15:53.556)]  inserting order line
+[log (2017-03-16 09:15:53.883)]  Logging into the application
+[log (2017-03-16 09:15:53.884)]  Attempting to log into the application.
+[log (2017-03-16 09:18:49.936)]  Logging in to RDT
+[log (2017-03-16 09:18:49.938)]  Trying to log into the RDT 
+[log (2017-03-16 09:18:56.080)]  Navigating to containerPicking
+[log (2017-03-16 09:18:56.081)]  Navigating to Container Picking
+[log (2017-03-16 09:18:56.886)]  Picking order
+[log (2017-03-16 09:19:06.943)]  Failed to find image: FindFailed: can not find images/rdt/skuCnf.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 09:46:36.351)]  Trying to insert Pre Advice
+[log (2017-03-16 09:46:36.354)]  inserting header file
+[log (2017-03-16 09:46:36.734)]  inserting line file
+[log (2017-03-16 09:46:36.909)]  Waiting for merge.....A000000215
+[log (2017-03-16 09:46:37.911)]  Waiting for merge.....70
+[log (2017-03-16 09:46:38.950)]  Waiting for merge.....69
+[log (2017-03-16 09:46:39.969)]  Waiting for merge.....68
+[log (2017-03-16 10:13:21.139)]  Attempting to interface an Order
+[log (2017-03-16 10:13:21.148)]  inserting order header
+[log (2017-03-16 10:13:22.782)]  inserting order line
+[log (2017-03-16 10:13:22.863)]  inserting order line
+[log (2017-03-16 10:13:22.936)]  Waiting for merge....A000000181
+[log (2017-03-16 10:13:22.937)]  Waiting for merge....60
+[log (2017-03-16 10:13:23.983)]  Waiting for merge....59
+[log (2017-03-16 10:13:25.000)]  Waiting for merge....58
+[log (2017-03-16 10:13:26.018)]  Waiting for merge....57
+[log (2017-03-16 10:13:27.039)]  Waiting for merge....56
+[log (2017-03-16 10:13:28.056)]  Waiting for merge....55
+[log (2017-03-16 10:13:51.426)]  Attempting to interface an Order
+[log (2017-03-16 10:13:51.428)]  inserting order header
+[log (2017-03-16 10:13:52.752)]  inserting order line
+[log (2017-03-16 10:13:52.829)]  inserting order line
+[log (2017-03-16 10:13:52.908)]  Waiting for merge....A000000182
+[log (2017-03-16 10:13:52.910)]  Waiting for merge....60
+[log (2017-03-16 10:13:53.960)]  Waiting for merge....59
+[log (2017-03-16 10:13:54.980)]  Waiting for merge....58
+[log (2017-03-16 10:13:55.998)]  Waiting for merge....57
+[log (2017-03-16 10:13:57.025)]  Waiting for merge....56
+[log (2017-03-16 10:14:53.225)]  Attempting to interface an Order
+[log (2017-03-16 10:14:53.227)]  inserting order header
+[log (2017-03-16 10:14:53.742)]  inserting order line
+[log (2017-03-16 10:14:54.484)]  inserting order line
+[log (2017-03-16 10:14:54.621)]  Waiting for merge....A000000182
+[log (2017-03-16 10:14:54.623)]  Waiting for merge....60
+[log (2017-03-16 10:14:55.669)]  Waiting for merge....59
+[log (2017-03-16 10:14:56.689)]  Waiting for merge....58
+[log (2017-03-16 10:14:57.709)]  Waiting for merge....57
+[log (2017-03-16 10:14:58.730)]  Waiting for merge....56
+[log (2017-03-16 10:14:59.752)]  Waiting for merge....55
+[log (2017-03-16 10:15:00.771)]  Waiting for merge....54
+[log (2017-03-16 10:15:01.792)]  Waiting for merge....53
+[log (2017-03-16 10:15:02.819)]  Waiting for merge....52
+[log (2017-03-16 10:15:03.838)]  Waiting for merge....51
+[log (2017-03-16 10:15:04.858)]  Waiting for merge....50
+[log (2017-03-16 10:15:05.879)]  Waiting for merge....49
+[log (2017-03-16 10:15:06.899)]  Waiting for merge....48
+[log (2017-03-16 10:15:07.917)]  Waiting for merge....47
+[log (2017-03-16 10:15:08.936)]  Waiting for merge....46
+[log (2017-03-16 10:15:09.957)]  Waiting for merge....45
+[log (2017-03-16 10:15:10.990)]  Order A000000182 merged
+[log (2017-03-16 10:15:11.190)]  Logging into the application
+[log (2017-03-16 10:15:11.192)]  Attempting to log into the application.
+[log (2017-03-16 11:16:35.234)]  Trying to insert Pre Advice
+[log (2017-03-16 11:16:35.237)]  inserting header file
+[log (2017-03-16 11:16:35.777)]  inserting line file
+[log (2017-03-16 11:16:35.983)]  Waiting for merge.....A000000216
+[log (2017-03-16 11:16:36.985)]  Waiting for merge.....70
+[log (2017-03-16 11:16:38.034)]  Waiting for merge.....69
+[log (2017-03-16 11:16:38.068)]  merged
+[log (2017-03-16 11:17:21.610)]  Creating C&E consignment:
+[log (2017-03-16 11:17:24.922)]  Failed to create consignment: FindFailed: can not find images/Menu/menuData.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 11:17:52.218)]  Creating C&E consignment:
+[log (2017-03-16 11:18:50.520)]  Creating C&E consignment:
+[log (2017-03-16 11:19:16.243)]  Trying to log into the RDT 
+[log (2017-03-16 11:19:23.475)]  Navigating to Pre-Advice Receiving
+[log (2017-03-16 11:19:24.271)]  Entering Pre-Advice ID
+[log (2017-03-16 11:19:25.967)]  Receiving PA Line 
+[log (2017-03-16 11:19:40.908)]  Failed to receive line!: 
+[log (2017-03-16 11:19:40.910)]  FindFailed: can not find images/rdt/paComplete.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 11:44:40.420)]  Attempting to interface an Order
+[log (2017-03-16 11:44:40.423)]  inserting order header
+[log (2017-03-16 11:44:40.873)]  inserting order line
+[log (2017-03-16 11:44:41.568)]  inserting order line
+[log (2017-03-16 11:44:41.706)]  Waiting for merge....A000000183
+[log (2017-03-16 11:44:41.708)]  Waiting for merge....60
+[log (2017-03-16 11:44:42.749)]  Waiting for merge....59
+[log (2017-03-16 11:44:43.769)]  Waiting for merge....58
+[log (2017-03-16 11:44:44.786)]  Waiting for merge....57
+[log (2017-03-16 11:44:45.807)]  Waiting for merge....56
+[log (2017-03-16 11:44:46.840)]  Waiting for merge....55
+[log (2017-03-16 11:44:47.864)]  Waiting for merge....54
+[log (2017-03-16 11:44:48.887)]  Waiting for merge....53
+[log (2017-03-16 11:44:49.910)]  Waiting for merge....52
+[log (2017-03-16 11:44:50.935)]  Waiting for merge....51
+[log (2017-03-16 11:44:51.954)]  Waiting for merge....50
+[log (2017-03-16 11:44:52.973)]  Waiting for merge....49
+[log (2017-03-16 11:44:53.991)]  Waiting for merge....48
+[log (2017-03-16 11:44:55.016)]  Waiting for merge....47
+[log (2017-03-16 11:44:56.036)]  Waiting for merge....46
+[log (2017-03-16 11:44:57.056)]  Waiting for merge....45
+[log (2017-03-16 11:44:58.076)]  Waiting for merge....44
+[log (2017-03-16 11:44:59.093)]  Waiting for merge....43
+[log (2017-03-16 11:45:00.113)]  Waiting for merge....42
+[log (2017-03-16 11:45:01.134)]  Waiting for merge....41
+[log (2017-03-16 11:45:02.153)]  Waiting for merge....40
+[log (2017-03-16 11:45:03.173)]  Waiting for merge....39
+[log (2017-03-16 11:45:04.193)]  Waiting for merge....38
+[log (2017-03-16 11:45:05.212)]  Waiting for merge....37
+[log (2017-03-16 11:45:06.232)]  Waiting for merge....36
+[log (2017-03-16 11:45:07.251)]  Waiting for merge....35
+[log (2017-03-16 11:45:08.273)]  Waiting for merge....34
+[log (2017-03-16 11:45:09.292)]  Waiting for merge....33
+[log (2017-03-16 11:45:10.312)]  Waiting for merge....32
+[log (2017-03-16 11:45:11.331)]  Waiting for merge....31
+[log (2017-03-16 11:45:12.355)]  Waiting for merge....30
+[log (2017-03-16 11:45:13.374)]  Waiting for merge....29
+[log (2017-03-16 11:45:14.397)]  Waiting for merge....28
+[log (2017-03-16 11:45:15.417)]  Waiting for merge....27
+[log (2017-03-16 11:45:16.455)]  Order A000000183 merged
+[log (2017-03-16 11:45:16.661)]  Logging into the application
+[log (2017-03-16 11:45:16.662)]  Attempting to log into the application.
+[log (2017-03-16 11:49:46.937)]  Creating C&E consignment:
+[log (2017-03-16 11:49:50.106)]  Failed to create consignment: FindFailed: can not find images/Menu/menuData.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 11:50:05.572)]  Trying to insert Pre Advice
+[log (2017-03-16 11:50:05.588)]  inserting header file
+[log (2017-03-16 11:50:06.009)]  inserting line file
+[log (2017-03-16 11:50:06.212)]  Waiting for merge.....A000000217
+[log (2017-03-16 11:50:07.226)]  Waiting for merge.....70
+[log (2017-03-16 11:50:07.288)]  merged
+[log (2017-03-16 11:58:20.738)]  Trying to insert Pre Advice
+[log (2017-03-16 11:58:20.753)]  inserting header file
+[log (2017-03-16 11:58:21.143)]  inserting line file
+[log (2017-03-16 11:58:21.315)]  Waiting for merge.....A000000218
+[log (2017-03-16 11:58:22.329)]  Waiting for merge.....70
+[log (2017-03-16 11:58:23.374)]  Waiting for merge.....69
+[log (2017-03-16 11:58:23.405)]  merged
+[log (2017-03-16 12:53:45.026)]  Attempting to interface an Order
+[log (2017-03-16 12:53:45.028)]  inserting order header
+[log (2017-03-16 12:53:45.545)]  inserting order line
+[log (2017-03-16 12:53:46.233)]  inserting order line
+[log (2017-03-16 12:53:46.375)]  Waiting for merge....A000000184
+[log (2017-03-16 12:53:46.378)]  Waiting for merge....60
+[log (2017-03-16 12:53:47.428)]  Waiting for merge....59
+[log (2017-03-16 12:53:48.446)]  Waiting for merge....58
+[log (2017-03-16 12:53:49.467)]  Waiting for merge....57
+[log (2017-03-16 12:53:50.487)]  Waiting for merge....56
+[log (2017-03-16 12:53:51.507)]  Waiting for merge....55
+[log (2017-03-16 12:53:52.528)]  Waiting for merge....54
+[log (2017-03-16 12:53:53.550)]  Waiting for merge....53
+[log (2017-03-16 12:53:54.570)]  Waiting for merge....52
+[log (2017-03-16 12:53:55.591)]  Waiting for merge....51
+[log (2017-03-16 12:53:56.611)]  Waiting for merge....50
+[log (2017-03-16 12:53:57.657)]  Waiting for merge....49
+[log (2017-03-16 12:53:58.676)]  Waiting for merge....48
+[log (2017-03-16 12:53:59.699)]  Waiting for merge....47
+[log (2017-03-16 12:54:00.717)]  Waiting for merge....46
+[log (2017-03-16 12:54:01.737)]  Waiting for merge....45
+[log (2017-03-16 12:54:02.756)]  Waiting for merge....44
+[log (2017-03-16 12:54:03.778)]  Waiting for merge....43
+[log (2017-03-16 12:54:04.797)]  Waiting for merge....42
+[log (2017-03-16 12:54:05.818)]  Waiting for merge....41
+[log (2017-03-16 12:54:06.837)]  Waiting for merge....40
+[log (2017-03-16 12:54:07.856)]  Waiting for merge....39
+[log (2017-03-16 12:54:08.877)]  Waiting for merge....38
+[log (2017-03-16 12:54:09.896)]  Waiting for merge....37
+[log (2017-03-16 12:54:10.915)]  Waiting for merge....36
+[log (2017-03-16 12:54:11.932)]  Waiting for merge....35
+[log (2017-03-16 12:54:12.950)]  Waiting for merge....34
+[log (2017-03-16 12:54:13.970)]  Waiting for merge....33
+[log (2017-03-16 12:54:14.989)]  Waiting for merge....32
+[log (2017-03-16 12:54:16.006)]  Waiting for merge....31
+[log (2017-03-16 12:54:17.026)]  Waiting for merge....30
+[log (2017-03-16 12:54:18.067)]  Order A000000184 merged
+[log (2017-03-16 12:54:18.312)]  Logging into the application
+[log (2017-03-16 12:54:18.313)]  Running Order Grouping
+[log (2017-03-16 12:54:24.797)]  Attempting Allocation 
+[log (2017-03-16 12:54:24.819)]  Allocate flag set
+[log (2017-03-16 12:54:25.821)]  Waiting for allocation....70
+[log (2017-03-16 12:54:26.845)]  Waiting for allocation....69
+[log (2017-03-16 12:54:27.863)]  Waiting for allocation....68
+[log (2017-03-16 12:54:28.884)]  Waiting for allocation....67
+[log (2017-03-16 12:54:29.904)]  Waiting for allocation....66
+[log (2017-03-16 12:54:30.923)]  Waiting for allocation....65
+[log (2017-03-16 12:54:31.941)]  Waiting for allocation....64
+[log (2017-03-16 12:54:32.959)]  Waiting for allocation....63
+[log (2017-03-16 12:54:33.977)]  Waiting for allocation....62
+[log (2017-03-16 12:54:34.996)]  Waiting for allocation....61
+[log (2017-03-16 12:54:36.015)]  Waiting for allocation....60
+[log (2017-03-16 12:54:37.033)]  Waiting for allocation....59
+[log (2017-03-16 12:54:38.053)]  Waiting for allocation....58
+[log (2017-03-16 12:54:39.073)]  Waiting for allocation....57
+[log (2017-03-16 12:54:40.095)]  Waiting for allocation....56
+[log (2017-03-16 12:54:41.114)]  Waiting for allocation....55
+[log (2017-03-16 12:54:42.132)]  Waiting for allocation....54
+[log (2017-03-16 12:54:43.151)]  Waiting for allocation....53
+[log (2017-03-16 12:54:44.175)]  Waiting for allocation....52
+[log (2017-03-16 12:54:45.194)]  Waiting for allocation....51
+[log (2017-03-16 12:54:46.212)]  Waiting for allocation....50
+[log (2017-03-16 12:54:47.231)]  Waiting for allocation....49
+[log (2017-03-16 12:54:48.255)]  Waiting for allocation....48
+[log (2017-03-16 12:54:49.275)]  Waiting for allocation....47
+[log (2017-03-16 12:54:50.294)]  Waiting for allocation....46
+[log (2017-03-16 12:54:51.314)]  Waiting for allocation....45
+[log (2017-03-16 12:54:52.332)]  Waiting for allocation....44
+[log (2017-03-16 12:54:53.353)]  Waiting for allocation....43
+[log (2017-03-16 12:54:54.371)]  Waiting for allocation....42
+[log (2017-03-16 12:54:55.389)]  Waiting for allocation....41
+[log (2017-03-16 12:54:56.411)]  Waiting for allocation....40
+[log (2017-03-16 12:54:57.430)]  Waiting for allocation....39
+[log (2017-03-16 12:54:58.447)]  Waiting for allocation....38
+[log (2017-03-16 12:54:59.518)]  Waiting for allocation....37
+[log (2017-03-16 12:55:00.535)]  Waiting for allocation....36
+[log (2017-03-16 13:05:21.491)]  Attempting to interface an Order
+[log (2017-03-16 13:05:21.492)]  inserting order header
+[log (2017-03-16 13:05:21.942)]  inserting order line
+[log (2017-03-16 13:05:22.139)]  inserting order line
+[log (2017-03-16 13:05:22.280)]  Waiting for merge....A000000185
+[log (2017-03-16 13:05:22.283)]  Waiting for merge....60
+[log (2017-03-16 13:05:23.335)]  Waiting for merge....59
+[log (2017-03-16 13:05:24.355)]  Waiting for merge....58
+[log (2017-03-16 13:05:25.374)]  Waiting for merge....57
+[log (2017-03-16 13:05:26.394)]  Waiting for merge....56
+[log (2017-03-16 13:05:27.414)]  Waiting for merge....55
+[log (2017-03-16 13:05:28.435)]  Waiting for merge....54
+[log (2017-03-16 13:05:29.457)]  Waiting for merge....53
+[log (2017-03-16 13:05:30.478)]  Waiting for merge....52
+[log (2017-03-16 13:05:31.504)]  Waiting for merge....51
+[log (2017-03-16 13:05:32.523)]  Waiting for merge....50
+[log (2017-03-16 13:05:33.549)]  Waiting for merge....49
+[log (2017-03-16 13:05:34.569)]  Waiting for merge....48
+[log (2017-03-16 13:05:35.589)]  Waiting for merge....47
+[log (2017-03-16 13:05:36.607)]  Waiting for merge....46
+[log (2017-03-16 13:05:37.626)]  Waiting for merge....45
+[log (2017-03-16 13:05:38.645)]  Waiting for merge....44
+[log (2017-03-16 13:05:39.687)]  Waiting for merge....43
+[log (2017-03-16 13:05:40.708)]  Waiting for merge....42
+[log (2017-03-16 13:05:41.728)]  Waiting for merge....41
+[log (2017-03-16 13:05:42.764)]  Waiting for merge....40
+[log (2017-03-16 13:05:43.783)]  Waiting for merge....39
+[log (2017-03-16 13:05:44.816)]  Waiting for merge....38
+[log (2017-03-16 13:05:45.840)]  Waiting for merge....37
+[log (2017-03-16 13:05:46.858)]  Waiting for merge....36
+[log (2017-03-16 13:05:47.878)]  Waiting for merge....35
+[log (2017-03-16 13:05:48.896)]  Waiting for merge....34
+[log (2017-03-16 13:05:49.916)]  Waiting for merge....33
+[log (2017-03-16 13:05:50.937)]  Waiting for merge....32
+[log (2017-03-16 13:05:51.955)]  Waiting for merge....31
+[log (2017-03-16 13:05:52.973)]  Waiting for merge....30
+[log (2017-03-16 13:05:53.992)]  Waiting for merge....29
+[log (2017-03-16 13:05:55.013)]  Waiting for merge....28
+[log (2017-03-16 13:05:56.032)]  Waiting for merge....27
+[log (2017-03-16 13:05:57.051)]  Waiting for merge....26
+[log (2017-03-16 13:05:58.079)]  Waiting for merge....25
+[log (2017-03-16 13:05:59.098)]  Waiting for merge....24
+[log (2017-03-16 13:06:00.117)]  Waiting for merge....23
+[log (2017-03-16 13:06:01.137)]  Waiting for merge....22
+[log (2017-03-16 13:06:02.156)]  Waiting for merge....21
+[log (2017-03-16 13:06:03.177)]  Waiting for merge....20
+[log (2017-03-16 13:06:04.195)]  Waiting for merge....19
+[log (2017-03-16 13:06:05.213)]  Waiting for merge....18
+[log (2017-03-16 13:06:06.233)]  Waiting for merge....17
+[log (2017-03-16 13:06:07.253)]  Waiting for merge....16
+[log (2017-03-16 13:06:08.271)]  Waiting for merge....15
+[log (2017-03-16 13:06:09.291)]  Waiting for merge....14
+[log (2017-03-16 13:06:10.309)]  Waiting for merge....13
+[log (2017-03-16 13:06:11.330)]  Waiting for merge....12
+[log (2017-03-16 13:06:12.353)]  Waiting for merge....11
+[log (2017-03-16 13:06:13.373)]  Waiting for merge....10
+[log (2017-03-16 13:06:14.391)]  Waiting for merge....9
+[log (2017-03-16 13:06:15.410)]  Waiting for merge....8
+[log (2017-03-16 13:06:16.430)]  Waiting for merge....7
+[log (2017-03-16 13:06:17.451)]  Waiting for merge....6
+[log (2017-03-16 13:06:18.490)]  Order A000000185 merged
+[log (2017-03-16 13:23:38.963)]  Attempting to interface an Order
+[log (2017-03-16 13:23:38.964)]  inserting order header
+[log (2017-03-16 13:23:39.397)]  inserting order line
+[log (2017-03-16 13:23:39.591)]  inserting order line
+[log (2017-03-16 13:23:39.729)]  Waiting for merge....A000000186
+[log (2017-03-16 13:23:39.731)]  Waiting for merge....60
+[log (2017-03-16 13:23:40.782)]  Waiting for merge....59
+[log (2017-03-16 13:23:41.803)]  Waiting for merge....58
+[log (2017-03-16 13:23:42.822)]  Waiting for merge....57
+[log (2017-03-16 13:23:43.841)]  Waiting for merge....56
+[log (2017-03-16 13:23:44.864)]  Waiting for merge....55
+[log (2017-03-16 13:23:45.885)]  Waiting for merge....54
+[log (2017-03-16 13:23:46.908)]  Waiting for merge....53
+[log (2017-03-16 13:23:47.929)]  Waiting for merge....52
+[log (2017-03-16 13:23:48.955)]  Waiting for merge....51
+[log (2017-03-16 13:23:49.973)]  Waiting for merge....50
+[log (2017-03-16 13:23:50.992)]  Waiting for merge....49
+[log (2017-03-16 13:23:52.011)]  Waiting for merge....48
+[log (2017-03-16 13:23:53.045)]  Waiting for merge....47
+[log (2017-03-16 13:23:54.064)]  Waiting for merge....46
+[log (2017-03-16 13:23:55.083)]  Waiting for merge....45
+[log (2017-03-16 13:23:56.103)]  Waiting for merge....44
+[log (2017-03-16 13:23:57.126)]  Waiting for merge....43
+[log (2017-03-16 13:23:58.147)]  Waiting for merge....42
+[log (2017-03-16 13:23:59.166)]  Waiting for merge....41
+[log (2017-03-16 13:24:00.185)]  Waiting for merge....40
+[log (2017-03-16 13:24:01.210)]  Waiting for merge....39
+[log (2017-03-16 13:24:02.230)]  Waiting for merge....38
+[log (2017-03-16 13:24:03.253)]  Waiting for merge....37
+[log (2017-03-16 13:24:04.304)]  Waiting for merge....36
+[log (2017-03-16 13:24:05.324)]  Waiting for merge....35
+[log (2017-03-16 13:24:06.344)]  Waiting for merge....34
+[log (2017-03-16 13:24:07.364)]  Waiting for merge....33
+[log (2017-03-16 13:24:08.383)]  Waiting for merge....32
+[log (2017-03-16 13:24:09.400)]  Waiting for merge....31
+[log (2017-03-16 13:24:10.419)]  Waiting for merge....30
+[log (2017-03-16 13:24:11.438)]  Waiting for merge....29
+[log (2017-03-16 13:24:12.458)]  Waiting for merge....28
+[log (2017-03-16 13:24:13.477)]  Waiting for merge....27
+[log (2017-03-16 13:24:14.496)]  Waiting for merge....26
+[log (2017-03-16 13:24:15.579)]  Waiting for merge....25
+[log (2017-03-16 13:24:16.600)]  Waiting for merge....24
+[log (2017-03-16 13:24:17.621)]  Waiting for merge....23
+[log (2017-03-16 13:24:18.640)]  Waiting for merge....22
+[log (2017-03-16 13:24:19.661)]  Waiting for merge....21
+[log (2017-03-16 13:24:20.684)]  Waiting for merge....20
+[log (2017-03-16 13:24:21.701)]  Waiting for merge....19
+[log (2017-03-16 13:24:22.721)]  Waiting for merge....18
+[log (2017-03-16 13:24:23.742)]  Waiting for merge....17
+[log (2017-03-16 13:24:24.760)]  Waiting for merge....16
+[log (2017-03-16 13:24:25.778)]  Waiting for merge....15
+[log (2017-03-16 13:24:26.842)]  Order A000000186 merged
+[log (2017-03-16 13:28:51.566)]  Attempting to interface an Order
+[log (2017-03-16 13:28:51.568)]  inserting order header
+[log (2017-03-16 13:28:52.087)]  inserting order line
+[log (2017-03-16 13:28:52.290)]  inserting order line
+[log (2017-03-16 13:28:52.442)]  Waiting for merge....A000000187
+[log (2017-03-16 13:28:52.444)]  Waiting for merge....60
+[log (2017-03-16 13:28:53.494)]  Waiting for merge....59
+[log (2017-03-16 13:28:54.515)]  Waiting for merge....58
+[log (2017-03-16 13:28:55.533)]  Waiting for merge....57
+[log (2017-03-16 13:28:56.551)]  Waiting for merge....56
+[log (2017-03-16 13:28:57.569)]  Waiting for merge....55
+[log (2017-03-16 13:28:58.589)]  Waiting for merge....54
+[log (2017-03-16 13:28:59.608)]  Waiting for merge....53
+[log (2017-03-16 13:29:00.627)]  Waiting for merge....52
+[log (2017-03-16 13:29:01.647)]  Waiting for merge....51
+[log (2017-03-16 13:29:02.665)]  Waiting for merge....50
+[log (2017-03-16 13:29:03.685)]  Waiting for merge....49
+[log (2017-03-16 13:29:04.705)]  Waiting for merge....48
+[log (2017-03-16 13:29:05.724)]  Waiting for merge....47
+[log (2017-03-16 13:29:06.742)]  Waiting for merge....46
+[log (2017-03-16 13:29:07.763)]  Waiting for merge....45
+[log (2017-03-16 13:29:08.780)]  Waiting for merge....44
+[log (2017-03-16 13:29:09.804)]  Waiting for merge....43
+[log (2017-03-16 13:29:10.823)]  Waiting for merge....42
+[log (2017-03-16 13:29:11.843)]  Waiting for merge....41
+[log (2017-03-16 13:29:12.863)]  Waiting for merge....40
+[log (2017-03-16 13:29:13.885)]  Waiting for merge....39
+[log (2017-03-16 13:29:14.904)]  Waiting for merge....38
+[log (2017-03-16 13:29:15.923)]  Waiting for merge....37
+[log (2017-03-16 13:29:16.944)]  Waiting for merge....36
+[log (2017-03-16 13:29:17.964)]  Waiting for merge....35
+[log (2017-03-16 13:29:18.983)]  Waiting for merge....34
+[log (2017-03-16 13:29:20.001)]  Waiting for merge....33
+[log (2017-03-16 13:29:21.023)]  Waiting for merge....32
+[log (2017-03-16 13:29:22.040)]  Waiting for merge....31
+[log (2017-03-16 13:29:23.058)]  Waiting for merge....30
+[log (2017-03-16 13:29:24.075)]  Waiting for merge....29
+[log (2017-03-16 13:29:25.092)]  Waiting for merge....28
+[log (2017-03-16 13:29:26.109)]  Waiting for merge....27
+[log (2017-03-16 13:29:27.127)]  Waiting for merge....26
+[log (2017-03-16 13:29:28.148)]  Waiting for merge....25
+[log (2017-03-16 13:29:29.166)]  Waiting for merge....24
+[log (2017-03-16 13:29:30.188)]  Waiting for merge....23
+[log (2017-03-16 13:29:31.208)]  Waiting for merge....22
+[log (2017-03-16 13:29:32.227)]  Waiting for merge....21
+[log (2017-03-16 13:29:33.245)]  Waiting for merge....20
+[log (2017-03-16 13:29:34.269)]  Waiting for merge....19
+[log (2017-03-16 13:29:35.303)]  Order A000000187 merged
+[log (2017-03-16 13:39:38.059)]  Attempting to interface an Order
+[log (2017-03-16 13:39:38.061)]  inserting order header
+[log (2017-03-16 13:39:38.993)]  inserting order line
+[log (2017-03-16 13:39:39.464)]  inserting order line
+[log (2017-03-16 13:39:39.658)]  Waiting for merge....A000000187
+[log (2017-03-16 13:39:39.660)]  Waiting for merge....60
+[log (2017-03-16 13:39:40.726)]  Waiting for merge....59
+[log (2017-03-16 13:39:41.747)]  Waiting for merge....58
+[log (2017-03-16 13:39:42.765)]  Waiting for merge....57
+[log (2017-03-16 13:39:43.785)]  Waiting for merge....56
+[log (2017-03-16 13:39:44.802)]  Waiting for merge....55
+[log (2017-03-16 13:39:45.821)]  Waiting for merge....54
+[log (2017-03-16 13:39:46.840)]  Waiting for merge....53
+[log (2017-03-16 13:39:47.864)]  Waiting for merge....52
+[log (2017-03-16 13:39:48.881)]  Waiting for merge....51
+[log (2017-03-16 13:39:49.901)]  Waiting for merge....50
+[log (2017-03-16 13:39:50.938)]  Waiting for merge....49
+[log (2017-03-16 13:39:51.962)]  Waiting for merge....48
+[log (2017-03-16 13:39:52.979)]  Waiting for merge....47
+[log (2017-03-16 13:39:53.997)]  Waiting for merge....46
+[log (2017-03-16 13:39:55.016)]  Waiting for merge....45
+[log (2017-03-16 13:39:56.035)]  Waiting for merge....44
+[log (2017-03-16 13:39:57.054)]  Waiting for merge....43
+[log (2017-03-16 13:39:58.330)]  Waiting for merge....42
+[log (2017-03-16 13:39:59.582)]  Waiting for merge....41
+[log (2017-03-16 13:40:00.602)]  Waiting for merge....40
+[log (2017-03-16 13:40:01.625)]  Waiting for merge....39
+[log (2017-03-16 13:40:02.642)]  Waiting for merge....38
+[log (2017-03-16 13:40:03.659)]  Waiting for merge....37
+[log (2017-03-16 13:40:04.677)]  Waiting for merge....36
+[log (2017-03-16 13:40:05.694)]  Waiting for merge....35
+[log (2017-03-16 13:40:06.712)]  Waiting for merge....34
+[log (2017-03-16 13:40:07.740)]  Waiting for merge....33
+[log (2017-03-16 13:40:08.761)]  Waiting for merge....32
+[log (2017-03-16 13:40:09.781)]  Waiting for merge....31
+[log (2017-03-16 13:40:10.799)]  Waiting for merge....30
+[log (2017-03-16 13:40:11.816)]  Waiting for merge....29
+[log (2017-03-16 13:40:12.835)]  Waiting for merge....28
+[log (2017-03-16 13:40:13.855)]  Waiting for merge....27
+[log (2017-03-16 13:40:14.874)]  Waiting for merge....26
+[log (2017-03-16 13:40:15.892)]  Waiting for merge....25
+[log (2017-03-16 13:40:16.914)]  Waiting for merge....24
+[log (2017-03-16 13:40:17.932)]  Waiting for merge....23
+[log (2017-03-16 13:40:18.955)]  Waiting for merge....22
+[log (2017-03-16 13:40:19.974)]  Waiting for merge....21
+[log (2017-03-16 13:40:20.992)]  Waiting for merge....20
+[log (2017-03-16 13:40:22.020)]  Waiting for merge....19
+[log (2017-03-16 13:40:23.038)]  Waiting for merge....18
+[log (2017-03-16 13:40:24.055)]  Waiting for merge....17
+[log (2017-03-16 13:40:25.085)]  Waiting for merge....16
+[log (2017-03-16 13:40:26.104)]  Waiting for merge....15
+[log (2017-03-16 13:40:27.122)]  Waiting for merge....14
+[log (2017-03-16 13:40:28.138)]  Waiting for merge....13
+[log (2017-03-16 13:40:29.157)]  Waiting for merge....12
+[log (2017-03-16 13:40:30.177)]  Waiting for merge....11
+[log (2017-03-16 13:40:31.193)]  Waiting for merge....10
+[log (2017-03-16 13:40:32.212)]  Waiting for merge....9
+[log (2017-03-16 13:40:33.230)]  Waiting for merge....8
+[log (2017-03-16 13:40:34.249)]  Waiting for merge....7
+[log (2017-03-16 13:40:35.283)]  Order A000000187 merged
+[log (2017-03-16 14:03:24.634)]  Attempting to interface an Order
+[log (2017-03-16 14:03:24.639)]  inserting order header
+[log (2017-03-16 14:03:25.538)]  inserting order line
+[log (2017-03-16 14:03:25.688)]  inserting order line
+[log (2017-03-16 14:03:25.796)]  Waiting for merge....A000000188
+[log (2017-03-16 14:03:25.800)]  Waiting for merge....60
+[log (2017-03-16 14:03:26.857)]  Waiting for merge....59
+[log (2017-03-16 14:03:27.878)]  Waiting for merge....58
+[log (2017-03-16 14:03:28.896)]  Waiting for merge....57
+[log (2017-03-16 14:03:29.914)]  Waiting for merge....56
+[log (2017-03-16 14:03:30.932)]  Waiting for merge....55
+[log (2017-03-16 14:03:31.950)]  Waiting for merge....54
+[log (2017-03-16 14:03:32.969)]  Waiting for merge....53
+[log (2017-03-16 14:03:33.993)]  Waiting for merge....52
+[log (2017-03-16 14:03:35.013)]  Waiting for merge....51
+[log (2017-03-16 14:03:36.048)]  Order A000000188 merged
+[log (2017-03-16 14:16:04.687)]  Attempting to interface an Order
+[log (2017-03-16 14:16:04.689)]  inserting order header
+[log (2017-03-16 14:16:05.129)]  inserting order line
+[log (2017-03-16 14:16:05.302)]  Waiting for merge....A000000189
+[log (2017-03-16 14:16:05.303)]  Waiting for merge....60
+[log (2017-03-16 14:16:06.367)]  Waiting for merge....59
+[log (2017-03-16 14:16:07.387)]  Waiting for merge....58
+[log (2017-03-16 14:16:08.406)]  Waiting for merge....57
+[log (2017-03-16 14:16:09.426)]  Waiting for merge....56
+[log (2017-03-16 14:16:10.449)]  Waiting for merge....55
+[log (2017-03-16 14:16:11.469)]  Waiting for merge....54
+[log (2017-03-16 14:16:12.486)]  Waiting for merge....53
+[log (2017-03-16 14:16:13.505)]  Waiting for merge....52
+[log (2017-03-16 14:16:14.524)]  Waiting for merge....51
+[log (2017-03-16 14:16:15.544)]  Waiting for merge....50
+[log (2017-03-16 14:16:16.566)]  Waiting for merge....49
+[log (2017-03-16 14:16:17.586)]  Waiting for merge....48
+[log (2017-03-16 14:16:18.604)]  Waiting for merge....47
+[log (2017-03-16 14:16:19.625)]  Waiting for merge....46
+[log (2017-03-16 14:16:20.644)]  Waiting for merge....45
+[log (2017-03-16 14:16:21.666)]  Waiting for merge....44
+[log (2017-03-16 14:16:22.686)]  Waiting for merge....43
+[log (2017-03-16 14:16:23.705)]  Waiting for merge....42
+[log (2017-03-16 14:16:24.725)]  Waiting for merge....41
+[log (2017-03-16 14:16:25.747)]  Waiting for merge....40
+[log (2017-03-16 14:16:26.766)]  Waiting for merge....39
+[log (2017-03-16 14:16:27.785)]  Waiting for merge....38
+[log (2017-03-16 14:16:28.804)]  Waiting for merge....37
+[log (2017-03-16 14:16:29.822)]  Waiting for merge....36
+[log (2017-03-16 14:16:30.842)]  Waiting for merge....35
+[log (2017-03-16 14:16:31.863)]  Waiting for merge....34
+[log (2017-03-16 14:16:32.880)]  Waiting for merge....33
+[log (2017-03-16 14:16:33.899)]  Waiting for merge....32
+[log (2017-03-16 14:16:34.929)]  Waiting for merge....31
+[log (2017-03-16 14:16:35.964)]  Order A000000189 merged
+[log (2017-03-16 14:18:18.062)]  Attempting to interface an Order
+[log (2017-03-16 14:18:18.063)]  inserting order header
+[log (2017-03-16 14:18:18.484)]  inserting order line
+[log (2017-03-16 14:18:18.656)]  Waiting for merge....A000000190
+[log (2017-03-16 14:18:18.660)]  Waiting for merge....60
+[log (2017-03-16 14:18:19.720)]  Waiting for merge....59
+[log (2017-03-16 14:18:20.739)]  Waiting for merge....58
+[log (2017-03-16 14:18:21.757)]  Waiting for merge....57
+[log (2017-03-16 14:18:22.776)]  Waiting for merge....56
+[log (2017-03-16 14:18:23.796)]  Waiting for merge....55
+[log (2017-03-16 14:18:24.815)]  Waiting for merge....54
+[log (2017-03-16 14:18:25.834)]  Waiting for merge....53
+[log (2017-03-16 14:18:26.858)]  Waiting for merge....52
+[log (2017-03-16 14:18:27.878)]  Waiting for merge....51
+[log (2017-03-16 14:18:28.897)]  Waiting for merge....50
+[log (2017-03-16 14:18:29.919)]  Waiting for merge....49
+[log (2017-03-16 14:18:30.939)]  Waiting for merge....48
+[log (2017-03-16 14:18:31.959)]  Waiting for merge....47
+[log (2017-03-16 14:18:32.979)]  Waiting for merge....46
+[log (2017-03-16 14:18:33.997)]  Waiting for merge....45
+[log (2017-03-16 14:18:35.017)]  Waiting for merge....44
+[log (2017-03-16 14:18:36.051)]  Order A000000190 merged
+[log (2017-03-16 14:21:23.508)]  Attempting to interface an Order
+[log (2017-03-16 14:21:23.510)]  inserting order header
+[log (2017-03-16 14:21:23.941)]  inserting order line
+[log (2017-03-16 14:21:24.119)]  Waiting for merge....A000000191
+[log (2017-03-16 14:21:24.122)]  Waiting for merge....60
+[log (2017-03-16 14:21:25.193)]  Waiting for merge....59
+[log (2017-03-16 14:21:26.212)]  Waiting for merge....58
+[log (2017-03-16 14:21:27.233)]  Waiting for merge....57
+[log (2017-03-16 14:21:28.251)]  Waiting for merge....56
+[log (2017-03-16 14:21:29.269)]  Waiting for merge....55
+[log (2017-03-16 14:21:30.288)]  Waiting for merge....54
+[log (2017-03-16 14:21:31.306)]  Waiting for merge....53
+[log (2017-03-16 14:21:32.328)]  Waiting for merge....52
+[log (2017-03-16 14:21:33.349)]  Waiting for merge....51
+[log (2017-03-16 14:21:34.368)]  Waiting for merge....50
+[log (2017-03-16 14:21:35.389)]  Waiting for merge....49
+[log (2017-03-16 14:21:36.424)]  Order A000000191 merged
+[log (2017-03-16 14:45:27.500)]  Attempting to interface an Order
+[log (2017-03-16 14:45:27.503)]  inserting order header
+[log (2017-03-16 14:45:53.885)]  inserting order line
+[log (2017-03-16 14:46:54.721)]  Waiting for merge....A000000191
+[log (2017-03-16 14:47:05.760)]  Attempting to interface an Order
+[log (2017-03-16 14:47:05.762)]  inserting order header
+[log (2017-03-16 14:47:06.188)]  inserting order line
+[log (2017-03-16 14:47:06.341)]  Waiting for merge....A000000191
+[log (2017-03-16 14:47:06.343)]  Waiting for merge....60
+[log (2017-03-16 14:47:07.391)]  Order A000000191 merged
+[log (2017-03-16 14:52:04.523)]  Attempting to interface an Order
+[log (2017-03-16 14:52:04.524)]  inserting order header
+[log (2017-03-16 14:52:04.992)]  inserting order line
+[log (2017-03-16 14:52:05.182)]  Waiting for merge....A000000191
+[log (2017-03-16 14:52:05.184)]  Waiting for merge....60
+[log (2017-03-16 14:52:06.235)]  Waiting for merge....59
+[log (2017-03-16 14:52:07.253)]  Waiting for merge....58
+[log (2017-03-16 14:52:08.273)]  Waiting for merge....57
+[log (2017-03-16 14:52:45.674)]  Attempting to interface an Order
+[log (2017-03-16 14:52:45.676)]  inserting order header
+[log (2017-03-16 14:52:46.163)]  inserting order line
+[log (2017-03-16 14:52:46.358)]  inserting order line
+[log (2017-03-16 14:52:46.493)]  Waiting for merge....A000000191
+[log (2017-03-16 14:52:46.495)]  Waiting for merge....60
+[log (2017-03-16 14:52:47.538)]  Waiting for merge....59
+[log (2017-03-16 14:52:48.557)]  Waiting for merge....58
+[log (2017-03-16 14:52:49.578)]  Waiting for merge....57
+[log (2017-03-16 14:52:50.612)]  Order A000000191 merged
+[log (2017-03-16 14:56:12.790)]  Attempting to interface an Order
+[log (2017-03-16 14:56:12.792)]  inserting order header
+[log (2017-03-16 14:56:13.222)]  inserting order line
+[log (2017-03-16 14:56:13.411)]  inserting order line
+[log (2017-03-16 14:56:13.548)]  Waiting for merge....A000000192
+[log (2017-03-16 14:56:13.552)]  Waiting for merge....60
+[log (2017-03-16 14:56:14.591)]  Waiting for merge....59
+[log (2017-03-16 14:56:15.611)]  Waiting for merge....58
+[log (2017-03-16 14:56:16.630)]  Waiting for merge....57
+[log (2017-03-16 14:56:17.648)]  Waiting for merge....56
+[log (2017-03-16 14:56:18.670)]  Waiting for merge....55
+[log (2017-03-16 14:56:19.690)]  Waiting for merge....54
+[log (2017-03-16 14:56:20.710)]  Waiting for merge....53
+[log (2017-03-16 14:56:21.731)]  Waiting for merge....52
+[log (2017-03-16 14:56:22.755)]  Waiting for merge....51
+[log (2017-03-16 14:56:23.774)]  Waiting for merge....50
+[log (2017-03-16 14:56:24.797)]  Waiting for merge....49
+[log (2017-03-16 14:56:25.816)]  Waiting for merge....48
+[log (2017-03-16 14:56:26.835)]  Waiting for merge....47
+[log (2017-03-16 14:56:27.856)]  Waiting for merge....46
+[log (2017-03-16 14:56:28.879)]  Waiting for merge....45
+[log (2017-03-16 14:56:29.898)]  Waiting for merge....44
+[log (2017-03-16 14:56:30.917)]  Waiting for merge....43
+[log (2017-03-16 14:56:31.935)]  Waiting for merge....42
+[log (2017-03-16 14:56:32.953)]  Waiting for merge....41
+[log (2017-03-16 14:56:33.978)]  Waiting for merge....40
+[log (2017-03-16 14:56:34.996)]  Waiting for merge....39
+[log (2017-03-16 14:56:36.016)]  Waiting for merge....38
+[log (2017-03-16 14:56:37.035)]  Waiting for merge....37
+[log (2017-03-16 14:56:38.054)]  Waiting for merge....36
+[log (2017-03-16 14:56:39.073)]  Waiting for merge....35
+[log (2017-03-16 14:56:40.093)]  Waiting for merge....34
+[log (2017-03-16 14:56:41.113)]  Waiting for merge....33
+[log (2017-03-16 14:56:42.135)]  Waiting for merge....32
+[log (2017-03-16 14:56:43.154)]  Waiting for merge....31
+[log (2017-03-16 14:56:44.173)]  Waiting for merge....30
+[log (2017-03-16 14:56:45.192)]  Waiting for merge....29
+[log (2017-03-16 14:56:46.211)]  Waiting for merge....28
+[log (2017-03-16 14:56:47.230)]  Waiting for merge....27
+[log (2017-03-16 14:56:48.253)]  Waiting for merge....26
+[log (2017-03-16 14:56:49.276)]  Waiting for merge....25
+[log (2017-03-16 14:56:50.296)]  Waiting for merge....24
+[log (2017-03-16 14:56:51.335)]  Order A000000192 merged
+[log (2017-03-16 15:04:56.581)]  Attempting to interface an Order
+[log (2017-03-16 15:04:56.582)]  inserting order header
+[log (2017-03-16 15:04:57.046)]  inserting order line
+[log (2017-03-16 15:04:57.232)]  inserting order line
+[log (2017-03-16 15:04:57.367)]  Waiting for merge....A000000193
+[log (2017-03-16 15:04:57.369)]  Waiting for merge....60
+[log (2017-03-16 15:04:58.413)]  Waiting for merge....59
+[log (2017-03-16 15:04:59.432)]  Waiting for merge....58
+[log (2017-03-16 15:05:00.499)]  Waiting for merge....57
+[log (2017-03-16 15:05:01.786)]  Waiting for merge....56
+[log (2017-03-16 15:05:03.035)]  Waiting for merge....55
+[log (2017-03-16 15:05:04.053)]  Waiting for merge....54
+[log (2017-03-16 15:05:05.073)]  Waiting for merge....53
+[log (2017-03-16 15:05:06.093)]  Waiting for merge....52
+[log (2017-03-16 15:05:07.112)]  Waiting for merge....51
+[log (2017-03-16 15:05:08.131)]  Waiting for merge....50
+[log (2017-03-16 15:05:09.151)]  Waiting for merge....49
+[log (2017-03-16 15:05:10.174)]  Waiting for merge....48
+[log (2017-03-16 15:05:11.194)]  Waiting for merge....47
+[log (2017-03-16 15:05:12.213)]  Waiting for merge....46
+[log (2017-03-16 15:05:13.233)]  Waiting for merge....45
+[log (2017-03-16 15:05:14.253)]  Waiting for merge....44
+[log (2017-03-16 15:05:15.274)]  Waiting for merge....43
+[log (2017-03-16 15:05:16.294)]  Waiting for merge....42
+[log (2017-03-16 15:05:17.322)]  Waiting for merge....41
+[log (2017-03-16 15:05:18.343)]  Waiting for merge....40
+[log (2017-03-16 15:05:19.369)]  Waiting for merge....39
+[log (2017-03-16 15:05:20.390)]  Waiting for merge....38
+[log (2017-03-16 15:05:21.411)]  Waiting for merge....37
+[log (2017-03-16 15:05:22.430)]  Waiting for merge....36
+[log (2017-03-16 15:05:23.449)]  Waiting for merge....35
+[log (2017-03-16 15:05:24.469)]  Waiting for merge....34
+[log (2017-03-16 15:05:25.489)]  Waiting for merge....33
+[log (2017-03-16 15:05:26.507)]  Waiting for merge....32
+[log (2017-03-16 15:05:27.526)]  Waiting for merge....31
+[log (2017-03-16 15:05:28.546)]  Waiting for merge....30
+[log (2017-03-16 15:05:29.566)]  Waiting for merge....29
+[log (2017-03-16 15:05:30.586)]  Waiting for merge....28
+[log (2017-03-16 15:05:31.606)]  Waiting for merge....27
+[log (2017-03-16 15:05:32.626)]  Waiting for merge....26
+[log (2017-03-16 15:05:33.646)]  Waiting for merge....25
+[log (2017-03-16 15:05:34.666)]  Waiting for merge....24
+[log (2017-03-16 15:05:35.685)]  Waiting for merge....23
+[log (2017-03-16 15:05:36.705)]  Waiting for merge....22
+[log (2017-03-16 15:05:37.722)]  Waiting for merge....21
+[log (2017-03-16 15:05:38.741)]  Waiting for merge....20
+[log (2017-03-16 15:05:39.761)]  Waiting for merge....19
+[log (2017-03-16 15:05:40.782)]  Waiting for merge....18
+[log (2017-03-16 15:05:41.801)]  Waiting for merge....17
+[log (2017-03-16 15:05:42.819)]  Waiting for merge....16
+[log (2017-03-16 15:05:43.838)]  Waiting for merge....15
+[log (2017-03-16 15:05:44.857)]  Waiting for merge....14
+[log (2017-03-16 15:05:45.877)]  Waiting for merge....13
+[log (2017-03-16 15:05:46.895)]  Waiting for merge....12
+[log (2017-03-16 15:05:47.915)]  Waiting for merge....11
+[log (2017-03-16 15:05:48.933)]  Waiting for merge....10
+[log (2017-03-16 15:05:49.956)]  Waiting for merge....9
+[log (2017-03-16 15:05:50.975)]  Waiting for merge....8
+[log (2017-03-16 15:05:52.017)]  Order A000000193 merged
+[log (2017-03-16 15:33:29.369)]  Attempting to interface an Order
+[log (2017-03-16 15:33:29.372)]  inserting order header
+[log (2017-03-16 15:33:30.878)]  inserting order line
+[log (2017-03-16 15:33:31.072)]  inserting order line
+[log (2017-03-16 15:33:31.211)]  Waiting for merge....A000000193
+[log (2017-03-16 15:33:31.214)]  Waiting for merge....60
+[log (2017-03-16 15:33:32.269)]  Order A000000193 merged
+[log (2017-03-16 15:34:06.857)]  Attempting to interface an Order
+[log (2017-03-16 15:34:06.859)]  inserting order header
+[log (2017-03-16 15:34:08.543)]  inserting order line
+[log (2017-03-16 15:34:08.737)]  inserting order line
+[log (2017-03-16 15:34:08.884)]  Waiting for merge....A000000193
+[log (2017-03-16 15:34:08.889)]  Waiting for merge....60
+[log (2017-03-16 15:34:09.963)]  Order A000000193 merged
+[log (2017-03-16 15:34:59.020)]  Attempting to interface an Order
+[log (2017-03-16 15:34:59.036)]  inserting order header
+[log (2017-03-16 15:35:02.399)]  inserting order line
+[log (2017-03-16 15:35:02.654)]  inserting order line
+[log (2017-03-16 15:35:02.839)]  Waiting for merge....A000000193
+[log (2017-03-16 15:35:02.849)]  Waiting for merge....60
+[log (2017-03-16 15:35:03.951)]  Order A000000193 merged
+[log (2017-03-16 15:35:47.850)]  Attempting to interface an Order
+[log (2017-03-16 15:35:47.852)]  inserting order header
+[log (2017-03-16 15:36:09.950)]  inserting order line
+[log (2017-03-16 15:37:12.711)]  Attempting to interface an Order
+[log (2017-03-16 15:37:12.713)]  inserting order header
+[log (2017-03-16 15:37:14.188)]  inserting order line
+[log (2017-03-16 15:37:14.391)]  inserting order line
+[log (2017-03-16 15:38:34.748)]  Attempting to interface an Order
+[log (2017-03-16 15:38:34.749)]  inserting order header
+[log (2017-03-16 15:38:36.232)]  inserting order line
+[log (2017-03-16 15:39:15.427)]  Attempting to interface an Order
+[log (2017-03-16 15:39:15.428)]  inserting order header
+[log (2017-03-16 15:39:16.879)]  inserting order line
+[log (2017-03-16 15:39:17.081)]  Waiting for merge....A000000193
+[log (2017-03-16 15:39:17.082)]  Waiting for merge....60
+[log (2017-03-16 15:39:18.133)]  Order A000000193 merged
+[log (2017-03-16 15:42:52.323)]  Attempting to interface an Order
+[log (2017-03-16 15:42:52.324)]  inserting order header
+[log (2017-03-16 15:42:52.787)]  inserting order header
+[log (2017-03-16 15:42:53.027)]  inserting order header
+[log (2017-03-16 15:42:54.275)]  inserting order line
+[log (2017-03-16 15:42:54.472)]  Waiting for merge....A000000193
+[log (2017-03-16 15:42:54.474)]  Waiting for merge....60
+[log (2017-03-16 15:42:55.516)]  Order A000000193 merged
+[log (2017-03-16 15:42:55.517)]  Waiting for merge....
+[log (2017-03-16 15:42:55.519)]  Waiting for merge....60
+[log (2017-03-16 15:42:56.544)]  Waiting for merge....59
+[log (2017-03-16 15:42:57.563)]  Waiting for merge....58
+[log (2017-03-16 15:42:58.581)]  Waiting for merge....57
+[log (2017-03-16 15:42:59.598)]  Waiting for merge....56
+[log (2017-03-16 15:43:42.029)]  Attempting to interface an Order
+[log (2017-03-16 15:43:42.031)]  inserting order header
+[log (2017-03-16 15:43:42.499)]  inserting order header
+[log (2017-03-16 15:43:43.723)]  inserting order line
+[log (2017-03-16 15:43:43.950)]  Waiting for merge....A000000193
+[log (2017-03-16 15:43:43.954)]  Waiting for merge....60
+[log (2017-03-16 15:43:44.999)]  Order A000000193 merged
+[log (2017-03-16 15:43:45.000)]  Waiting for merge....
+[log (2017-03-16 15:43:45.001)]  Waiting for merge....60
+[log (2017-03-16 15:43:46.021)]  Waiting for merge....59
+[log (2017-03-16 15:43:47.040)]  Waiting for merge....58
+[log (2017-03-16 15:43:48.060)]  Waiting for merge....57
+[log (2017-03-16 15:43:49.082)]  Waiting for merge....56
+[log (2017-03-16 15:43:50.115)]  Waiting for merge....55
+[log (2017-03-16 15:43:51.135)]  Waiting for merge....54
+[log (2017-03-16 15:43:52.155)]  Waiting for merge....53
+[log (2017-03-16 15:46:05.741)]  Attempting to interface an Order
+[log (2017-03-16 15:46:05.741)]  inserting order header
+[log (2017-03-16 15:46:07.239)]  inserting order line
+[log (2017-03-16 15:46:07.426)]  Waiting for merge....A000000193
+[log (2017-03-16 15:46:07.442)]  Waiting for merge....60
+[log (2017-03-16 15:46:08.502)]  Order A000000193 merged
+[log (2017-03-16 15:53:47.820)]  Attempting to interface an Order
+[log (2017-03-16 15:53:47.820)]  inserting order header
+[log (2017-03-16 15:53:48.210)]  inserting order header
+[log (2017-03-16 15:53:48.397)]  inserting order header
+[log (2017-03-16 15:53:48.584)]  inserting order header
+[log (2017-03-16 15:53:48.803)]  inserting order header
+[log (2017-03-16 15:53:49.988)]  inserting order line
+[log (2017-03-16 15:53:50.784)]  Waiting for merge....A000000200
+[log (2017-03-16 15:53:50.800)]  Waiting for merge....60
+[log (2017-03-16 15:53:51.923)]  Waiting for merge....59
+[log (2017-03-16 15:53:52.952)]  Waiting for merge....58
+[log (2017-03-16 15:53:53.982)]  Waiting for merge....57
+[log (2017-03-16 15:53:55.012)]  Waiting for merge....56
+[log (2017-03-16 15:53:56.041)]  Waiting for merge....55
+[log (2017-03-16 15:53:57.057)]  Waiting for merge....54
+[log (2017-03-16 15:53:58.087)]  Waiting for merge....53
+[log (2017-03-16 15:53:59.132)]  Waiting for merge....52
+[log (2017-03-16 15:54:00.162)]  Waiting for merge....51
+[log (2017-03-16 15:54:01.191)]  Waiting for merge....50
+[log (2017-03-16 15:54:02.221)]  Waiting for merge....49
+[log (2017-03-16 15:54:03.258)]  Waiting for merge....48
+[log (2017-03-16 15:54:04.288)]  Waiting for merge....47
+[log (2017-03-16 15:54:05.318)]  Waiting for merge....46
+[log (2017-03-16 15:54:06.347)]  Waiting for merge....45
+[log (2017-03-16 15:54:07.377)]  Waiting for merge....44
+[log (2017-03-16 15:54:08.407)]  Waiting for merge....43
+[log (2017-03-16 15:54:09.436)]  Waiting for merge....42
+[log (2017-03-16 15:54:10.466)]  Waiting for merge....41
+[log (2017-03-16 15:54:11.495)]  Waiting for merge....40
+[log (2017-03-16 15:54:12.525)]  Waiting for merge....39
+[log (2017-03-16 15:54:13.555)]  Waiting for merge....38
+[log (2017-03-16 15:54:14.584)]  Waiting for merge....37
+[log (2017-03-16 15:54:15.614)]  Waiting for merge....36
+[log (2017-03-16 15:54:16.643)]  Waiting for merge....35
+[log (2017-03-16 15:54:17.673)]  Waiting for merge....34
+[log (2017-03-16 15:54:18.690)]  Waiting for merge....33
+[log (2017-03-16 15:54:19.720)]  Waiting for merge....32
+[log (2017-03-16 15:54:20.749)]  Waiting for merge....31
+[log (2017-03-16 15:54:21.779)]  Waiting for merge....30
+[log (2017-03-16 15:54:22.808)]  Waiting for merge....29
+[log (2017-03-16 15:54:23.838)]  Waiting for merge....28
+[log (2017-03-16 15:54:24.868)]  Waiting for merge....27
+[log (2017-03-16 15:54:25.897)]  Waiting for merge....26
+[log (2017-03-16 15:54:26.942)]  Waiting for merge....25
+[log (2017-03-16 15:54:27.958)]  Waiting for merge....24
+[log (2017-03-16 15:54:28.988)]  Waiting for merge....23
+[log (2017-03-16 15:54:30.018)]  Waiting for merge....22
+[log (2017-03-16 15:54:31.047)]  Waiting for merge....21
+[log (2017-03-16 15:54:32.077)]  Waiting for merge....20
+[log (2017-03-16 15:54:33.106)]  Waiting for merge....19
+[log (2017-03-16 15:54:34.136)]  Waiting for merge....18
+[log (2017-03-16 15:54:35.166)]  Waiting for merge....17
+[log (2017-03-16 15:54:36.195)]  Waiting for merge....16
+[log (2017-03-16 15:54:37.241)]  Order A000000200 merged
+[log (2017-03-16 15:54:37.460)]  Logging into the application
+[log (2017-03-16 15:54:37.460)]  Attempting to log into the application.
+[log (2017-03-16 15:54:45.954)]  Login successful
+[log (2017-03-16 15:54:45.954)]  Running Order Grouping
+[log (2017-03-16 15:56:49.205)]  Attempting to interface an Order
+[log (2017-03-16 15:56:49.205)]  inserting order header
+[log (2017-03-16 15:56:49.563)]  inserting order header
+[log (2017-03-16 15:56:49.751)]  inserting order header
+[log (2017-03-16 15:56:49.938)]  inserting order header
+[log (2017-03-16 15:56:50.125)]  inserting order header
+[log (2017-03-16 15:56:51.326)]  inserting order line
+[log (2017-03-16 15:56:51.841)]  Waiting for merge....A000000200
+[log (2017-03-16 15:56:51.841)]  Waiting for merge....60
+[log (2017-03-16 15:56:52.935)]  Order A000000200 merged
+[log (2017-03-16 15:56:53.185)]  Logging into the application
+[log (2017-03-16 15:56:53.185)]  Attempting to log into the application.
+[log (2017-03-16 15:58:49.169)]  Attempting to interface an Order
+[log (2017-03-16 15:58:49.169)]  inserting order header
+[log (2017-03-16 15:58:49.761)]  inserting order header
+[log (2017-03-16 15:58:49.949)]  inserting order header
+[log (2017-03-16 15:58:50.136)]  inserting order header
+[log (2017-03-16 15:58:50.963)]  inserting order header
+[log (2017-03-16 15:59:03.240)]  inserting order line
+[log (2017-03-16 15:59:40.320)]  Attempting to interface an Order
+[log (2017-03-16 15:59:40.320)]  inserting order header
+[log (2017-03-16 15:59:40.725)]  inserting order header
+[log (2017-03-16 15:59:40.913)]  inserting order header
+[log (2017-03-16 15:59:41.100)]  inserting order header
+[log (2017-03-16 15:59:41.334)]  inserting order header
+[log (2017-03-16 15:59:42.535)]  inserting order line
+[log (2017-03-16 15:59:42.691)]  Waiting for merge....A000000200
+[log (2017-03-16 15:59:42.691)]  Waiting for merge....60
+[log (2017-03-16 15:59:43.767)]  Order A000000200 merged
+[log (2017-03-16 15:59:43.987)]  Logging into the application
+[log (2017-03-16 15:59:43.987)]  Attempting to log into the application.
+[log (2017-03-16 16:00:16.146)]  Attempting to interface an Order
+[log (2017-03-16 16:00:16.146)]  inserting order header
+[log (2017-03-16 16:00:16.724)]  inserting order header
+[log (2017-03-16 16:00:16.911)]  inserting order header
+[log (2017-03-16 16:00:17.114)]  inserting order header
+[log (2017-03-16 16:00:17.316)]  inserting order header
+[log (2017-03-16 16:00:43.501)]  inserting order line
+[log (2017-03-16 16:03:39.830)]  Attempting to interface an Order
+[log (2017-03-16 16:03:39.830)]  inserting order header
+[log (2017-03-16 16:03:40.221)]  inserting order header
+[log (2017-03-16 16:03:40.423)]  inserting order header
+[log (2017-03-16 16:03:40.611)]  inserting order header
+[log (2017-03-16 16:03:40.813)]  inserting order header
+[log (2017-03-16 16:03:42.015)]  inserting order line
+[log (2017-03-16 16:03:42.171)]  Waiting for merge....A000000200
+[log (2017-03-16 16:03:42.171)]  Waiting for merge....60
+[log (2017-03-16 16:03:43.210)]  Order A000000200 merged
+[log (2017-03-16 16:03:43.412)]  Logging into the application
+[log (2017-03-16 16:03:43.428)]  Attempting to log into the application.
+[log (2017-03-16 16:04:55.195)]  Attempting to interface an Order
+[log (2017-03-16 16:04:55.211)]  inserting order header
+[log (2017-03-16 16:04:55.585)]  inserting order header
+[log (2017-03-16 16:04:55.804)]  inserting order header
+[log (2017-03-16 16:04:55.991)]  inserting order header
+[log (2017-03-16 16:04:56.194)]  inserting order header
+[log (2017-03-16 16:04:57.395)]  inserting order line
+[log (2017-03-16 16:04:57.551)]  Waiting for merge....A000000205
+[log (2017-03-16 16:04:57.567)]  Waiting for merge....60
+[log (2017-03-16 16:04:58.643)]  Waiting for merge....59
+[log (2017-03-16 16:04:59.673)]  Waiting for merge....58
+[log (2017-03-16 16:05:00.702)]  Waiting for merge....57
+[log (2017-03-16 16:05:01.732)]  Waiting for merge....56
+[log (2017-03-16 16:05:02.761)]  Waiting for merge....55
+[log (2017-03-16 16:05:03.791)]  Waiting for merge....54
+[log (2017-03-16 16:05:04.821)]  Waiting for merge....53
+[log (2017-03-16 16:10:52.935)]  Attempting to interface an Order
+[log (2017-03-16 16:10:52.935)]  inserting order header
+[log (2017-03-16 16:10:53.450)]  inserting order header
+[log (2017-03-16 16:10:53.747)]  inserting order header
+[log (2017-03-16 16:10:53.965)]  inserting order header
+[log (2017-03-16 16:10:54.152)]  inserting order header
+[log (2017-03-16 16:10:55.348)]  inserting order line
+[log (2017-03-16 16:10:55.591)]  Waiting for merge....A000000210
+[log (2017-03-16 16:10:55.591)]  Waiting for merge....60
+[log (2017-03-16 16:10:56.666)]  Waiting for merge....59
+[log (2017-03-16 16:10:57.696)]  Waiting for merge....58
+[log (2017-03-16 16:17:35.725)]  Attempting to interface an Order
+[log (2017-03-16 16:17:35.725)]  inserting order header
+[log (2017-03-16 16:17:36.178)]  inserting order header
+[log (2017-03-16 16:17:36.365)]  inserting order header
+[log (2017-03-16 16:17:36.568)]  inserting order header
+[log (2017-03-16 16:17:36.755)]  inserting order header
+[log (2017-03-16 16:17:37.956)]  inserting order line
+[log (2017-03-16 16:17:38.112)]  Waiting for merge....A000000210
+[log (2017-03-16 16:17:38.128)]  Waiting for merge....60
+[log (2017-03-16 16:17:39.188)]  Order A000000210 merged
+[log (2017-03-16 16:17:39.422)]  Logging into the application
+[log (2017-03-16 16:17:39.422)]  Attempting to log into the application.
+[log (2017-03-16 16:19:00.266)]  Attempting to interface an Order
+[log (2017-03-16 16:19:00.266)]  inserting order header
+[log (2017-03-16 16:19:00.703)]  inserting order header
+[log (2017-03-16 16:19:00.890)]  inserting order header
+[log (2017-03-16 16:19:01.078)]  inserting order header
+[log (2017-03-16 16:19:01.280)]  inserting order header
+[log (2017-03-16 16:19:02.468)]  inserting order line
+[log (2017-03-16 16:19:02.640)]  inserting order line
+[log (2017-03-16 16:19:02.796)]  inserting order line
+[log (2017-03-16 16:19:02.983)]  inserting order line
+[log (2017-03-16 16:19:03.248)]  inserting order line
+[log (2017-03-16 16:19:03.498)]  inserting order line
+[log (2017-03-16 16:19:03.685)]  inserting order line
+[log (2017-03-16 16:19:03.856)]  Waiting for merge....A000000210
+[log (2017-03-16 16:19:03.872)]  Waiting for merge....60
+[log (2017-03-16 16:19:04.933)]  Order A000000210 merged
+[log (2017-03-16 16:19:04.948)]  Waiting for merge....A000000211
+[log (2017-03-16 16:19:04.948)]  Waiting for merge....60
+[log (2017-03-16 16:19:05.994)]  Waiting for merge....59
+[log (2017-03-16 16:19:07.023)]  Waiting for merge....58
+[log (2017-03-16 16:19:08.053)]  Waiting for merge....57
+[log (2017-03-16 16:19:09.082)]  Waiting for merge....56
+[log (2017-03-16 16:19:10.112)]  Waiting for merge....55
+[log (2017-03-16 16:19:11.142)]  Waiting for merge....54
+[log (2017-03-16 16:19:12.171)]  Waiting for merge....53
+[log (2017-03-16 16:19:13.248)]  Waiting for merge....52
+[log (2017-03-16 16:19:14.277)]  Waiting for merge....51
+[log (2017-03-16 16:19:15.307)]  Waiting for merge....50
+[log (2017-03-16 16:19:16.337)]  Waiting for merge....49
+[log (2017-03-16 16:19:17.366)]  Waiting for merge....48
+[log (2017-03-16 16:19:18.396)]  Waiting for merge....47
+[log (2017-03-16 16:19:19.425)]  Waiting for merge....46
+[log (2017-03-16 16:19:20.455)]  Waiting for merge....45
+[log (2017-03-16 16:19:21.485)]  Waiting for merge....44
+[log (2017-03-16 16:19:22.514)]  Waiting for merge....43
+[log (2017-03-16 16:19:23.544)]  Waiting for merge....42
+[log (2017-03-16 16:19:24.573)]  Waiting for merge....41
+[log (2017-03-16 16:19:25.590)]  Waiting for merge....40
+[log (2017-03-16 16:19:26.606)]  Waiting for merge....39
+[log (2017-03-16 16:19:27.636)]  Waiting for merge....38
+[log (2017-03-16 16:19:28.666)]  Waiting for merge....37
+[log (2017-03-16 16:19:29.695)]  Waiting for merge....36
+[log (2017-03-16 16:19:30.725)]  Waiting for merge....35
+[log (2017-03-16 16:19:31.755)]  Waiting for merge....34
+[log (2017-03-16 16:19:32.771)]  Waiting for merge....33
+[log (2017-03-16 16:19:33.800)]  Waiting for merge....32
+[log (2017-03-16 16:19:34.830)]  Waiting for merge....31
+[log (2017-03-16 16:19:35.859)]  Waiting for merge....30
+[log (2017-03-16 16:19:36.889)]  Waiting for merge....29
+[log (2017-03-16 16:19:37.919)]  Waiting for merge....28
+[log (2017-03-16 16:19:38.964)]  Order A000000211 merged
+[log (2017-03-16 16:19:38.964)]  Waiting for merge....A000000212
+[log (2017-03-16 16:19:38.964)]  Waiting for merge....60
+[log (2017-03-16 16:19:40.025)]  Order A000000212 merged
+[log (2017-03-16 16:19:40.025)]  Waiting for merge....A000000213
+[log (2017-03-16 16:19:40.025)]  Waiting for merge....60
+[log (2017-03-16 16:19:41.085)]  Order A000000213 merged
+[log (2017-03-16 16:19:41.085)]  Waiting for merge....A000000214
+[log (2017-03-16 16:19:41.085)]  Waiting for merge....60
+[log (2017-03-16 16:19:42.146)]  Order A000000214 merged
+[log (2017-03-16 16:19:42.365)]  Logging into the application
+[log (2017-03-16 16:19:42.365)]  Attempting to log into the application.
+[log (2017-03-16 16:19:59.892)]  Failed to log in
+
+[log (2017-03-16 16:19:59.892)]  FindFailed: can not find images/banner.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 16:20:00.110)]  Attempting Allocation 
+[log (2017-03-16 16:20:00.141)]  Allocate flag set
+[log (2017-03-16 16:20:01.152)]  Waiting for allocation....70
+[log (2017-03-16 16:20:02.197)]  Waiting for allocation....69
+[log (2017-03-16 16:20:03.227)]  Waiting for allocation....68
+[log (2017-03-16 16:20:04.251)]  Waiting for allocation....67
+[log (2017-03-16 16:20:05.280)]  Waiting for allocation....66
+[log (2017-03-16 16:20:06.310)]  Waiting for allocation....65
+[log (2017-03-16 16:21:16.911)]  Attempting to interface an Order
+[log (2017-03-16 16:21:16.911)]  inserting order header
+[log (2017-03-16 16:21:17.395)]  inserting order header
+[log (2017-03-16 16:21:17.597)]  inserting order header
+[log (2017-03-16 16:21:17.785)]  inserting order header
+[log (2017-03-16 16:21:17.972)]  inserting order header
+[log (2017-03-16 16:21:19.157)]  inserting order line
+[log (2017-03-16 16:21:19.313)]  inserting order line
+[log (2017-03-16 16:21:19.469)]  inserting order line
+[log (2017-03-16 16:21:19.625)]  inserting order line
+[log (2017-03-16 16:21:19.766)]  inserting order line
+[log (2017-03-16 16:21:19.937)]  inserting order line
+[log (2017-03-16 16:21:20.093)]  inserting order line
+[log (2017-03-16 16:21:20.249)]  Waiting for merge....A000000215
+[log (2017-03-16 16:21:20.249)]  Waiting for merge....60
+[log (2017-03-16 16:21:21.326)]  Waiting for merge....59
+[log (2017-03-16 16:21:22.371)]  Waiting for merge....58
+[log (2017-03-16 16:21:23.401)]  Waiting for merge....57
+[log (2017-03-16 16:21:24.430)]  Waiting for merge....56
+[log (2017-03-16 16:21:25.460)]  Waiting for merge....55
+[log (2017-03-16 16:21:26.505)]  Waiting for merge....54
+[log (2017-03-16 16:21:27.521)]  Waiting for merge....53
+[log (2017-03-16 16:21:28.551)]  Waiting for merge....52
+[log (2017-03-16 16:21:29.580)]  Waiting for merge....51
+[log (2017-03-16 16:21:30.610)]  Waiting for merge....50
+[log (2017-03-16 16:21:31.640)]  Waiting for merge....49
+[log (2017-03-16 16:21:32.669)]  Waiting for merge....48
+[log (2017-03-16 16:21:33.699)]  Waiting for merge....47
+[log (2017-03-16 16:21:34.728)]  Waiting for merge....46
+[log (2017-03-16 16:21:35.758)]  Waiting for merge....45
+[log (2017-03-16 16:21:36.788)]  Waiting for merge....44
+[log (2017-03-16 16:21:37.804)]  Waiting for merge....43
+[log (2017-03-16 16:21:38.849)]  Order A000000215 merged
+[log (2017-03-16 16:21:38.849)]  Waiting for merge....A000000216
+[log (2017-03-16 16:21:38.849)]  Waiting for merge....60
+[log (2017-03-16 16:21:39.910)]  Order A000000216 merged
+[log (2017-03-16 16:21:39.910)]  Waiting for merge....A000000217
+[log (2017-03-16 16:21:39.910)]  Waiting for merge....60
+[log (2017-03-16 16:21:40.970)]  Order A000000217 merged
+[log (2017-03-16 16:21:40.970)]  Waiting for merge....A000000218
+[log (2017-03-16 16:21:40.970)]  Waiting for merge....60
+[log (2017-03-16 16:21:42.031)]  Order A000000218 merged
+[log (2017-03-16 16:21:42.031)]  Waiting for merge....A000000219
+[log (2017-03-16 16:21:42.031)]  Waiting for merge....60
+[log (2017-03-16 16:21:43.092)]  Order A000000219 merged
+[log (2017-03-16 16:21:43.295)]  Logging into the application
+[log (2017-03-16 16:21:43.295)]  Attempting to log into the application.
+[log (2017-03-16 16:21:52.412)]  Login successful
+[log (2017-03-16 16:21:52.412)]  Running Order Grouping
+[log (2017-03-16 16:22:21.599)]  Checking orders have been grouped
+[log (2017-03-16 16:22:21.646)]  Orders have grouped A000000215
+[log (2017-03-16 16:22:21.677)]  Orders have grouped A000000216
+[log (2017-03-16 16:22:21.708)]  Orders have grouped A000000217
+[log (2017-03-16 16:22:21.755)]  Orders have grouped A000000218
+[log (2017-03-16 16:22:21.786)]  Orders have grouped A000000219
+[log (2017-03-16 16:22:22.020)]  Attempting Allocation 
+[log (2017-03-16 16:22:22.067)]  Allocate flag set
+[log (2017-03-16 16:22:23.081)]  Waiting for allocation....70
+[log (2017-03-16 16:22:23.128)]  Allocation succesful
+[log (2017-03-16 16:22:23.144)]  Attempting Allocation 
+[log (2017-03-16 16:22:23.159)]  Allocate flag set
+[log (2017-03-16 16:22:24.173)]  Waiting for allocation....70
+[log (2017-03-16 16:22:24.189)]  Allocation succesful
+[log (2017-03-16 16:22:24.189)]  Attempting Allocation 
+[log (2017-03-16 16:22:24.220)]  Allocate flag set
+[log (2017-03-16 16:22:25.234)]  Waiting for allocation....70
+[log (2017-03-16 16:22:25.250)]  Allocation succesful
+[log (2017-03-16 16:22:25.250)]  Attempting Allocation 
+[log (2017-03-16 16:22:25.296)]  Allocate flag set
+[log (2017-03-16 16:22:26.310)]  Waiting for allocation....70
+[log (2017-03-16 16:22:26.326)]  Allocation succesful
+[log (2017-03-16 16:22:26.326)]  Attempting Allocation 
+[log (2017-03-16 16:22:26.357)]  Allocate flag set
+[log (2017-03-16 16:22:27.371)]  Waiting for allocation....70
+[log (2017-03-16 16:22:27.387)]  Allocation succesful
+[log (2017-03-16 16:22:27.576)]  Releasing move tasks. A000000215
+[log (2017-03-16 16:22:27.623)]  Waiting for clusting.....60
+[log (2017-03-16 16:22:28.653)]  Waiting for clusting.....59
+[log (2017-03-16 16:22:29.682)]  Waiting for clusting.....58
+[log (2017-03-16 16:22:30.712)]  Waiting for clusting.....57
+[log (2017-03-16 16:22:31.741)]  Waiting for clusting.....56
+[log (2017-03-16 16:22:32.771)]  Waiting for clusting.....55
+[log (2017-03-16 16:22:33.801)]  Waiting for clusting.....54
+[log (2017-03-16 16:22:34.830)]  Waiting for clusting.....53
+[log (2017-03-16 16:22:35.860)]  Waiting for clusting.....52
+[log (2017-03-16 16:22:36.889)]  Waiting for clusting.....51
+[log (2017-03-16 16:22:37.919)]  Waiting for clusting.....50
+[log (2017-03-16 16:22:38.949)]  Waiting for clusting.....49
+[log (2017-03-16 16:22:39.965)]  Waiting for clusting.....48
+[log (2017-03-16 16:22:40.994)]  Waiting for clusting.....47
+[log (2017-03-16 16:22:42.024)]  Waiting for clusting.....46
+[log (2017-03-16 16:22:43.054)]  Waiting for clusting.....45
+[log (2017-03-16 16:22:44.083)]  Waiting for clusting.....44
+[log (2017-03-16 16:22:45.113)]  Waiting for clusting.....43
+[log (2017-03-16 16:22:46.142)]  Waiting for clusting.....42
+[log (2017-03-16 16:22:47.219)]  Waiting for clusting.....41
+[log (2017-03-16 16:22:48.248)]  Waiting for clusting.....40
+[log (2017-03-16 16:22:49.278)]  Waiting for clusting.....39
+[log (2017-03-16 16:22:50.308)]  Waiting for clusting.....38
+[log (2017-03-16 16:22:51.337)]  Waiting for clusting.....37
+[log (2017-03-16 16:23:09.337)]  Move tasks released
+[log (2017-03-16 16:23:09.337)]  Releasing move tasks. A000000216
+[log (2017-03-16 16:23:09.415)]  Move tasks already at status released
+[log (2017-03-16 16:23:09.415)]  Releasing move tasks. A000000217
+[log (2017-03-16 16:23:23.520)]  Move tasks released
+[log (2017-03-16 16:23:23.520)]  Releasing move tasks. A000000218
+[log (2017-03-16 16:23:37.682)]  Move tasks released
+[log (2017-03-16 16:23:37.682)]  Releasing move tasks. A000000219
+[log (2017-03-16 16:23:37.713)]  Waiting for clusting.....60
+[log (2017-03-16 16:23:38.743)]  Waiting for clusting.....59
+[log (2017-03-16 16:23:39.772)]  Waiting for clusting.....58
+[log (2017-03-16 16:23:40.802)]  Waiting for clusting.....57
+[log (2017-03-16 16:23:41.832)]  Waiting for clusting.....56
+[log (2017-03-16 16:23:42.848)]  Waiting for clusting.....55
+[log (2017-03-16 16:23:43.877)]  Waiting for clusting.....54
+[log (2017-03-16 16:23:44.907)]  Waiting for clusting.....53
+[log (2017-03-16 16:23:45.936)]  Waiting for clusting.....52
+[log (2017-03-16 16:23:46.966)]  Waiting for clusting.....51
+[log (2017-03-16 16:23:47.996)]  Waiting for clusting.....50
+[log (2017-03-16 16:23:49.041)]  Waiting for clusting.....49
+[log (2017-03-16 16:23:50.071)]  Waiting for clusting.....48
+[log (2017-03-16 16:23:51.100)]  Waiting for clusting.....47
+[log (2017-03-16 16:23:52.145)]  Waiting for clusting.....46
+[log (2017-03-16 16:23:53.174)]  Waiting for clusting.....45
+[log (2017-03-16 16:23:54.204)]  Waiting for clusting.....44
+[log (2017-03-16 16:23:55.230)]  Waiting for clusting.....43
+[log (2017-03-16 16:30:38.675)]  Attempting to interface an Order
+[log (2017-03-16 16:30:38.675)]  inserting order header
+[log (2017-03-16 16:30:40.111)]  inserting order line
+[log (2017-03-16 16:30:40.267)]  Waiting for merge....A000000220
+[log (2017-03-16 16:30:40.267)]  Waiting for merge....60
+[log (2017-03-16 16:30:41.329)]  Waiting for merge....59
+[log (2017-03-16 16:30:42.359)]  Waiting for merge....58
+[log (2017-03-16 16:30:43.389)]  Waiting for merge....57
+[log (2017-03-16 16:30:44.418)]  Waiting for merge....56
+[log (2017-03-16 16:30:45.448)]  Waiting for merge....55
+[log (2017-03-16 16:30:46.477)]  Waiting for merge....54
+[log (2017-03-16 16:30:47.507)]  Waiting for merge....53
+[log (2017-03-16 16:30:48.537)]  Waiting for merge....52
+[log (2017-03-16 16:30:49.566)]  Waiting for merge....51
+[log (2017-03-16 16:30:50.596)]  Waiting for merge....50
+[log (2017-03-16 16:30:51.625)]  Waiting for merge....49
+[log (2017-03-16 16:30:52.655)]  Waiting for merge....48
+[log (2017-03-16 16:30:53.685)]  Waiting for merge....47
+[log (2017-03-16 16:30:54.715)]  Waiting for merge....46
+[log (2017-03-16 16:30:55.734)]  Waiting for merge....45
+[log (2017-03-16 16:30:56.764)]  Waiting for merge....44
+[log (2017-03-16 16:30:57.793)]  Waiting for merge....43
+[log (2017-03-16 16:30:58.823)]  Waiting for merge....42
+[log (2017-03-16 16:30:59.852)]  Waiting for merge....41
+[log (2017-03-16 16:31:00.882)]  Waiting for merge....40
+[log (2017-03-16 16:31:01.912)]  Waiting for merge....39
+[log (2017-03-16 16:31:02.941)]  Waiting for merge....38
+[log (2017-03-16 16:31:03.957)]  Waiting for merge....37
+[log (2017-03-16 16:31:04.988)]  Waiting for merge....36
+[log (2017-03-16 16:31:06.018)]  Waiting for merge....35
+[log (2017-03-16 16:31:07.048)]  Waiting for merge....34
+[log (2017-03-16 16:31:08.078)]  Waiting for merge....33
+[log (2017-03-16 16:31:09.107)]  Waiting for merge....32
+[log (2017-03-16 16:31:10.137)]  Waiting for merge....31
+[log (2017-03-16 16:31:11.167)]  Waiting for merge....30
+[log (2017-03-16 16:31:12.183)]  Waiting for merge....29
+[log (2017-03-16 16:31:13.212)]  Waiting for merge....28
+[log (2017-03-16 16:31:14.242)]  Waiting for merge....27
+[log (2017-03-16 16:31:15.259)]  Waiting for merge....26
+[log (2017-03-16 16:31:16.288)]  Waiting for merge....25
+[log (2017-03-16 16:31:17.318)]  Waiting for merge....24
+[log (2017-03-16 16:31:18.348)]  Waiting for merge....23
+[log (2017-03-16 16:31:19.377)]  Waiting for merge....22
+[log (2017-03-16 16:31:20.407)]  Waiting for merge....21
+[log (2017-03-16 16:31:21.436)]  Waiting for merge....20
+[log (2017-03-16 16:31:22.466)]  Waiting for merge....19
+[log (2017-03-16 16:31:23.496)]  Waiting for merge....18
+[log (2017-03-16 16:31:24.525)]  Waiting for merge....17
+[log (2017-03-16 16:31:25.555)]  Waiting for merge....16
+[log (2017-03-16 16:31:26.585)]  Waiting for merge....15
+[log (2017-03-16 16:31:27.614)]  Waiting for merge....14
+[log (2017-03-16 16:31:28.644)]  Waiting for merge....13
+[log (2017-03-16 16:31:29.673)]  Waiting for merge....12
+[log (2017-03-16 16:31:30.703)]  Waiting for merge....11
+[log (2017-03-16 16:31:31.733)]  Waiting for merge....10
+[log (2017-03-16 16:31:32.762)]  Waiting for merge....9
+[log (2017-03-16 16:31:33.792)]  Waiting for merge....8
+[log (2017-03-16 16:31:34.822)]  Waiting for merge....7
+[log (2017-03-16 16:31:35.852)]  Waiting for merge....6
+[log (2017-03-16 16:31:36.882)]  Waiting for merge....5
+[log (2017-03-16 16:31:37.911)]  Waiting for merge....4
+[log (2017-03-16 16:31:38.941)]  Waiting for merge....3
+[log (2017-03-16 16:31:39.986)]  Order A000000220 merged
+[log (2017-03-16 16:31:40.205)]  Logging into the application
+[log (2017-03-16 16:31:40.205)]  Attempting to log into the application.
+[log (2017-03-16 16:31:48.625)]  Login successful
+[log (2017-03-16 16:31:48.625)]  Running Order Grouping
+[log (2017-03-16 16:32:18.798)]  Checking orders have been grouped
+[log (2017-03-16 16:32:18.829)]  Orders have grouped A000000220
+[log (2017-03-16 16:32:19.032)]  Attempting Allocation A000000220
+[log (2017-03-16 16:32:19.063)]  Allocate flag set
+[log (2017-03-16 16:32:20.077)]  Waiting for allocation....70
+[log (2017-03-16 16:32:21.122)]  Waiting for allocation....69
+[log (2017-03-16 16:32:22.152)]  Waiting for allocation....68
+[log (2017-03-16 16:32:23.181)]  Waiting for allocation....67
+[log (2017-03-16 16:32:24.211)]  Waiting for allocation....66
+[log (2017-03-16 16:32:25.240)]  Waiting for allocation....65
+[log (2017-03-16 16:32:26.256)]  Waiting for allocation....64
+[log (2017-03-16 16:32:27.286)]  Waiting for allocation....63
+[log (2017-03-16 16:32:28.316)]  Waiting for allocation....62
+[log (2017-03-16 16:32:29.345)]  Waiting for allocation....61
+[log (2017-03-16 16:32:29.376)]  Allocation succesful
+[log (2017-03-16 16:32:29.579)]  Releasing move tasks. A000000220
+[log (2017-03-16 16:32:29.610)]  Waiting for clusting.....60
+[log (2017-03-16 16:32:30.640)]  Waiting for clusting.....59
+[log (2017-03-16 16:32:31.670)]  Waiting for clusting.....58
+[log (2017-03-16 16:32:32.699)]  Waiting for clusting.....57
+[log (2017-03-16 16:32:33.729)]  Waiting for clusting.....56
+[log (2017-03-16 16:32:34.759)]  Waiting for clusting.....55
+[log (2017-03-16 16:32:35.788)]  Waiting for clusting.....54
+[log (2017-03-16 16:32:36.818)]  Waiting for clusting.....53
+[log (2017-03-16 16:32:37.847)]  Waiting for clusting.....52
+[log (2017-03-16 16:32:38.865)]  Waiting for clusting.....51
+[log (2017-03-16 16:32:39.895)]  Waiting for clusting.....50
+[log (2017-03-16 16:32:40.925)]  Waiting for clusting.....49
+[log (2017-03-16 16:32:41.954)]  Waiting for clusting.....48
+[log (2017-03-16 16:32:42.970)]  Waiting for clusting.....47
+[log (2017-03-16 16:32:44.000)]  Waiting for clusting.....46
+[log (2017-03-16 16:32:45.029)]  Waiting for clusting.....45
+[log (2017-03-16 16:32:46.059)]  Waiting for clusting.....44
+[log (2017-03-16 16:32:47.089)]  Waiting for clusting.....43
+[log (2017-03-16 16:32:48.118)]  Waiting for clusting.....42
+[log (2017-03-16 16:32:49.148)]  Waiting for clusting.....41
+[log (2017-03-16 16:32:50.178)]  Waiting for clusting.....40
+[log (2017-03-16 16:33:07.698)]  Move tasks released
+[log (2017-03-16 16:33:07.901)]  Logging in to RDT
+[log (2017-03-16 16:33:07.901)]  Trying to log into the RDT 
+[log (2017-03-16 16:33:15.433)]  Navigating to containerPicking
+[log (2017-03-16 16:33:15.433)]  Navigating to Container Picking
+[log (2017-03-16 16:33:16.558)]  Picking order
+[log (2017-03-16 16:33:25.311)]  Failed to find image: FindFailed: can not find images/rdt/skuCnf.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 16:35:03.444)]  Logging in to RDT
+[log (2017-03-16 16:35:03.444)]  Trying to log into the RDT 
+[log (2017-03-16 16:35:50.274)]  Failed to login to RDT
+[log (2017-03-16 16:37:23.013)]  Logging in to RDT
+[log (2017-03-16 16:37:23.029)]  Trying to log into the RDT 
+[log (2017-03-16 16:37:31.792)]  Failed to login to RDT
+[log (2017-03-16 16:38:36.344)]  Logging in to RDT
+[log (2017-03-16 16:38:36.344)]  Trying to log into the RDT 
+[log (2017-03-16 16:38:42.591)]  Navigating to containerPicking
+[log (2017-03-16 16:38:42.601)]  Navigating to Container Picking
+[log (2017-03-16 16:38:43.738)]  Picking order
+[log (2017-03-16 16:38:52.724)]  Failed to find image: FindFailed: can not find images/rdt/skuCnf.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 16:40:05.500)]  Logging in to RDT
+[log (2017-03-16 16:40:05.515)]  Trying to log into the RDT 
+[log (2017-03-16 16:40:11.686)]  Navigating to containerPicking
+[log (2017-03-16 16:40:11.686)]  Navigating to Container Picking
+[log (2017-03-16 16:40:12.830)]  Picking order
+[log (2017-03-16 16:40:22.138)]  Failed to find image: FindFailed: can not find images/rdt/skuCnf.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 16:41:16.254)]  Logging in to RDT
+[log (2017-03-16 16:41:16.254)]  Trying to log into the RDT 
+[log (2017-03-16 16:41:21.930)]  Navigating to containerPicking
+[log (2017-03-16 16:41:21.930)]  Navigating to Container Picking
+[log (2017-03-16 16:41:22.733)]  Picking order
+[log (2017-03-16 16:41:32.147)]  Failed to find image: FindFailed: can not find images/rdt/skuCnf.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-16 16:42:27.876)]  Logging in to RDT
+[log (2017-03-16 16:42:27.876)]  Trying to log into the RDT 
+[log (2017-03-16 16:42:33.567)]  Navigating to containerPicking
+[log (2017-03-16 16:42:33.567)]  Navigating to Container Picking
+[log (2017-03-16 16:42:34.716)]  Picking order
+[log (2017-03-16 16:42:45.798)]  Order picked
+[log (2017-03-16 16:42:50.826)]  Logged out of RDT
+[log (2017-03-16 16:43:48.325)]  Logging in to RDT
+[log (2017-03-16 16:43:48.325)]  Trying to log into the RDT 
+[log (2017-03-16 16:43:54.092)]  Navigating to containerPicking
+[log (2017-03-16 16:43:54.102)]  Navigating to Container Picking
+[log (2017-03-16 16:43:55.226)]  Picking order
+[log (2017-03-16 16:45:34.908)]  Logging into the application
+[log (2017-03-16 16:45:34.908)]  Attempting to log into the application.
+[log (2017-03-16 16:46:13.309)]  Attempting to interface an Order
+[log (2017-03-16 16:46:13.325)]  inserting order header
+[log (2017-03-16 16:46:14.744)]  inserting order line
+[log (2017-03-16 16:46:14.900)]  Waiting for merge....A000000221
+[log (2017-03-16 16:46:14.916)]  Waiting for merge....60
+[log (2017-03-16 16:46:15.993)]  Waiting for merge....59
+[log (2017-03-16 16:46:17.023)]  Waiting for merge....58
+[log (2017-03-16 16:46:18.053)]  Waiting for merge....57
+[log (2017-03-16 16:46:19.082)]  Waiting for merge....56
+[log (2017-03-16 16:46:20.112)]  Waiting for merge....55
+[log (2017-03-16 16:46:21.141)]  Waiting for merge....54
+[log (2017-03-16 16:46:22.171)]  Waiting for merge....53
+[log (2017-03-16 16:46:23.201)]  Waiting for merge....52
+[log (2017-03-16 16:46:24.230)]  Waiting for merge....51
+[log (2017-03-16 16:46:25.260)]  Waiting for merge....50
+[log (2017-03-16 16:46:26.352)]  Waiting for merge....49
+[log (2017-03-16 16:46:27.397)]  Waiting for merge....48
+[log (2017-03-16 16:46:28.427)]  Waiting for merge....47
+[log (2017-03-16 16:46:29.456)]  Waiting for merge....46
+[log (2017-03-16 16:46:30.486)]  Waiting for merge....45
+[log (2017-03-16 16:46:31.516)]  Waiting for merge....44
+[log (2017-03-16 16:46:32.545)]  Waiting for merge....43
+[log (2017-03-16 16:46:33.575)]  Waiting for merge....42
+[log (2017-03-16 16:46:34.604)]  Waiting for merge....41
+[log (2017-03-16 16:46:35.635)]  Waiting for merge....40
+[log (2017-03-16 16:46:36.680)]  Waiting for merge....39
+[log (2017-03-16 16:46:37.711)]  Waiting for merge....38
+[log (2017-03-16 16:46:38.740)]  Waiting for merge....37
+[log (2017-03-16 16:46:39.786)]  Order A000000221 merged
+[log (2017-03-16 16:46:40.051)]  Logging into the application
+[log (2017-03-16 16:46:40.066)]  Attempting to log into the application.
+[log (2017-03-16 16:46:48.394)]  Login successful
+[log (2017-03-16 16:46:48.410)]  Running Order Grouping
+[log (2017-03-16 16:47:23.966)]  Checking orders have been grouped
+[log (2017-03-16 16:47:23.997)]  Orders have grouped A000000221
+[log (2017-03-16 16:47:24.231)]  Attempting Allocation A000000221
+[log (2017-03-16 16:47:24.262)]  Allocate flag set
+[log (2017-03-16 16:47:25.276)]  Waiting for allocation....70
+[log (2017-03-16 16:47:26.321)]  Waiting for allocation....69
+[log (2017-03-16 16:47:27.351)]  Waiting for allocation....68
+[log (2017-03-16 16:47:28.381)]  Waiting for allocation....67
+[log (2017-03-16 16:47:29.411)]  Waiting for allocation....66
+[log (2017-03-16 16:47:30.440)]  Waiting for allocation....65
+[log (2017-03-16 16:47:31.470)]  Waiting for allocation....64
+[log (2017-03-16 16:47:32.499)]  Waiting for allocation....63
+[log (2017-03-16 16:47:33.529)]  Waiting for allocation....62
+[log (2017-03-16 16:47:34.558)]  Waiting for allocation....61
+[log (2017-03-16 16:47:35.588)]  Waiting for allocation....60
+[log (2017-03-16 16:47:36.617)]  Waiting for allocation....59
+[log (2017-03-16 16:47:37.647)]  Waiting for allocation....58
+[log (2017-03-16 16:47:38.677)]  Waiting for allocation....57
+[log (2017-03-16 16:47:38.708)]  Allocation succesful
+[log (2017-03-16 16:47:38.910)]  Releasing move tasks. A000000221
+[log (2017-03-16 16:47:38.957)]  Waiting for clusting.....60
+[log (2017-03-16 16:47:39.973)]  Waiting for clusting.....59
+[log (2017-03-16 16:47:40.989)]  Waiting for clusting.....58
+[log (2017-03-16 16:47:42.019)]  Waiting for clusting.....57
+[log (2017-03-16 16:47:43.048)]  Waiting for clusting.....56
+[log (2017-03-16 16:47:44.078)]  Waiting for clusting.....55
+[log (2017-03-16 16:47:45.450)]  Waiting for clusting.....54
+[log (2017-03-16 16:47:46.480)]  Waiting for clusting.....53
+[log (2017-03-16 16:47:47.509)]  Waiting for clusting.....52
+[log (2017-03-16 16:47:48.539)]  Waiting for clusting.....51
+[log (2017-03-16 16:47:49.569)]  Waiting for clusting.....50
+[log (2017-03-16 16:47:50.598)]  Waiting for clusting.....49
+[log (2017-03-16 16:47:51.628)]  Waiting for clusting.....48
+[log (2017-03-16 16:48:09.198)]  Move tasks released
+[log (2017-03-16 16:48:09.432)]  Logging in to RDT
+[log (2017-03-16 16:48:09.432)]  Trying to log into the RDT 
+[log (2017-03-16 16:48:15.049)]  Navigating to containerPicking
+[log (2017-03-16 16:48:15.049)]  Navigating to Container Picking
+[log (2017-03-16 16:48:25.109)]  Picking order
+[log (2017-03-16 16:48:35.778)]  Order picked
+[log (2017-03-16 16:48:40.599)]  Logged out of RDT

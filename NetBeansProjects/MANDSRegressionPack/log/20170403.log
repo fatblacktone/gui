@@ -1,0 +1,57 @@
+[log (2017-04-03 09:08:24.744)]  At the Pre Advice entry screen
+[log (2017-04-03 09:08:24.746)]  2055734757
+[log (2017-04-03 09:08:25.167)]  20001275
+[log (2017-04-03 09:08:25.498)]  
+
+[log (2017-04-03 09:20:53.872)]  At the Pre Advice entry screen
+[log (2017-04-03 09:20:53.873)]  2055734757
+[log (2017-04-03 09:21:04.458)]  At the main menu
+[log (2017-04-03 09:21:04.460)]  2
+[log (2017-04-03 09:21:04.520)]  
+
+[log (2017-04-03 09:21:21.949)]  At the main menu
+[log (2017-04-03 09:21:21.952)]  2
+[log (2017-04-03 09:21:22.003)]  
+
+[log (2017-04-03 09:21:33.907)]  At the user defined menu
+[log (2017-04-03 09:21:33.909)]  1
+[log (2017-04-03 09:21:33.961)]  
+
+[log (2017-04-03 09:22:29.672)]  At the receiving menu
+[log (2017-04-03 09:22:29.674)]  1
+[log (2017-04-03 09:22:29.722)]  
+
+[log (2017-04-03 09:22:38.147)]  At the basic receiving screen
+[log (2017-04-03 09:22:38.149)]  2
+[log (2017-04-03 09:22:38.199)]  
+
+[log (2017-04-03 09:22:48.246)]  At the Pre Advice entry screen
+[log (2017-04-03 09:22:48.248)]  2055734757
+[log (2017-04-03 09:22:48.659)]  20001416
+[log (2017-04-03 09:22:48.989)]  
+
+[log (2017-04-03 10:42:13.328)]  Something went wrong connecting to the database
+[log (2017-04-03 10:42:13.328)]  java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+[log (2017-04-03 11:33:32.057)]  Attempting to log into the application.
+[log (2017-04-03 11:33:49.316)]  FindFailed: can not find images/banner.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-04-03 11:33:49.565)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1053062654\sikuliximage-1491215629363.png
+[log (2017-04-03 11:33:49.565)]  Creating C&E consignment:
+[log (2017-04-03 11:33:52.623)]  FindFailed: can not find images/Menu/menuData.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-04-03 11:33:52.764)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1053062654\sikuliximage-1491215632670.png
+[log (2017-04-03 11:34:26.884)]  Attempting to log into the application.
+[log (2017-04-03 11:34:44.119)]  FindFailed: can not find images/banner.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-04-03 11:34:44.337)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1689788832\sikuliximage-1491215684165.png
+[log (2017-04-03 11:34:44.353)]  Creating C&E consignment:
+[log (2017-04-03 11:34:47.551)]  FindFailed: can not find images/Menu/menuData.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-04-03 11:34:47.691)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1689788832\sikuliximage-1491215687597.png
+[log (2017-04-03 11:52:23.646)]  Attempting to log into the application.
+[log (2017-04-03 11:52:27.657)]  Login successful
+[log (2017-04-03 11:52:27.658)]  Creating C&E consignment:

@@ -1,0 +1,1087 @@
+[log (2017-03-24 09:16:01.831)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 09:16:01.831)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 09:16:01.831)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 09:16:01.831)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 09:16:01.847)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 09:16:01.847)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 09:16:01.847)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 09:16:01.847)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 09:16:03.110)]  Trying to insert Pre Advice
+[log (2017-03-24 09:16:03.110)]  inserting header file: A000000251
+[log (2017-03-24 09:16:03.625)]  inserting line file
+[log (2017-03-24 09:16:03.781)]  Waiting for merge.....A000000251
+[log (2017-03-24 09:16:04.795)]  Waiting for merge.....60
+[log (2017-03-24 09:16:05.872)]  Waiting for merge.....59
+[log (2017-03-24 09:16:06.901)]  Waiting for merge.....58
+[log (2017-03-24 09:16:07.931)]  Waiting for merge.....57
+[log (2017-03-24 09:16:08.961)]  Waiting for merge.....56
+[log (2017-03-24 09:16:09.990)]  Waiting for merge.....55
+[log (2017-03-24 09:16:11.020)]  Waiting for merge.....54
+[log (2017-03-24 09:16:12.049)]  Waiting for merge.....53
+[log (2017-03-24 09:16:13.079)]  Waiting for merge.....52
+[log (2017-03-24 09:16:14.109)]  Waiting for merge.....51
+[log (2017-03-24 09:16:15.138)]  Waiting for merge.....50
+[log (2017-03-24 09:16:16.168)]  Waiting for merge.....49
+[log (2017-03-24 09:16:17.198)]  Waiting for merge.....48
+[log (2017-03-24 09:16:18.227)]  Waiting for merge.....47
+[log (2017-03-24 09:16:19.257)]  Waiting for merge.....46
+[log (2017-03-24 09:16:20.287)]  Waiting for merge.....45
+[log (2017-03-24 09:16:21.316)]  Waiting for merge.....44
+[log (2017-03-24 09:16:22.346)]  Waiting for merge.....43
+[log (2017-03-24 09:16:23.375)]  Waiting for merge.....42
+[log (2017-03-24 09:16:24.405)]  Waiting for merge.....41
+[log (2017-03-24 09:16:25.435)]  Waiting for merge.....40
+[log (2017-03-24 09:16:26.464)]  Waiting for merge.....39
+[log (2017-03-24 09:16:27.494)]  Waiting for merge.....38
+[log (2017-03-24 09:16:28.524)]  Waiting for merge.....37
+[log (2017-03-24 09:16:29.553)]  Waiting for merge.....36
+[log (2017-03-24 09:16:30.583)]  Waiting for merge.....35
+[log (2017-03-24 09:16:31.613)]  Waiting for merge.....34
+[log (2017-03-24 09:16:32.621)]  Waiting for merge.....33
+[log (2017-03-24 09:16:33.631)]  Waiting for merge.....32
+[log (2017-03-24 09:16:34.664)]  Waiting for merge.....31
+[log (2017-03-24 09:16:35.694)]  Waiting for merge.....30
+[log (2017-03-24 09:16:36.723)]  Waiting for merge.....29
+[log (2017-03-24 09:16:37.753)]  Waiting for merge.....28
+[log (2017-03-24 09:16:38.783)]  Waiting for merge.....27
+[log (2017-03-24 09:16:39.813)]  Waiting for merge.....26
+[log (2017-03-24 09:16:40.843)]  Waiting for merge.....25
+[log (2017-03-24 09:16:41.874)]  Waiting for merge.....24
+[log (2017-03-24 09:16:42.903)]  Waiting for merge.....23
+[log (2017-03-24 09:16:43.933)]  Waiting for merge.....22
+[log (2017-03-24 09:16:44.963)]  Waiting for merge.....21
+[log (2017-03-24 09:16:45.992)]  Waiting for merge.....20
+[log (2017-03-24 09:16:47.022)]  Waiting for merge.....19
+[log (2017-03-24 09:16:48.051)]  Waiting for merge.....18
+[log (2017-03-24 09:16:49.081)]  Waiting for merge.....17
+[log (2017-03-24 09:16:50.111)]  Waiting for merge.....16
+[log (2017-03-24 09:16:51.141)]  Waiting for merge.....15
+[log (2017-03-24 09:16:52.157)]  Waiting for merge.....14
+[log (2017-03-24 09:16:53.187)]  Waiting for merge.....13
+[log (2017-03-24 09:16:54.217)]  Waiting for merge.....12
+[log (2017-03-24 09:16:55.246)]  Waiting for merge.....11
+[log (2017-03-24 09:16:56.276)]  Waiting for merge.....10
+[log (2017-03-24 09:16:57.306)]  Waiting for merge.....9
+[log (2017-03-24 09:16:58.335)]  Waiting for merge.....8
+[log (2017-03-24 09:16:59.365)]  Waiting for merge.....7
+[log (2017-03-24 09:17:00.394)]  Waiting for merge.....6
+[log (2017-03-24 09:17:01.424)]  Waiting for merge.....5
+[log (2017-03-24 09:17:02.454)]  Waiting for merge.....4
+[log (2017-03-24 09:17:03.483)]  Waiting for merge.....3
+[log (2017-03-24 09:17:04.513)]  Waiting for merge.....2
+[log (2017-03-24 09:17:05.542)]  Waiting for merge.....1
+[log (2017-03-24 09:17:05.574)]  Pre Advice not merged: A000000251
+[log (2017-03-24 09:17:05.620)]  Header Fail: A000000251::
+[log (2017-03-24 10:20:35.924)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:20:35.926)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:20:35.927)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:20:35.929)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:20:35.931)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:20:35.932)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:20:35.935)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:20:35.937)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:20:37.154)]  Trying to insert Pre Advice
+[log (2017-03-24 10:20:37.155)]  inserting header file: A000000251
+[log (2017-03-24 10:20:37.895)]  inserting line file
+[log (2017-03-24 10:20:38.352)]  Waiting for merge.....A000000251
+[log (2017-03-24 10:20:39.354)]  Waiting for merge.....60
+[log (2017-03-24 10:20:40.427)]  Waiting for merge.....59
+[log (2017-03-24 10:20:41.446)]  Waiting for merge.....58
+[log (2017-03-24 10:20:42.467)]  Waiting for merge.....57
+[log (2017-03-24 10:20:43.487)]  Waiting for merge.....56
+[log (2017-03-24 10:20:44.509)]  Waiting for merge.....55
+[log (2017-03-24 10:20:45.528)]  Waiting for merge.....54
+[log (2017-03-24 10:20:46.547)]  Waiting for merge.....53
+[log (2017-03-24 10:20:47.567)]  Waiting for merge.....52
+[log (2017-03-24 10:20:48.590)]  Waiting for merge.....51
+[log (2017-03-24 10:20:49.610)]  Waiting for merge.....50
+[log (2017-03-24 10:20:50.629)]  Waiting for merge.....49
+[log (2017-03-24 10:20:51.648)]  Waiting for merge.....48
+[log (2017-03-24 10:20:52.669)]  Waiting for merge.....47
+[log (2017-03-24 10:20:53.694)]  Waiting for merge.....46
+[log (2017-03-24 10:20:54.717)]  Waiting for merge.....45
+[log (2017-03-24 10:20:55.735)]  Waiting for merge.....44
+[log (2017-03-24 10:20:56.754)]  Waiting for merge.....43
+[log (2017-03-24 10:20:57.774)]  Waiting for merge.....42
+[log (2017-03-24 10:20:58.792)]  Waiting for merge.....41
+[log (2017-03-24 10:20:59.811)]  Waiting for merge.....40
+[log (2017-03-24 10:21:00.832)]  Waiting for merge.....39
+[log (2017-03-24 10:21:01.852)]  Waiting for merge.....38
+[log (2017-03-24 10:21:02.871)]  Waiting for merge.....37
+[log (2017-03-24 10:21:03.891)]  Waiting for merge.....36
+[log (2017-03-24 10:21:04.910)]  Waiting for merge.....35
+[log (2017-03-24 10:21:05.929)]  Waiting for merge.....34
+[log (2017-03-24 10:21:06.948)]  Waiting for merge.....33
+[log (2017-03-24 10:21:07.965)]  Waiting for merge.....32
+[log (2017-03-24 10:21:08.985)]  Waiting for merge.....31
+[log (2017-03-24 10:21:10.004)]  Waiting for merge.....30
+[log (2017-03-24 10:21:11.024)]  Waiting for merge.....29
+[log (2017-03-24 10:21:12.042)]  Waiting for merge.....28
+[log (2017-03-24 10:21:13.064)]  Waiting for merge.....27
+[log (2017-03-24 10:21:14.082)]  Waiting for merge.....26
+[log (2017-03-24 10:21:15.100)]  Waiting for merge.....25
+[log (2017-03-24 10:21:16.117)]  Waiting for merge.....24
+[log (2017-03-24 10:21:17.135)]  Waiting for merge.....23
+[log (2017-03-24 10:21:18.153)]  Waiting for merge.....22
+[log (2017-03-24 10:21:19.172)]  Waiting for merge.....21
+[log (2017-03-24 10:21:20.190)]  Waiting for merge.....20
+[log (2017-03-24 10:21:21.207)]  Waiting for merge.....19
+[log (2017-03-24 10:21:22.225)]  Waiting for merge.....18
+[log (2017-03-24 10:21:23.243)]  Waiting for merge.....17
+[log (2017-03-24 10:21:24.261)]  Waiting for merge.....16
+[log (2017-03-24 10:21:25.280)]  Waiting for merge.....15
+[log (2017-03-24 10:21:26.303)]  Waiting for merge.....14
+[log (2017-03-24 10:21:27.321)]  Waiting for merge.....13
+[log (2017-03-24 10:21:28.341)]  Waiting for merge.....12
+[log (2017-03-24 10:21:29.360)]  Waiting for merge.....11
+[log (2017-03-24 10:21:30.387)]  Waiting for merge.....10
+[log (2017-03-24 10:21:31.405)]  Waiting for merge.....9
+[log (2017-03-24 10:21:32.425)]  Waiting for merge.....8
+[log (2017-03-24 10:21:33.444)]  Waiting for merge.....7
+[log (2017-03-24 10:21:34.463)]  Waiting for merge.....6
+[log (2017-03-24 10:21:35.481)]  Waiting for merge.....5
+[log (2017-03-24 10:21:36.501)]  Waiting for merge.....4
+[log (2017-03-24 10:21:37.520)]  Waiting for merge.....3
+[log (2017-03-24 10:21:38.540)]  Waiting for merge.....2
+[log (2017-03-24 10:21:39.565)]  Waiting for merge.....1
+[log (2017-03-24 10:21:39.600)]  Pre Advice not merged: A000000251
+[log (2017-03-24 10:21:39.789)]  
+[log (2017-03-24 10:22:26.161)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:22:26.164)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:22:26.167)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:22:26.171)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:22:26.178)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:22:26.180)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:22:26.182)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:22:26.191)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:22:27.303)]  Trying to insert Pre Advice
+[log (2017-03-24 10:22:27.304)]  inserting header file: A000000252
+[log (2017-03-24 10:22:27.905)]  inserting line file
+[log (2017-03-24 10:22:28.304)]  Waiting for merge.....A000000252
+[log (2017-03-24 10:22:29.308)]  Waiting for merge.....60
+[log (2017-03-24 10:22:30.366)]  Waiting for merge.....59
+[log (2017-03-24 10:23:14.519)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:23:14.521)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:23:14.522)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:23:14.525)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:23:14.530)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:23:14.533)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:23:14.534)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:23:14.536)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:23:15.708)]  Trying to insert Pre Advice
+[log (2017-03-24 10:23:15.710)]  inserting header file: A000000252
+[log (2017-03-24 10:24:30.136)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:24:30.138)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:24:30.139)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:24:30.141)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:24:30.143)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:24:30.144)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:24:30.148)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:24:30.150)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:25:34.262)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:25:34.264)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:25:34.268)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:25:34.270)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:25:34.273)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:25:34.275)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:25:34.277)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:25:34.280)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:25:35.289)]  java.lang.ArrayIndexOutOfBoundsException: 8
+[log (2017-03-24 10:25:35.291)]  Trying to insert Pre Advice
+[log (2017-03-24 10:25:35.293)]  inserting header file: A000000252
+[log (2017-03-24 10:25:35.620)]  inserting line file
+[log (2017-03-24 10:25:35.771)]  Waiting for merge.....A000000252
+[log (2017-03-24 10:25:36.773)]  Waiting for merge.....60
+[log (2017-03-24 10:25:37.834)]  Waiting for merge.....59
+[log (2017-03-24 10:26:34.032)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:26:34.037)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:26:34.038)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:26:34.040)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:26:34.041)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:26:34.044)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:26:34.047)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:26:34.049)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:26:35.164)]  Trying to insert Pre Advice
+[log (2017-03-24 10:26:35.168)]  inserting header file: A000000252
+[log (2017-03-24 10:26:35.523)]  inserting line file
+[log (2017-03-24 10:26:35.668)]  inserting line file
+[log (2017-03-24 10:26:35.814)]  Waiting for merge.....A000000252
+[log (2017-03-24 10:26:36.815)]  Waiting for merge.....60
+[log (2017-03-24 10:26:37.869)]  Waiting for merge.....59
+[log (2017-03-24 10:26:38.889)]  Waiting for merge.....58
+[log (2017-03-24 10:27:04.884)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:27:04.885)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:27:04.888)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:27:04.890)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:27:04.893)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:27:04.894)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:27:04.896)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:27:04.898)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:27:05.935)]  Trying to insert Pre Advice
+[log (2017-03-24 10:27:05.937)]  inserting header file: A000000253
+[log (2017-03-24 10:27:06.269)]  inserting line file
+[log (2017-03-24 10:27:06.418)]  inserting line file
+[log (2017-03-24 10:27:06.567)]  Waiting for merge.....A000000253
+[log (2017-03-24 10:27:07.571)]  Waiting for merge.....60
+[log (2017-03-24 10:27:08.632)]  Waiting for merge.....59
+[log (2017-03-24 10:27:09.651)]  Waiting for merge.....58
+[log (2017-03-24 10:27:10.679)]  Waiting for merge.....57
+[log (2017-03-24 10:27:11.700)]  Waiting for merge.....56
+[log (2017-03-24 10:27:12.720)]  Waiting for merge.....55
+[log (2017-03-24 10:27:13.740)]  Waiting for merge.....54
+[log (2017-03-24 10:27:14.760)]  Waiting for merge.....53
+[log (2017-03-24 10:27:15.780)]  Waiting for merge.....52
+[log (2017-03-24 10:27:16.801)]  Waiting for merge.....51
+[log (2017-03-24 10:27:17.821)]  Waiting for merge.....50
+[log (2017-03-24 10:27:18.847)]  Waiting for merge.....49
+[log (2017-03-24 10:27:19.868)]  Waiting for merge.....48
+[log (2017-03-24 10:27:20.887)]  Waiting for merge.....47
+[log (2017-03-24 10:27:21.907)]  Waiting for merge.....46
+[log (2017-03-24 10:27:22.926)]  Waiting for merge.....45
+[log (2017-03-24 10:27:23.950)]  Waiting for merge.....44
+[log (2017-03-24 10:27:24.969)]  Waiting for merge.....43
+[log (2017-03-24 10:27:25.989)]  Waiting for merge.....42
+[log (2017-03-24 10:27:27.007)]  Waiting for merge.....41
+[log (2017-03-24 10:27:28.026)]  Waiting for merge.....40
+[log (2017-03-24 10:27:29.046)]  Waiting for merge.....39
+[log (2017-03-24 10:27:30.068)]  Waiting for merge.....38
+[log (2017-03-24 10:27:31.088)]  Waiting for merge.....37
+[log (2017-03-24 10:27:32.106)]  Waiting for merge.....36
+[log (2017-03-24 10:27:33.129)]  Waiting for merge.....35
+[log (2017-03-24 10:27:34.149)]  Waiting for merge.....34
+[log (2017-03-24 10:27:35.172)]  Waiting for merge.....33
+[log (2017-03-24 10:27:36.192)]  Waiting for merge.....32
+[log (2017-03-24 10:27:37.212)]  Waiting for merge.....31
+[log (2017-03-24 10:27:38.235)]  Waiting for merge.....30
+[log (2017-03-24 10:27:39.255)]  Waiting for merge.....29
+[log (2017-03-24 10:27:40.276)]  Waiting for merge.....28
+[log (2017-03-24 10:27:41.294)]  Waiting for merge.....27
+[log (2017-03-24 10:27:42.312)]  Waiting for merge.....26
+[log (2017-03-24 10:27:43.331)]  Waiting for merge.....25
+[log (2017-03-24 10:27:44.351)]  Waiting for merge.....24
+[log (2017-03-24 10:27:45.371)]  Waiting for merge.....23
+[log (2017-03-24 10:27:46.390)]  Waiting for merge.....22
+[log (2017-03-24 10:27:47.409)]  Waiting for merge.....21
+[log (2017-03-24 10:27:48.431)]  Waiting for merge.....20
+[log (2017-03-24 10:27:49.451)]  Waiting for merge.....19
+[log (2017-03-24 10:27:50.470)]  Waiting for merge.....18
+[log (2017-03-24 10:27:51.491)]  Waiting for merge.....17
+[log (2017-03-24 10:27:52.510)]  Waiting for merge.....16
+[log (2017-03-24 10:27:53.533)]  Waiting for merge.....15
+[log (2017-03-24 10:27:54.552)]  Waiting for merge.....14
+[log (2017-03-24 10:27:55.571)]  Waiting for merge.....13
+[log (2017-03-24 10:27:56.592)]  Waiting for merge.....12
+[log (2017-03-24 10:27:57.613)]  Waiting for merge.....11
+[log (2017-03-24 10:27:58.633)]  Waiting for merge.....10
+[log (2017-03-24 10:27:59.651)]  Waiting for merge.....9
+[log (2017-03-24 10:28:00.670)]  Waiting for merge.....8
+[log (2017-03-24 10:28:01.693)]  Waiting for merge.....7
+[log (2017-03-24 10:28:02.712)]  Waiting for merge.....6
+[log (2017-03-24 10:28:03.731)]  Waiting for merge.....5
+[log (2017-03-24 10:28:04.750)]  Waiting for merge.....4
+[log (2017-03-24 10:28:05.770)]  Waiting for merge.....3
+[log (2017-03-24 10:28:06.789)]  Waiting for merge.....2
+[log (2017-03-24 10:28:07.809)]  Waiting for merge.....1
+[log (2017-03-24 10:28:07.848)]  Pre Advice not merged: A000000253
+[log (2017-03-24 10:28:07.944)]  Line Fail:1::This interface is out of sequence
+[log (2017-03-24 10:34:40.405)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:34:40.407)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:34:40.411)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:34:40.413)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:34:40.415)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:34:40.417)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:34:40.419)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:34:40.421)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:34:41.496)]  Trying to insert Pre Advice
+[log (2017-03-24 10:34:41.497)]  inserting header file: A000000253
+[log (2017-03-24 10:34:41.842)]  inserting line file
+[log (2017-03-24 10:34:41.995)]  inserting line file
+[log (2017-03-24 10:34:42.150)]  Waiting for merge.....A000000253
+[log (2017-03-24 10:34:43.156)]  Waiting for merge.....60
+[log (2017-03-24 10:34:44.193)]  Waiting for merge.....59
+[log (2017-03-24 10:37:02.253)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 10:37:02.255)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 10:37:02.259)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 10:37:02.261)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 10:37:02.265)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 10:37:02.269)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 10:37:02.271)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 10:37:02.274)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 10:37:03.572)]  Trying to insert Pre Advice
+[log (2017-03-24 10:37:03.573)]  inserting header file: A000000254
+[log (2017-03-24 10:37:03.932)]  inserting line file
+[log (2017-03-24 10:37:04.088)]  inserting line file
+[log (2017-03-24 10:37:04.245)]  Waiting for merge.....A000000254
+[log (2017-03-24 10:37:05.247)]  Waiting for merge.....60
+[log (2017-03-24 10:37:05.308)]  Pre Advice null merged
+[log (2017-03-24 13:10:32.949)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:10:32.952)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:10:32.954)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:10:32.956)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:10:32.959)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:10:32.962)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:10:32.963)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:10:32.969)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:10:34.333)]  Trying to insert Pre Advice
+[log (2017-03-24 13:10:34.336)]  inserting header file: A000000255
+[log (2017-03-24 13:10:35.422)]  inserting line file
+[log (2017-03-24 13:10:35.835)]  inserting line file
+[log (2017-03-24 13:10:36.057)]  Waiting for merge.....A000000255
+[log (2017-03-24 13:10:37.061)]  Waiting for merge.....60
+[log (2017-03-24 13:10:38.130)]  Waiting for merge.....59
+[log (2017-03-24 13:10:38.164)]  Pre Advice null merged
+[log (2017-03-24 13:11:15.966)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:11:15.968)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:11:15.975)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:11:15.977)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:11:15.978)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:11:15.980)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:11:15.984)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:11:15.986)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:11:17.362)]  Creating C&E consignment:
+[log (2017-03-24 13:11:20.715)]  FindFailed: can not find images/Menu/menuData.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-24 13:11:21.014)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1076279099\sikuliximage-1490361080773.png
+[log (2017-03-24 13:12:42.048)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:12:42.050)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:12:42.054)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:12:42.057)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:12:42.063)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:12:42.066)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:12:42.070)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:12:42.072)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:12:43.437)]  Creating C&E consignment:
+[log (2017-03-24 13:13:10.523)]  Failed to link consignment
+
+[log (2017-03-24 13:13:10.526)]  FindFailed: can not find images/Menu/Operations/customsAndExcise/customsAndExcisePreAdviceId.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-24 13:15:42.328)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:15:42.330)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:15:42.332)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:15:42.335)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:15:42.337)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:15:42.339)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:15:42.341)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:15:42.343)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:15:43.833)]  Creating C&E consignment:
+[log (2017-03-24 13:16:13.248)]  Trying to log into the RDT 
+[log (2017-03-24 13:16:14.400)]  Typing: putty
+
+[log (2017-03-24 13:16:15.418)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 13:16:17.384)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 13:16:17.846)]  Typing: OPTIMUS	
+[log (2017-03-24 13:16:18.051)]  Typing: 1234
+
+[log (2017-03-24 13:16:18.725)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 13:16:18.931)]  Typing: 2112
+
+[log (2017-03-24 13:16:19.570)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 13:16:19.573)]  Entering Pre-Advice ID
+[log (2017-03-24 13:16:20.037)]  Typing: A000000255
+
+[log (2017-03-24 13:16:21.259)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 13:16:21.317)]  Receiving PA Line 
+[log (2017-03-24 13:16:21.682)]  Typing: 20001311
+
+[log (2017-03-24 13:16:22.227)]  Typing: 
+
+[log (2017-03-24 13:16:22.869)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 13:16:23.216)]  Typing: REC001?
+[log (2017-03-24 13:16:23.628)]  Typing: 2017032401
+[log (2017-03-24 13:16:23.671)]  Typing: ?
+[log (2017-03-24 13:16:24.342)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 13:16:25.470)]  Typing: 50?
+[log (2017-03-24 13:16:25.553)]  Typing: 12
+[log (2017-03-24 13:16:25.598)]  Typing: ?
+[log (2017-03-24 13:16:25.641)]  Typing: ?
+[log (2017-03-24 13:16:26.011)]  Typing: PALLET
+[log (2017-03-24 13:16:26.053)]  Typing: ?
+[log (2017-03-24 13:16:26.217)]  Typing: 2014
+[log (2017-03-24 13:16:26.300)]  Typing: 10
+[log (2017-03-24 13:16:26.342)]  Typing: ?
+[log (2017-03-24 13:16:26.972)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 13:16:27.014)]  Typing: ?
+[log (2017-03-24 13:16:27.057)]  Typing: ?
+[log (2017-03-24 13:16:27.139)]  Typing: 24
+[log (2017-03-24 13:16:27.223)]  Typing: 03
+[log (2017-03-24 13:16:27.388)]  Typing: 2022
+[log (2017-03-24 13:16:27.496)]  Typing: Y
+
+[log (2017-03-24 13:16:40.397)]  Waiting for image: images/rdt/rcvVol.png for 60 seconds
+[log (2017-03-24 13:16:40.500)]  Typing: Y
+
+[log (2017-03-24 13:19:45.714)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:19:45.716)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:19:45.718)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:19:45.724)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:19:45.726)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:19:45.729)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:19:45.732)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:19:45.734)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:19:47.124)]  Creating C&E consignment:
+[log (2017-03-24 13:21:27.869)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:21:27.871)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:21:27.874)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:21:27.876)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:21:27.878)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:21:27.886)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:21:27.888)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:21:27.889)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:21:29.212)]  Creating C&E consignment:
+[log (2017-03-24 13:21:55.886)]  Trying to log into the RDT 
+[log (2017-03-24 13:21:57.083)]  Typing: putty
+
+[log (2017-03-24 13:21:58.991)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 13:22:00.753)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 13:22:01.227)]  Typing: OPTIMUS	
+[log (2017-03-24 13:22:01.434)]  Typing: 1234
+
+[log (2017-03-24 13:22:02.106)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 13:22:02.311)]  Typing: 2112
+
+[log (2017-03-24 13:22:02.950)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 13:22:02.951)]  Entering Pre-Advice ID
+[log (2017-03-24 13:22:03.426)]  Typing: A000000255
+
+[log (2017-03-24 13:22:04.683)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 13:22:04.732)]  Receiving PA Line 
+[log (2017-03-24 13:22:05.096)]  Typing: 20001311
+
+[log (2017-03-24 13:22:05.640)]  Typing: 
+
+[log (2017-03-24 13:22:06.677)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 13:22:07.041)]  Typing: REC001?
+[log (2017-03-24 13:22:07.446)]  Typing: 2017032422
+[log (2017-03-24 13:22:07.488)]  Typing: ?
+[log (2017-03-24 13:22:07.696)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 13:22:08.823)]  Typing: 50?
+[log (2017-03-24 13:22:08.907)]  Typing: 12
+[log (2017-03-24 13:22:08.950)]  Typing: ?
+[log (2017-03-24 13:22:08.992)]  Typing: ?
+[log (2017-03-24 13:22:09.357)]  Typing: PALLET
+[log (2017-03-24 13:22:09.400)]  Typing: ?
+[log (2017-03-24 13:22:09.565)]  Typing: 2014
+[log (2017-03-24 13:22:09.647)]  Typing: 10
+[log (2017-03-24 13:22:09.690)]  Typing: ?
+[log (2017-03-24 13:22:10.333)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 13:22:10.378)]  Typing: ?
+[log (2017-03-24 13:22:10.423)]  Typing: ?
+[log (2017-03-24 13:22:10.507)]  Typing: 24
+[log (2017-03-24 13:22:10.591)]  Typing: 03
+[log (2017-03-24 13:22:10.756)]  Typing: 2022
+[log (2017-03-24 13:22:10.871)]  Typing: Y
+
+[log (2017-03-24 13:22:11.553)]  Waiting for image: images/rdt/rcvVol.png for 60 seconds
+[log (2017-03-24 13:22:11.657)]  Typing: Y
+
+[log (2017-03-24 13:22:17.035)]  FindFailed: can not find images/rdt/paComplete.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-24 13:22:17.304)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_197296043\sikuliximage-1490361737091.png
+[log (2017-03-24 13:39:47.535)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:39:47.537)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:39:47.538)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:39:47.540)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:39:47.542)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:39:47.547)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:39:47.551)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:39:47.552)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:39:48.881)]  Trying to insert Pre Advice
+[log (2017-03-24 13:39:48.883)]  inserting header file: A000000256
+[log (2017-03-24 13:39:49.639)]  inserting line file
+[log (2017-03-24 13:39:50.034)]  inserting line file
+[log (2017-03-24 13:39:50.188)]  Waiting for merge.....A000000256
+[log (2017-03-24 13:39:51.190)]  Waiting for merge.....60
+[log (2017-03-24 13:39:51.252)]  Pre Advice null merged
+[log (2017-03-24 13:54:12.326)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:54:12.331)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:54:12.333)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:54:12.335)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:54:12.340)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:54:12.342)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:54:12.345)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:54:12.348)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:54:13.468)]  Trying to insert Pre Advice
+[log (2017-03-24 13:54:13.470)]  inserting header file: A000000256
+[log (2017-03-24 13:54:13.827)]  inserting line file
+[log (2017-03-24 13:54:13.986)]  inserting line file
+[log (2017-03-24 13:54:14.151)]  Waiting for merge.....A000000256
+[log (2017-03-24 13:54:15.153)]  Waiting for merge.....60
+[log (2017-03-24 13:54:15.222)]  Pre Advice null merged
+[log (2017-03-24 13:54:15.448)]  Attempting to log into the application.
+[log (2017-03-24 13:54:24.241)]  Login successful
+[log (2017-03-24 13:54:24.242)]  Creating C&E consignment:
+[log (2017-03-24 13:55:37.967)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 13:55:37.970)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 13:55:37.971)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 13:55:37.973)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 13:55:37.974)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 13:55:37.977)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 13:55:37.978)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 13:55:37.980)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 13:55:39.086)]  Trying to insert Pre Advice
+[log (2017-03-24 13:55:39.087)]  inserting header file: A000000257
+[log (2017-03-24 13:55:39.467)]  inserting line file
+[log (2017-03-24 13:55:39.612)]  inserting line file
+[log (2017-03-24 13:55:39.773)]  Waiting for merge.....A000000257
+[log (2017-03-24 13:55:40.775)]  Waiting for merge.....60
+[log (2017-03-24 13:55:41.818)]  Waiting for merge.....59
+[log (2017-03-24 13:55:41.854)]  Pre Advice null merged
+[log (2017-03-24 13:55:42.091)]  Attempting to log into the application.
+[log (2017-03-24 13:55:50.912)]  Login successful
+[log (2017-03-24 13:55:50.915)]  Creating C&E consignment:
+[log (2017-03-24 13:56:21.475)]  Trying to log into the RDT 
+[log (2017-03-24 13:56:22.755)]  Typing: putty
+
+[log (2017-03-24 13:56:23.550)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 13:56:25.703)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 13:56:26.421)]  Typing: OPTIMUS	
+[log (2017-03-24 13:56:26.733)]  Typing: 1234
+
+[log (2017-03-24 13:56:27.360)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 13:56:27.598)]  Typing: 2112
+
+[log (2017-03-24 13:56:28.203)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 13:56:28.203)]  Entering Pre-Advice ID
+[log (2017-03-24 13:56:28.669)]  Typing: A000000257
+
+[log (2017-03-24 13:56:29.812)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 13:56:29.812)]  Trying to log into the RDT 
+[log (2017-03-24 13:56:30.967)]  Typing: putty
+
+[log (2017-03-24 13:56:32.027)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 14:09:59.398)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 14:09:59.400)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 14:09:59.403)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 14:09:59.405)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 14:09:59.411)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 14:09:59.412)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 14:09:59.413)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 14:09:59.415)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 14:10:00.471)]  Trying to insert Pre Advice
+[log (2017-03-24 14:10:00.473)]  inserting header file: A000000259
+[log (2017-03-24 14:10:00.844)]  inserting line file
+[log (2017-03-24 14:10:00.990)]  inserting line file
+[log (2017-03-24 14:10:01.135)]  Waiting for merge.....A000000259
+[log (2017-03-24 14:10:02.138)]  Waiting for merge.....60
+[log (2017-03-24 14:10:03.214)]  Waiting for merge.....59
+[log (2017-03-24 14:10:03.249)]  Pre Advice null merged
+[log (2017-03-24 14:10:03.480)]  Attempting to log into the application.
+[log (2017-03-24 14:10:12.799)]  Login successful
+[log (2017-03-24 14:10:12.801)]  Creating C&E consignment:
+[log (2017-03-24 14:10:41.404)]  Logging out of teh application
+[log (2017-03-24 14:10:42.295)]  Trying to log into the RDT 
+[log (2017-03-24 14:10:43.493)]  Typing: putty
+
+[log (2017-03-24 14:10:44.937)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 14:10:46.818)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 14:10:47.281)]  Typing: OPTIMUS	
+[log (2017-03-24 14:10:47.488)]  Typing: 1234
+
+[log (2017-03-24 14:10:48.188)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 14:10:48.392)]  Typing: 2112
+
+[log (2017-03-24 14:10:49.062)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 14:10:49.063)]  Entering Pre-Advice ID
+[log (2017-03-24 14:10:49.524)]  Typing: A000000259
+
+[log (2017-03-24 14:10:50.990)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 14:10:50.991)]  Receiving PA Line 
+[log (2017-03-24 14:10:51.353)]  Typing: 20001311
+
+[log (2017-03-24 14:10:51.896)]  Typing: 
+
+[log (2017-03-24 14:10:55.240)]  Receiving PA Line 
+[log (2017-03-24 14:10:55.606)]  Typing: 20001311
+
+[log (2017-03-24 14:10:56.148)]  Typing: 
+
+[log (2017-03-24 14:17:53.652)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 14:17:53.654)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 14:17:53.656)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 14:17:53.660)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 14:17:53.661)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 14:17:53.664)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 14:17:53.665)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 14:17:53.667)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 14:17:54.927)]  Trying to insert Pre Advice
+[log (2017-03-24 14:17:54.929)]  inserting header file: A000000260
+[log (2017-03-24 14:17:55.314)]  inserting line file
+[log (2017-03-24 14:17:55.464)]  inserting line file
+[log (2017-03-24 14:17:55.620)]  Waiting for merge.....A000000260
+[log (2017-03-24 14:17:56.621)]  Waiting for merge.....60
+[log (2017-03-24 14:17:56.693)]  Pre Advice null merged
+[log (2017-03-24 14:17:56.931)]  Attempting to log into the application.
+[log (2017-03-24 14:18:06.604)]  Login successful
+[log (2017-03-24 14:18:06.605)]  Creating C&E consignment:
+[log (2017-03-24 14:18:35.157)]  Logging out of teh application
+[log (2017-03-24 14:18:36.044)]  Trying to log into the RDT 
+[log (2017-03-24 14:18:37.254)]  Typing: putty
+
+[log (2017-03-24 14:18:38.705)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 14:18:40.475)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 14:18:40.941)]  Typing: OPTIMUS	
+[log (2017-03-24 14:18:41.143)]  Typing: 1234
+
+[log (2017-03-24 14:18:41.886)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 14:18:42.087)]  Typing: 2112
+
+[log (2017-03-24 14:18:42.755)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 14:18:42.756)]  Entering Pre-Advice ID
+[log (2017-03-24 14:18:43.220)]  Typing: A000000260
+
+[log (2017-03-24 14:18:44.729)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 14:18:44.747)]  Receiving PA Line 
+[log (2017-03-24 14:18:45.109)]  Typing: 20001311
+
+[log (2017-03-24 14:18:45.658)]  Typing: 
+
+[log (2017-03-24 14:18:46.337)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:18:46.679)]  Typing: REC001?
+[log (2017-03-24 14:18:47.086)]  Typing: 2017032423
+[log (2017-03-24 14:18:47.132)]  Typing: ?
+[log (2017-03-24 14:18:47.752)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:18:49.222)]  Typing: OPTIMUS?
+[log (2017-03-24 14:18:49.652)]  Typing: OPTIMUS
+[log (2017-03-24 14:18:49.696)]  Typing: ?
+[log (2017-03-24 14:18:49.739)]  Typing: ?
+[log (2017-03-24 14:18:50.102)]  Typing: PALLET
+[log (2017-03-24 14:18:50.146)]  Typing: ?
+[log (2017-03-24 14:18:50.313)]  Typing: 2014
+[log (2017-03-24 14:18:50.479)]  Typing: 1234
+[log (2017-03-24 14:18:50.523)]  Typing: ?
+[log (2017-03-24 14:18:51.555)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:18:51.597)]  Typing: ?
+[log (2017-03-24 14:18:51.639)]  Typing: ?
+[log (2017-03-24 14:18:51.722)]  Typing: 24
+[log (2017-03-24 14:18:51.806)]  Typing: 03
+[log (2017-03-24 14:18:51.978)]  Typing: 2022
+[log (2017-03-24 14:18:52.087)]  Typing: Y
+
+[log (2017-03-24 14:18:55.417)]  Receiving PA Line 
+[log (2017-03-24 14:18:55.782)]  Typing: 20001311
+
+[log (2017-03-24 14:18:56.328)]  Typing: 
+
+[log (2017-03-24 14:24:02.878)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 14:24:02.879)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 14:24:02.880)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 14:24:02.882)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 14:24:02.884)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 14:24:02.887)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 14:24:02.889)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 14:24:02.890)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 14:24:03.902)]  Trying to insert Pre Advice
+[log (2017-03-24 14:24:03.906)]  inserting header file: A000000261
+[log (2017-03-24 14:24:04.274)]  inserting line file
+[log (2017-03-24 14:24:04.434)]  inserting line file
+[log (2017-03-24 14:24:04.578)]  Waiting for merge.....A000000261
+[log (2017-03-24 14:24:05.580)]  Waiting for merge.....60
+[log (2017-03-24 14:24:05.645)]  Pre Advice null merged
+[log (2017-03-24 14:24:05.897)]  Attempting to log into the application.
+[log (2017-03-24 14:24:14.718)]  Login successful
+[log (2017-03-24 14:24:14.719)]  Creating C&E consignment:
+[log (2017-03-24 14:24:44.224)]  Logging out of teh application
+[log (2017-03-24 14:24:45.112)]  Trying to log into the RDT 
+[log (2017-03-24 14:24:46.327)]  Typing: putty
+
+[log (2017-03-24 14:24:47.173)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 14:24:48.884)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 14:24:49.349)]  Typing: OPTIMUS	
+[log (2017-03-24 14:24:49.552)]  Typing: 1234
+
+[log (2017-03-24 14:24:50.252)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 14:24:50.453)]  Typing: 2112
+
+[log (2017-03-24 14:24:51.120)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 14:24:51.121)]  Entering Pre-Advice ID
+[log (2017-03-24 14:24:51.588)]  Typing: A000000261
+
+[log (2017-03-24 14:24:52.932)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 14:24:52.950)]  Receiving PA Line 
+[log (2017-03-24 14:24:53.320)]  Typing: 20001311
+
+[log (2017-03-24 14:24:53.861)]  Typing: 
+
+[log (2017-03-24 14:24:54.554)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:24:54.896)]  Typing: REC001?
+[log (2017-03-24 14:24:55.299)]  Typing: 2017032424
+[log (2017-03-24 14:24:55.342)]  Typing: ?
+[log (2017-03-24 14:24:55.545)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:24:57.014)]  Typing: OPTIMUS?
+[log (2017-03-24 14:24:57.440)]  Typing: OPTIMUS
+[log (2017-03-24 14:24:57.484)]  Typing: ?
+[log (2017-03-24 14:24:57.526)]  Typing: ?
+[log (2017-03-24 14:24:57.892)]  Typing: PALLET
+[log (2017-03-24 14:24:57.933)]  Typing: ?
+[log (2017-03-24 14:24:58.110)]  Typing: 2014
+[log (2017-03-24 14:24:58.272)]  Typing: 1234
+[log (2017-03-24 14:24:58.315)]  Typing: ?
+[log (2017-03-24 14:24:59.013)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:24:59.056)]  Typing: ?
+[log (2017-03-24 14:24:59.099)]  Typing: ?
+[log (2017-03-24 14:24:59.182)]  Typing: 24
+[log (2017-03-24 14:24:59.264)]  Typing: 03
+[log (2017-03-24 14:24:59.426)]  Typing: 2022
+[log (2017-03-24 14:24:59.529)]  Typing: Y
+
+[log (2017-03-24 14:25:02.824)]  Receiving PA Line 
+[log (2017-03-24 14:25:03.191)]  Typing: 20001311
+
+[log (2017-03-24 14:25:03.741)]  Typing: 
+
+[log (2017-03-24 14:30:31.147)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 14:30:31.151)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 14:30:31.152)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 14:30:31.155)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 14:30:31.157)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 14:30:31.159)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 14:30:31.162)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 14:30:31.164)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 14:30:32.146)]  Trying to insert Pre Advice
+[log (2017-03-24 14:30:32.148)]  inserting header file: A000000262
+[log (2017-03-24 14:30:32.506)]  inserting line file
+[log (2017-03-24 14:30:32.656)]  inserting line file
+[log (2017-03-24 14:30:32.806)]  Waiting for merge.....A000000262
+[log (2017-03-24 14:30:33.809)]  Waiting for merge.....60
+[log (2017-03-24 14:30:33.865)]  Pre Advice null merged
+[log (2017-03-24 14:30:34.102)]  Attempting to log into the application.
+[log (2017-03-24 14:30:43.095)]  Login successful
+[log (2017-03-24 14:30:43.097)]  Creating C&E consignment:
+[log (2017-03-24 14:31:12.561)]  Logging out of teh application
+[log (2017-03-24 14:31:13.446)]  Trying to log into the RDT 
+[log (2017-03-24 14:31:14.696)]  Typing: putty
+
+[log (2017-03-24 14:31:15.529)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 14:31:17.287)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 14:31:17.752)]  Typing: OPTIMUS	
+[log (2017-03-24 14:31:17.957)]  Typing: 1234
+
+[log (2017-03-24 14:31:18.684)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 14:31:18.886)]  Typing: 2112
+
+[log (2017-03-24 14:31:19.544)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 14:31:19.545)]  Entering Pre-Advice ID
+[log (2017-03-24 14:31:20.011)]  Typing: A000000262
+
+[log (2017-03-24 14:31:21.443)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 14:31:21.461)]  Receiving PA Line 
+[log (2017-03-24 14:31:21.823)]  Typing: 20001311
+
+[log (2017-03-24 14:31:22.365)]  Typing: 
+
+[log (2017-03-24 14:31:23.018)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:31:23.361)]  Typing: REC001?
+[log (2017-03-24 14:31:23.773)]  Typing: 2017032425
+[log (2017-03-24 14:31:23.817)]  Typing: ?
+[log (2017-03-24 14:31:24.484)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:31:25.615)]  Typing: 50?
+[log (2017-03-24 14:31:25.699)]  Typing: 12
+[log (2017-03-24 14:31:25.744)]  Typing: ?
+[log (2017-03-24 14:31:25.788)]  Typing: ?
+[log (2017-03-24 14:31:26.152)]  Typing: PALLET
+[log (2017-03-24 14:31:26.196)]  Typing: ?
+[log (2017-03-24 14:31:26.358)]  Typing: 2014
+[log (2017-03-24 14:31:26.442)]  Typing: 10
+[log (2017-03-24 14:31:26.488)]  Typing: ?
+[log (2017-03-24 14:31:27.147)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:31:27.189)]  Typing: ?
+[log (2017-03-24 14:31:27.231)]  Typing: ?
+[log (2017-03-24 14:31:27.313)]  Typing: 24
+[log (2017-03-24 14:31:27.398)]  Typing: 03
+[log (2017-03-24 14:31:27.572)]  Typing: 2022
+[log (2017-03-24 14:31:27.676)]  Typing: Y
+
+[log (2017-03-24 14:31:28.404)]  Waiting for image: images/rdt/rcvVol.png for 60 seconds
+[log (2017-03-24 14:31:28.506)]  Typing: Y
+
+[log (2017-03-24 14:31:28.524)]  Receiving PA Line 
+[log (2017-03-24 14:31:28.887)]  Typing: 20001311
+
+[log (2017-03-24 14:31:29.441)]  Typing: 
+
+[log (2017-03-24 14:32:42.214)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 14:32:42.220)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 14:32:42.222)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 14:32:42.225)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 14:32:42.230)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 14:32:42.231)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 14:32:42.234)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 14:32:42.235)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 14:32:43.278)]  Trying to insert Pre Advice
+[log (2017-03-24 14:32:43.280)]  inserting header file: A000000263
+[log (2017-03-24 14:32:43.630)]  inserting line file
+[log (2017-03-24 14:32:43.810)]  inserting line file
+[log (2017-03-24 14:32:43.957)]  Waiting for merge.....A000000263
+[log (2017-03-24 14:32:44.960)]  Waiting for merge.....60
+[log (2017-03-24 14:32:46.027)]  Waiting for merge.....59
+[log (2017-03-24 14:32:46.063)]  Pre Advice null merged
+[log (2017-03-24 14:32:46.291)]  Attempting to log into the application.
+[log (2017-03-24 14:32:55.088)]  Login successful
+[log (2017-03-24 14:32:55.089)]  Creating C&E consignment:
+[log (2017-03-24 14:33:23.890)]  Logging out of teh application
+[log (2017-03-24 14:33:24.779)]  Trying to log into the RDT 
+[log (2017-03-24 14:33:26.013)]  Typing: putty
+
+[log (2017-03-24 14:33:26.841)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 14:33:29.059)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 14:33:29.528)]  Typing: OPTIMUS	
+[log (2017-03-24 14:33:29.730)]  Typing: 1234
+
+[log (2017-03-24 14:33:30.479)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 14:33:30.683)]  Typing: 2112
+
+[log (2017-03-24 14:33:31.819)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 14:33:31.820)]  Entering Pre-Advice ID
+[log (2017-03-24 14:33:32.284)]  Typing: A000000263
+
+[log (2017-03-24 14:33:33.660)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 14:33:33.678)]  Receiving PA Line 
+[log (2017-03-24 14:33:34.043)]  Typing: 20001311
+
+[log (2017-03-24 14:33:34.588)]  Typing: 
+
+[log (2017-03-24 14:33:35.255)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:33:35.601)]  Typing: REC001?
+[log (2017-03-24 14:33:36.010)]  Typing: 2017032426
+[log (2017-03-24 14:33:36.052)]  Typing: ?
+[log (2017-03-24 14:33:36.764)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:33:37.892)]  Typing: 50?
+[log (2017-03-24 14:33:37.976)]  Typing: 12
+[log (2017-03-24 14:33:38.018)]  Typing: ?
+[log (2017-03-24 14:33:38.060)]  Typing: ?
+[log (2017-03-24 14:33:38.428)]  Typing: PALLET
+[log (2017-03-24 14:33:38.474)]  Typing: ?
+[log (2017-03-24 14:33:38.636)]  Typing: 2014
+[log (2017-03-24 14:33:38.719)]  Typing: 10
+[log (2017-03-24 14:33:38.785)]  Typing: ?
+[log (2017-03-24 14:33:39.416)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:33:39.457)]  Typing: ?
+[log (2017-03-24 14:33:39.500)]  Typing: ?
+[log (2017-03-24 14:33:39.582)]  Typing: 24
+[log (2017-03-24 14:33:39.664)]  Typing: 03
+[log (2017-03-24 14:33:39.828)]  Typing: 2022
+[log (2017-03-24 14:33:39.931)]  Typing: Y
+
+[log (2017-03-24 14:33:40.669)]  Waiting for image: images/rdt/rcvVol.png for 60 seconds
+[log (2017-03-24 14:33:40.771)]  Typing: Y
+
+[log (2017-03-24 14:33:41.288)]  Receiving PA Line 
+[log (2017-03-24 14:33:41.665)]  Typing: 20001311
+
+[log (2017-03-24 14:33:42.209)]  Typing: 
+
+[log (2017-03-24 14:33:42.917)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:33:43.259)]  Typing: REC001?
+[log (2017-03-24 14:33:43.667)]  Typing: 2017032427
+[log (2017-03-24 14:33:43.711)]  Typing: ?
+[log (2017-03-24 14:33:44.006)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:33:45.130)]  Typing: 50?
+[log (2017-03-24 14:33:45.211)]  Typing: 12
+[log (2017-03-24 14:33:45.254)]  Typing: ?
+[log (2017-03-24 14:33:45.295)]  Typing: ?
+[log (2017-03-24 14:33:45.664)]  Typing: PALLET
+[log (2017-03-24 14:33:45.709)]  Typing: ?
+[log (2017-03-24 14:33:45.878)]  Typing: 2014
+[log (2017-03-24 14:33:45.961)]  Typing: 10
+[log (2017-03-24 14:33:46.008)]  Typing: ?
+[log (2017-03-24 14:33:46.653)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:33:46.696)]  Typing: ?
+[log (2017-03-24 14:33:46.740)]  Typing: ?
+[log (2017-03-24 14:33:46.825)]  Typing: 24
+[log (2017-03-24 14:33:46.910)]  Typing: 03
+[log (2017-03-24 14:33:47.072)]  Typing: 2022
+[log (2017-03-24 14:33:47.180)]  Typing: Y
+
+[log (2017-03-24 14:33:47.899)]  Waiting for image: images/rdt/rcvVol.png for 60 seconds
+[log (2017-03-24 14:33:48.001)]  Typing: Y
+
+[log (2017-03-24 14:33:56.925)]  Typing: ?
+[log (2017-03-24 14:37:47.848)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 14:37:47.851)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 14:37:47.854)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 14:37:47.859)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 14:37:47.861)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 14:37:47.864)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 14:37:47.867)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 14:37:47.870)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 14:37:49.132)]  Trying to insert Pre Advice
+[log (2017-03-24 14:37:49.136)]  inserting header file: A000000264
+[log (2017-03-24 14:37:50.112)]  inserting line file
+[log (2017-03-24 14:37:50.504)]  inserting line file
+[log (2017-03-24 14:37:50.912)]  Waiting for merge.....A000000264
+[log (2017-03-24 14:37:51.915)]  Waiting for merge.....60
+[log (2017-03-24 14:37:52.959)]  Waiting for merge.....59
+[log (2017-03-24 14:37:52.996)]  Pre Advice null merged
+[log (2017-03-24 14:37:53.239)]  Attempting to log into the application.
+[log (2017-03-24 14:38:03.235)]  Login successful
+[log (2017-03-24 14:38:03.237)]  Creating C&E consignment:
+[log (2017-03-24 14:38:34.672)]  Logging out of teh application
+[log (2017-03-24 14:38:35.575)]  Trying to log into the RDT 
+[log (2017-03-24 14:38:36.815)]  Typing: putty
+
+[log (2017-03-24 14:38:40.259)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 14:38:42.522)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 14:38:42.985)]  Typing: OPTIMUS	
+[log (2017-03-24 14:38:43.188)]  Typing: 1234
+
+[log (2017-03-24 14:38:43.946)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 14:38:44.149)]  Typing: 2112
+
+[log (2017-03-24 14:38:44.801)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 14:38:44.802)]  Entering Pre-Advice ID
+[log (2017-03-24 14:38:45.265)]  Typing: A000000264
+
+[log (2017-03-24 14:38:46.715)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 14:38:46.736)]  Receiving PA Line 
+[log (2017-03-24 14:38:47.099)]  Typing: 20001311
+
+[log (2017-03-24 14:38:47.644)]  Typing: 
+
+[log (2017-03-24 14:38:48.338)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:38:48.707)]  Typing: REC001?
+[log (2017-03-24 14:38:49.123)]  Typing: 2017032428
+[log (2017-03-24 14:38:49.168)]  Typing: ?
+[log (2017-03-24 14:38:49.921)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:38:51.044)]  Typing: 50?
+[log (2017-03-24 14:38:51.126)]  Typing: 12
+[log (2017-03-24 14:38:51.168)]  Typing: ?
+[log (2017-03-24 14:38:51.209)]  Typing: ?
+[log (2017-03-24 14:38:51.577)]  Typing: PALLET
+[log (2017-03-24 14:38:51.622)]  Typing: ?
+[log (2017-03-24 14:38:51.787)]  Typing: 2014
+[log (2017-03-24 14:38:51.869)]  Typing: 10
+[log (2017-03-24 14:38:51.911)]  Typing: ?
+[log (2017-03-24 14:38:52.544)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:38:52.586)]  Typing: ?
+[log (2017-03-24 14:38:52.632)]  Typing: ?
+[log (2017-03-24 14:38:52.714)]  Typing: 24
+[log (2017-03-24 14:38:52.797)]  Typing: 03
+[log (2017-03-24 14:38:52.963)]  Typing: 2022
+[log (2017-03-24 14:38:53.078)]  Typing: Y
+
+[log (2017-03-24 14:38:53.820)]  Waiting for image: images/rdt/rcvVol.png for 60 seconds
+[log (2017-03-24 14:38:53.921)]  Typing: Y
+
+[log (2017-03-24 14:38:54.438)]  Receiving PA Line 
+[log (2017-03-24 14:38:54.806)]  Typing: 20001413
+
+[log (2017-03-24 14:38:55.350)]  Typing: 
+
+[log (2017-03-24 14:38:56.084)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:38:56.439)]  Typing: REC001?
+[log (2017-03-24 14:38:56.850)]  Typing: 2017032429
+[log (2017-03-24 14:38:56.895)]  Typing: ?
+[log (2017-03-24 14:38:57.688)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:38:58.829)]  Typing: 50?
+[log (2017-03-24 14:38:58.913)]  Typing: 12
+[log (2017-03-24 14:38:58.957)]  Typing: ?
+[log (2017-03-24 14:38:59.000)]  Typing: ?
+[log (2017-03-24 14:38:59.363)]  Typing: PALLET
+[log (2017-03-24 14:38:59.406)]  Typing: ?
+[log (2017-03-24 14:38:59.571)]  Typing: 2014
+[log (2017-03-24 14:38:59.654)]  Typing: 36
+[log (2017-03-24 14:38:59.696)]  Typing: ?
+[log (2017-03-24 14:39:00.305)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:39:00.346)]  Typing: ?
+[log (2017-03-24 14:39:00.388)]  Typing: ?
+[log (2017-03-24 14:39:00.472)]  Typing: 24
+[log (2017-03-24 14:39:00.558)]  Typing: 03
+[log (2017-03-24 14:39:00.721)]  Typing: 2022
+[log (2017-03-24 14:39:00.829)]  Typing: Y
+
+[log (2017-03-24 14:39:01.531)]  Waiting for image: images/rdt/rcvVol.png for 60 seconds
+[log (2017-03-24 14:39:01.634)]  Typing: Y
+
+[log (2017-03-24 14:45:29.176)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-24 14:45:29.179)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-24 14:45:29.181)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-24 14:45:29.183)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-24 14:45:29.185)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-24 14:45:29.188)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-24 14:45:29.189)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-24 14:45:29.191)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-24 14:45:30.267)]  Trying to insert Pre Advice
+[log (2017-03-24 14:45:30.269)]  inserting header file: A000000265
+[log (2017-03-24 14:45:30.608)]  inserting line file
+[log (2017-03-24 14:45:30.758)]  inserting line file
+[log (2017-03-24 14:45:30.903)]  Waiting for merge.....A000000265
+[log (2017-03-24 14:45:31.906)]  Waiting for merge.....60
+[log (2017-03-24 14:45:31.994)]  Pre Advice null merged
+[log (2017-03-24 14:45:32.232)]  Attempting to log into the application.
+[log (2017-03-24 14:45:40.959)]  Login successful
+[log (2017-03-24 14:45:40.960)]  Creating C&E consignment:
+[log (2017-03-24 14:46:09.990)]  Logging out of teh application
+[log (2017-03-24 14:46:10.870)]  Trying to log into the RDT 
+[log (2017-03-24 14:46:12.072)]  Typing: putty
+
+[log (2017-03-24 14:46:12.959)]  Waiting for image: images/optimusRDT.png for 15 seconds
+[log (2017-03-24 14:46:15.156)]  Waiting for image: images/rdt/login.png for 60 seconds
+[log (2017-03-24 14:46:15.622)]  Typing: OPTIMUS	
+[log (2017-03-24 14:46:15.825)]  Typing: 1234
+
+[log (2017-03-24 14:46:16.583)]  Navigating to Pre-Advice Receiving
+[log (2017-03-24 14:46:16.787)]  Typing: 2112
+
+[log (2017-03-24 14:46:17.451)]  Waiting for image: images/rdt/rcvPreEnt.png for 10 seconds
+[log (2017-03-24 14:46:17.452)]  Entering Pre-Advice ID
+[log (2017-03-24 14:46:17.951)]  Typing: A000000265
+
+[log (2017-03-24 14:46:19.456)]  Waiting for image: images/rdt/rcvLinEnt.png for 60 seconds
+[log (2017-03-24 14:46:19.474)]  Receiving PA Line 
+[log (2017-03-24 14:46:19.837)]  Typing: 20001311
+
+[log (2017-03-24 14:46:20.379)]  Typing: 
+
+[log (2017-03-24 14:46:21.054)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:46:21.396)]  Typing: REC001?
+[log (2017-03-24 14:46:21.808)]  Typing: 2017032430
+[log (2017-03-24 14:46:21.850)]  Typing: ?
+[log (2017-03-24 14:46:22.513)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:46:23.637)]  Typing: 50?
+[log (2017-03-24 14:46:23.720)]  Typing: 12
+[log (2017-03-24 14:46:23.761)]  Typing: ?
+[log (2017-03-24 14:46:23.807)]  Typing: ?
+[log (2017-03-24 14:46:24.170)]  Typing: PALLET
+[log (2017-03-24 14:46:24.211)]  Typing: ?
+[log (2017-03-24 14:46:24.373)]  Typing: 2014
+[log (2017-03-24 14:46:24.455)]  Typing: 10
+[log (2017-03-24 14:46:24.499)]  Typing: ?
+[log (2017-03-24 14:46:25.167)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:46:25.209)]  Typing: ?
+[log (2017-03-24 14:46:25.251)]  Typing: ?
+[log (2017-03-24 14:46:25.334)]  Typing: 24
+[log (2017-03-24 14:46:25.416)]  Typing: 03
+[log (2017-03-24 14:46:25.578)]  Typing: 2022
+[log (2017-03-24 14:46:25.714)]  Typing: Y
+
+[log (2017-03-24 14:46:26.462)]  Waiting for image: images/rdt/rcvVol.png for 60 seconds
+[log (2017-03-24 14:46:26.566)]  Typing: Y
+
+[log (2017-03-24 14:46:27.086)]  Receiving PA Line 
+[log (2017-03-24 14:46:27.464)]  Typing: 20001413
+
+[log (2017-03-24 14:46:28.017)]  Typing: 
+
+[log (2017-03-24 14:46:28.731)]  Waiting for image: images/rdt/rcvPreCmp.png for 60 seconds
+[log (2017-03-24 14:46:29.100)]  Typing: REC001?
+[log (2017-03-24 14:46:29.518)]  Typing: 2017032431
+[log (2017-03-24 14:46:29.562)]  Typing: ?
+[log (2017-03-24 14:46:30.188)]  Waiting for image: images/rdt/2of3.png for 60 seconds
+[log (2017-03-24 14:46:31.312)]  Typing: 50?
+[log (2017-03-24 14:46:31.395)]  Typing: 12
+[log (2017-03-24 14:46:31.440)]  Typing: ?
+[log (2017-03-24 14:46:31.482)]  Typing: ?
+[log (2017-03-24 14:46:31.848)]  Typing: PALLET
+[log (2017-03-24 14:46:31.890)]  Typing: ?
+[log (2017-03-24 14:46:32.055)]  Typing: 2014
+[log (2017-03-24 14:46:32.139)]  Typing: 36
+[log (2017-03-24 14:46:32.181)]  Typing: ?
+[log (2017-03-24 14:46:32.851)]  Waiting for image: images/rdt/3of3.png for 60 seconds
+[log (2017-03-24 14:46:32.894)]  Typing: ?
+[log (2017-03-24 14:46:32.937)]  Typing: ?
+[log (2017-03-24 14:46:33.019)]  Typing: 24
+[log (2017-03-24 14:46:33.100)]  Typing: 03
+[log (2017-03-24 14:46:33.262)]  Typing: 2022

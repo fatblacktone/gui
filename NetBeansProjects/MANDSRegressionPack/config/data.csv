@@ -1,0 +1,8 @@
+USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+OPTIMUS,,dcsdba,,,,
+1234,,jdadcbacd,,,,
+Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+2055734P02,000000012,REC001,2017022701,10c,12,N
+SKU,,,,,,Create
+UPC,,,,,,Create
+ORDERS,,,,,,Create

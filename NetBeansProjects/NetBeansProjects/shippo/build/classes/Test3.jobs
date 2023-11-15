@@ -1,0 +1,12 @@
+# file for Scheduler simulator
+# process name;start time;cycles on cpu, cycles blocked, cycles on cpu...
+CPU1;4;40
+INTER;0;2,1,2,1,2,1,2
+MIXED1;0;5,2,2,2,6
+IO1;0;1,5,2,5,1,6,3
+INTER2;0;2,3,8,3,6
+INTER3;10;1,4,1,5,1,7,1,7,1,6,1
+CPU2;3;30
+CPU3;15;20
+IO2;10;2,5,6,5,3,7,4
+

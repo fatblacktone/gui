@@ -1,0 +1,3 @@
+USER,,Database,jdbc:oracle:thin:@hlxp0dc033.unix.marksandspencer.com:1521:JDABACP
+TONEW,,dcsdba,
+9876,,dcsabd,

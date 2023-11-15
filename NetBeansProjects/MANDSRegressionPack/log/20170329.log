@@ -1,0 +1,51 @@
+[log (2017-03-29 14:22:08.530)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-29 14:22:08.532)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-29 14:22:08.533)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-29 14:22:08.535)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-29 14:22:08.536)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-29 14:22:08.538)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-29 14:22:08.539)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-29 14:22:08.540)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-29 14:22:09.997)]  Trying to insert Pre Advice
+[log (2017-03-29 14:22:09.998)]  inserting header file: A000000363
+[log (2017-03-29 14:22:10.708)]  inserting header file: A000000364
+[log (2017-03-29 14:22:10.867)]  inserting header file: A000000365
+[log (2017-03-29 14:22:11.029)]  inserting header file: A000000366
+[log (2017-03-29 14:22:11.185)]  inserting header file: A000000367
+[log (2017-03-29 14:22:11.335)]  inserting header file: A000000368
+[log (2017-03-29 14:22:11.494)]  inserting header file: A000000369
+[log (2017-03-29 14:22:11.645)]  inserting header file: A000000372
+[log (2017-03-29 14:22:11.790)]  inserting header file: A000000373
+[log (2017-03-29 14:22:11.966)]  inserting line file: A000000363
+[log (2017-03-29 14:22:12.392)]  inserting line file: A000000363
+[log (2017-03-29 14:22:12.545)]  inserting line file: A000000364
+[log (2017-03-29 14:22:12.698)]  inserting line file: A000000365
+[log (2017-03-29 14:22:12.852)]  inserting line file: A000000365
+[log (2017-03-29 14:22:13.012)]  inserting line file: A000000366
+[log (2017-03-29 14:22:13.172)]  inserting line file: A000000367
+[log (2017-03-29 14:22:13.321)]  inserting line file: A000000367
+[log (2017-03-29 14:22:13.469)]  inserting line file: A000000368
+[log (2017-03-29 14:22:13.621)]  inserting line file: A000000369
+[log (2017-03-29 14:22:13.772)]  inserting line file: A000000369
+[log (2017-03-29 14:22:13.923)]  inserting line file: A000000369
+[log (2017-03-29 14:22:14.099)]  inserting line file: A000000372
+[log (2017-03-29 14:22:14.269)]  inserting line file: A000000373
+[log (2017-03-29 14:22:14.432)]  Waiting for merge.....A000000363
+[log (2017-03-29 14:22:14.517)]  Pre Advice A000000363 merged
+[log (2017-03-29 14:22:14.519)]  Waiting for merge.....A000000364
+[log (2017-03-29 14:22:14.558)]  Pre Advice A000000364 merged
+[log (2017-03-29 14:22:14.560)]  Waiting for merge.....A000000365
+[log (2017-03-29 14:22:14.600)]  Pre Advice A000000365 merged
+[log (2017-03-29 14:22:14.602)]  Waiting for merge.....A000000366
+[log (2017-03-29 14:22:14.642)]  Pre Advice A000000366 merged
+[log (2017-03-29 14:22:14.645)]  Waiting for merge.....A000000367
+[log (2017-03-29 14:22:14.686)]  Pre Advice A000000367 merged
+[log (2017-03-29 14:22:14.687)]  Waiting for merge.....A000000368
+[log (2017-03-29 14:22:14.740)]  Pre Advice A000000368 merged
+[log (2017-03-29 14:22:14.743)]  Waiting for merge.....A000000369
+[log (2017-03-29 14:22:15.809)]  Waiting for merge.....60
+[log (2017-03-29 14:22:15.856)]  Pre Advice A000000369 merged
+[log (2017-03-29 14:22:15.858)]  Waiting for merge.....A000000372
+[log (2017-03-29 14:22:15.914)]  Pre Advice A000000372 merged
+[log (2017-03-29 14:22:15.917)]  Waiting for merge.....A000000373
+[log (2017-03-29 14:22:15.973)]  Pre Advice A000000373 merged

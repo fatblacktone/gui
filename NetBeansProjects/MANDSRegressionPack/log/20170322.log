@@ -1,0 +1,2876 @@
+[log (2017-03-22 08:36:23.701)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:36:23.701)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:36:23.701)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:36:23.701)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:36:23.701)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:36:23.701)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:36:23.701)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:36:23.701)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:36:24.964)]  Attempting to interface an Order
+[log (2017-03-22 08:36:24.964)]  inserting order header
+[log (2017-03-22 08:36:25.947)]  inserting order header
+[log (2017-03-22 08:36:26.134)]  inserting order header
+[log (2017-03-22 08:36:26.337)]  inserting order header
+[log (2017-03-22 08:36:26.524)]  inserting order header
+[log (2017-03-22 08:36:26.717)]  inserting order header
+[log (2017-03-22 08:36:26.904)]  inserting order line
+[log (2017-03-22 08:36:27.372)]  inserting order line
+[log (2017-03-22 08:36:27.528)]  inserting order line
+[log (2017-03-22 08:36:27.684)]  inserting order line
+[log (2017-03-22 08:36:27.856)]  inserting order line
+[log (2017-03-22 08:36:28.090)]  inserting order line
+[log (2017-03-22 08:36:28.371)]  Logging into the application
+[log (2017-03-22 08:36:28.371)]  Attempting to log into the application.
+[log (2017-03-22 08:38:53.956)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:38:53.957)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:38:53.958)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:38:53.960)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:38:53.961)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:38:53.962)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:38:53.964)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:38:53.965)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:38:54.968)]  Attempting to interface an Order
+[log (2017-03-22 08:38:54.969)]  inserting order header
+[log (2017-03-22 08:38:55.868)]  inserting order header
+[log (2017-03-22 08:38:56.068)]  inserting order header
+[log (2017-03-22 08:38:56.254)]  inserting order header
+[log (2017-03-22 08:38:56.435)]  inserting order header
+[log (2017-03-22 08:38:56.621)]  inserting order header
+[log (2017-03-22 08:38:56.803)]  inserting order line
+[log (2017-03-22 08:38:57.485)]  inserting order line
+[log (2017-03-22 08:38:57.709)]  inserting order line
+[log (2017-03-22 08:38:57.931)]  inserting order line
+[log (2017-03-22 08:38:58.117)]  inserting order line
+[log (2017-03-22 08:38:58.339)]  inserting order line
+[log (2017-03-22 08:38:58.525)]  Logging into the application
+[log (2017-03-22 08:38:58.526)]  Attempting to log into the application.
+[log (2017-03-22 08:40:26.726)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:40:26.728)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:40:26.729)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:40:26.730)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:40:26.731)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:40:26.732)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:40:26.734)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:40:26.735)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:40:33.786)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:40:33.788)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:40:33.791)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:40:33.793)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:40:33.795)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:40:33.796)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:40:33.798)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:40:33.799)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:40:34.998)]  Attempting to interface an Order
+[log (2017-03-22 08:40:34.999)]  inserting order header
+[log (2017-03-22 08:40:35.562)]  inserting order header
+[log (2017-03-22 08:40:35.875)]  inserting order header
+[log (2017-03-22 08:40:36.170)]  inserting order header
+[log (2017-03-22 08:40:36.674)]  inserting order header
+[log (2017-03-22 08:40:37.074)]  inserting order header
+[log (2017-03-22 08:40:37.404)]  inserting order line
+[log (2017-03-22 08:40:37.608)]  inserting order line
+[log (2017-03-22 08:40:37.816)]  inserting order line
+[log (2017-03-22 08:40:38.039)]  inserting order line
+[log (2017-03-22 08:40:38.217)]  inserting order line
+[log (2017-03-22 08:40:38.384)]  inserting order line
+[log (2017-03-22 08:40:38.584)]  Logging into the application
+[log (2017-03-22 08:40:38.585)]  Attempting to log into the application.
+[log (2017-03-22 08:41:04.907)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:41:04.909)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:41:04.910)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:41:04.913)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:41:04.918)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:41:04.920)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:41:04.922)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:41:04.923)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:41:05.995)]  Attempting to interface an Order
+[log (2017-03-22 08:41:05.997)]  inserting order header
+[log (2017-03-22 08:41:06.479)]  inserting order header
+[log (2017-03-22 08:41:06.665)]  inserting order header
+[log (2017-03-22 08:41:06.858)]  inserting order header
+[log (2017-03-22 08:41:07.053)]  inserting order header
+[log (2017-03-22 08:41:07.250)]  inserting order header
+[log (2017-03-22 08:41:15.059)]  inserting order line
+[log (2017-03-22 08:41:18.000)]  inserting order line
+[log (2017-03-22 08:41:21.573)]  inserting order line
+[log (2017-03-22 08:41:25.865)]  inserting order line
+[log (2017-03-22 08:41:34.023)]  inserting order line
+[log (2017-03-22 08:41:46.893)]  inserting order line
+[log (2017-03-22 08:46:18.991)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:46:18.992)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:46:18.994)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:46:18.995)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:46:18.996)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:46:18.998)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:46:19.000)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:46:19.001)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:46:20.087)]  Attempting to interface an Order
+[log (2017-03-22 08:46:20.089)]  inserting order header
+[log (2017-03-22 08:46:20.489)]  inserting order header
+[log (2017-03-22 08:46:20.674)]  inserting order header
+[log (2017-03-22 08:46:20.900)]  inserting order header
+[log (2017-03-22 08:46:21.081)]  inserting order header
+[log (2017-03-22 08:46:21.268)]  inserting order header
+[log (2017-03-22 08:46:21.457)]  inserting order line A000000385::1
+[log (2017-03-22 08:46:21.612)]  inserting order line A000000386::1
+[log (2017-03-22 08:46:21.765)]  inserting order line A000000387::1
+[log (2017-03-22 08:46:21.922)]  inserting order line A000000388::1
+[log (2017-03-22 08:46:22.077)]  inserting order line A000000389::1
+[log (2017-03-22 08:46:22.228)]  inserting order line A000000390::1
+[log (2017-03-22 08:46:22.408)]  Logging into the application
+[log (2017-03-22 08:46:22.417)]  Attempting to log into the application.
+[log (2017-03-22 08:48:47.284)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:48:47.285)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:48:47.286)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:48:47.288)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:48:47.289)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:48:47.290)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:48:47.291)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:48:47.292)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:48:48.322)]  Attempting to interface an Order
+[log (2017-03-22 08:48:48.324)]  inserting order header
+[log (2017-03-22 08:48:48.748)]  inserting order header
+[log (2017-03-22 08:48:48.942)]  inserting order header
+[log (2017-03-22 08:48:49.136)]  inserting order header
+[log (2017-03-22 08:48:49.323)]  inserting order header
+[log (2017-03-22 08:48:49.516)]  inserting order header
+[log (2017-03-22 08:48:49.703)]  inserting order line A000000385::1
+[log (2017-03-22 08:48:49.864)]  inserting order line A000000386::1
+[log (2017-03-22 08:48:50.022)]  inserting order line A000000387::1
+[log (2017-03-22 08:48:50.803)]  inserting order line A000000388::1
+[log (2017-03-22 08:48:51.167)]  inserting order line A000000389::1
+[log (2017-03-22 08:48:51.587)]  inserting order line A000000390::1
+[log (2017-03-22 08:48:52.081)]  java.lang.NullPointerException
+[log (2017-03-22 08:48:52.085)]  Waiting for merge....A000000385
+[log (2017-03-22 08:48:52.088)]  Waiting for merge....60
+[log (2017-03-22 08:48:53.159)]  Order A000000385 merged
+[log (2017-03-22 08:48:53.160)]  Waiting for merge....A000000386
+[log (2017-03-22 08:48:53.162)]  Waiting for merge....60
+[log (2017-03-22 08:48:54.216)]  Order A000000386 merged
+[log (2017-03-22 08:48:54.218)]  Waiting for merge....A000000387
+[log (2017-03-22 08:48:54.222)]  Waiting for merge....60
+[log (2017-03-22 08:48:55.280)]  Order A000000387 merged
+[log (2017-03-22 08:48:55.283)]  Waiting for merge....A000000388
+[log (2017-03-22 08:48:55.286)]  Waiting for merge....60
+[log (2017-03-22 08:50:23.135)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:50:23.136)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:50:23.137)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:50:23.139)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:50:23.140)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:50:23.141)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:50:23.143)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:50:23.144)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:50:24.203)]  Attempting to interface an Order
+[log (2017-03-22 08:50:24.204)]  inserting order header
+[log (2017-03-22 08:50:24.612)]  inserting order header
+[log (2017-03-22 08:50:24.812)]  inserting order header
+[log (2017-03-22 08:50:25.007)]  inserting order header
+[log (2017-03-22 08:50:25.191)]  inserting order header
+[log (2017-03-22 08:50:25.372)]  inserting order header
+[log (2017-03-22 08:50:25.574)]  inserting order line A000000385::1
+[log (2017-03-22 08:50:25.739)]  inserting order line A000000386::1
+[log (2017-03-22 08:50:25.900)]  inserting order line A000000387::1
+[log (2017-03-22 08:50:26.057)]  inserting order line A000000388::1
+[log (2017-03-22 08:50:26.224)]  inserting order line A000000389::1
+[log (2017-03-22 08:50:26.379)]  inserting order line A000000390::1
+[log (2017-03-22 08:50:26.542)]  Waiting for merge....A000000385
+[log (2017-03-22 08:50:26.546)]  Waiting for merge....60
+[log (2017-03-22 08:50:27.605)]  Order A000000385 merged
+[log (2017-03-22 08:50:27.607)]  Waiting for merge....A000000386
+[log (2017-03-22 08:50:27.609)]  Waiting for merge....60
+[log (2017-03-22 08:50:28.644)]  Order A000000386 merged
+[log (2017-03-22 08:50:28.646)]  Waiting for merge....A000000387
+[log (2017-03-22 08:50:28.649)]  Waiting for merge....60
+[log (2017-03-22 08:50:29.685)]  Order A000000387 merged
+[log (2017-03-22 08:50:29.687)]  Waiting for merge....A000000388
+[log (2017-03-22 08:50:29.690)]  Waiting for merge....60
+[log (2017-03-22 08:50:30.759)]  Order A000000388 merged
+[log (2017-03-22 08:50:30.762)]  Waiting for merge....A000000389
+[log (2017-03-22 08:50:30.765)]  Waiting for merge....60
+[log (2017-03-22 08:50:31.814)]  Order A000000389 merged
+[log (2017-03-22 08:50:31.816)]  Waiting for merge....A000000390
+[log (2017-03-22 08:50:31.817)]  Waiting for merge....60
+[log (2017-03-22 08:50:32.869)]  Order A000000390 merged
+[log (2017-03-22 08:50:32.882)]  Logging into the application
+[log (2017-03-22 08:50:32.885)]  Attempting to log into the application.
+[log (2017-03-22 08:51:01.168)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:51:01.168)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:51:01.168)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:51:01.168)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:51:01.168)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:51:01.168)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:51:01.168)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:51:01.178)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:51:02.192)]  Attempting to interface an Order
+[log (2017-03-22 08:51:02.192)]  inserting order header
+[log (2017-03-22 08:51:02.645)]  inserting order header
+[log (2017-03-22 08:51:02.835)]  inserting order header
+[log (2017-03-22 08:51:03.026)]  inserting order header
+[log (2017-03-22 08:51:03.216)]  inserting order header
+[log (2017-03-22 08:51:03.387)]  inserting order header
+[log (2017-03-22 08:51:03.591)]  inserting order line A000000385::1
+[log (2017-03-22 08:51:03.753)]  inserting order line A000000386::1
+[log (2017-03-22 08:51:03.964)]  inserting order line A000000387::1
+[log (2017-03-22 08:51:04.135)]  inserting order line A000000388::1
+[log (2017-03-22 08:51:04.295)]  inserting order line A000000389::1
+[log (2017-03-22 08:51:04.450)]  inserting order line A000000390::1
+[log (2017-03-22 08:51:04.602)]  Waiting for merge....A000000385
+[log (2017-03-22 08:51:04.602)]  Waiting for merge....60
+[log (2017-03-22 08:51:05.680)]  Order A000000385 merged
+[log (2017-03-22 08:51:05.680)]  Waiting for merge....A000000386
+[log (2017-03-22 08:51:05.680)]  Waiting for merge....60
+[log (2017-03-22 08:51:06.720)]  Order A000000386 merged
+[log (2017-03-22 08:51:06.730)]  Waiting for merge....A000000387
+[log (2017-03-22 08:51:06.730)]  Waiting for merge....60
+[log (2017-03-22 08:51:07.762)]  Order A000000387 merged
+[log (2017-03-22 08:51:07.762)]  Waiting for merge....A000000388
+[log (2017-03-22 08:51:07.772)]  Waiting for merge....60
+[log (2017-03-22 08:51:08.807)]  Order A000000388 merged
+[log (2017-03-22 08:51:08.807)]  Waiting for merge....A000000389
+[log (2017-03-22 08:51:08.817)]  Waiting for merge....60
+[log (2017-03-22 08:51:09.854)]  Order A000000389 merged
+[log (2017-03-22 08:51:09.854)]  Waiting for merge....A000000390
+[log (2017-03-22 08:51:09.854)]  Waiting for merge....60
+[log (2017-03-22 08:51:10.891)]  Order A000000390 merged
+[log (2017-03-22 08:51:10.911)]  Logging into the application
+[log (2017-03-22 08:51:10.911)]  Attempting to log into the application.
+[log (2017-03-22 08:51:19.178)]  Login successful
+[log (2017-03-22 08:51:19.178)]  Running Order Grouping
+[log (2017-03-22 08:51:29.220)]  FindFailed: can not find images/next.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 08:51:29.482)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_108930960\sikuliximage-1490172689270.png
+[log (2017-03-22 08:51:29.503)]  Attempting Allocation A000000385
+[log (2017-03-22 08:51:29.533)]  Allocate flag set
+[log (2017-03-22 08:51:30.539)]  Waiting for allocation....70
+[log (2017-03-22 08:51:30.589)]  Allocation succesful
+[log (2017-03-22 08:51:30.599)]  Attempting Allocation A000000386
+[log (2017-03-22 08:51:30.630)]  Allocate flag set
+[log (2017-03-22 08:51:31.639)]  Waiting for allocation....70
+[log (2017-03-22 08:51:31.659)]  Allocation succesful
+[log (2017-03-22 08:51:31.669)]  Attempting Allocation A000000387
+[log (2017-03-22 08:51:31.699)]  Allocate flag set
+[log (2017-03-22 08:51:32.705)]  Waiting for allocation....70
+[log (2017-03-22 08:51:32.726)]  Allocation succesful
+[log (2017-03-22 08:51:32.726)]  Attempting Allocation A000000388
+[log (2017-03-22 08:51:32.756)]  Allocate flag set
+[log (2017-03-22 08:51:33.758)]  Waiting for allocation....70
+[log (2017-03-22 08:51:33.778)]  Allocation succesful
+[log (2017-03-22 08:51:33.788)]  Attempting Allocation A000000389
+[log (2017-03-22 08:51:33.818)]  Allocate flag set
+[log (2017-03-22 08:51:34.819)]  Waiting for allocation....70
+[log (2017-03-22 08:51:34.839)]  Allocation succesful
+[log (2017-03-22 08:51:34.839)]  Attempting Allocation A000000390
+[log (2017-03-22 08:51:34.879)]  Allocate flag set
+[log (2017-03-22 08:51:35.886)]  Waiting for allocation....70
+[log (2017-03-22 08:51:35.906)]  Allocation succesful
+[log (2017-03-22 08:51:35.916)]  Releasing move tasks. A000000385
+[log (2017-03-22 08:51:35.986)]  Move tasks already at status released
+[log (2017-03-22 08:51:35.986)]  Releasing move tasks. A000000386
+[log (2017-03-22 08:51:36.046)]  Move tasks already at status released
+[log (2017-03-22 08:51:36.056)]  Releasing move tasks. A000000387
+[log (2017-03-22 08:51:36.116)]  Move tasks already at status released
+[log (2017-03-22 08:51:36.116)]  Releasing move tasks. A000000388
+[log (2017-03-22 08:51:36.186)]  Move tasks already at status released
+[log (2017-03-22 08:51:36.186)]  Releasing move tasks. A000000389
+[log (2017-03-22 08:51:36.246)]  Move tasks already at status released
+[log (2017-03-22 08:51:36.246)]  Releasing move tasks. A000000390
+[log (2017-03-22 08:51:36.316)]  Move tasks already at status released
+[log (2017-03-22 08:51:36.326)]  Logging in to RDT
+[log (2017-03-22 08:51:36.326)]  Trying to log into the RDT 
+[log (2017-03-22 08:51:41.156)]  Navigating to containerPicking
+[log (2017-03-22 08:51:41.156)]  Navigating to Container Picking
+[log (2017-03-22 08:51:42.285)]  Picking order: A000000385
+[log (2017-03-22 08:51:46.241)]  FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 08:51:46.419)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_108930960\sikuliximage-1490172706281.png
+[log (2017-03-22 08:53:13.694)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:53:13.694)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:53:13.694)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:53:13.694)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:53:13.694)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:53:13.694)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:53:13.694)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:53:13.694)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:53:14.800)]  Attempting to interface an Order
+[log (2017-03-22 08:53:14.800)]  inserting order header
+[log (2017-03-22 08:53:15.262)]  inserting order header
+[log (2017-03-22 08:53:15.445)]  inserting order header
+[log (2017-03-22 08:53:15.635)]  inserting order header
+[log (2017-03-22 08:53:15.835)]  inserting order header
+[log (2017-03-22 08:53:16.045)]  inserting order header
+[log (2017-03-22 08:53:16.235)]  inserting order line A000000385::1
+[log (2017-03-22 08:53:16.436)]  inserting order line A000000386::1
+[log (2017-03-22 08:53:16.607)]  inserting order line A000000387::1
+[log (2017-03-22 08:53:16.763)]  inserting order line A000000388::1
+[log (2017-03-22 08:53:16.923)]  inserting order line A000000389::1
+[log (2017-03-22 08:53:17.153)]  inserting order line A000000390::1
+[log (2017-03-22 08:53:17.313)]  Waiting for merge....A000000385
+[log (2017-03-22 08:53:17.313)]  Waiting for merge....60
+[log (2017-03-22 08:53:18.381)]  Order A000000385 merged
+[log (2017-03-22 08:53:18.381)]  Waiting for merge....A000000386
+[log (2017-03-22 08:53:18.381)]  Waiting for merge....60
+[log (2017-03-22 08:53:19.418)]  Order A000000386 merged
+[log (2017-03-22 08:53:19.418)]  Waiting for merge....A000000387
+[log (2017-03-22 08:53:19.418)]  Waiting for merge....60
+[log (2017-03-22 08:53:20.464)]  Order A000000387 merged
+[log (2017-03-22 08:53:20.464)]  Waiting for merge....A000000388
+[log (2017-03-22 08:53:20.464)]  Waiting for merge....60
+[log (2017-03-22 08:53:21.497)]  Order A000000388 merged
+[log (2017-03-22 08:53:21.497)]  Waiting for merge....A000000389
+[log (2017-03-22 08:53:21.507)]  Waiting for merge....60
+[log (2017-03-22 08:53:22.538)]  Order A000000389 merged
+[log (2017-03-22 08:53:22.538)]  Waiting for merge....A000000390
+[log (2017-03-22 08:53:22.538)]  Waiting for merge....60
+[log (2017-03-22 08:53:23.575)]  Order A000000390 merged
+[log (2017-03-22 08:53:23.585)]  Logging into the application
+[log (2017-03-22 08:53:23.585)]  Attempting to log into the application.
+[log (2017-03-22 08:53:50.777)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:53:50.777)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:53:50.777)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:53:50.777)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:53:50.777)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:53:50.777)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:53:50.787)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:53:50.787)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:53:51.937)]  Attempting to interface an Order
+[log (2017-03-22 08:53:51.937)]  inserting order header
+[log (2017-03-22 08:53:52.421)]  inserting order header
+[log (2017-03-22 08:53:52.622)]  inserting order header
+[log (2017-03-22 08:53:52.813)]  inserting order header
+[log (2017-03-22 08:53:53.003)]  inserting order header
+[log (2017-03-22 08:53:53.203)]  inserting order header
+[log (2017-03-22 08:53:53.394)]  inserting order line A000000385::1
+[log (2017-03-22 08:53:53.559)]  inserting order line A000000386::1
+[log (2017-03-22 08:53:53.711)]  inserting order line A000000387::1
+[log (2017-03-22 08:53:53.872)]  inserting order line A000000388::1
+[log (2017-03-22 08:53:54.023)]  inserting order line A000000389::1
+[log (2017-03-22 08:53:54.183)]  inserting order line A000000390::1
+[log (2017-03-22 08:53:54.343)]  Waiting for merge....A000000385
+[log (2017-03-22 08:53:54.353)]  Waiting for merge....60
+[log (2017-03-22 08:53:55.416)]  Order A000000385 merged
+[log (2017-03-22 08:53:55.426)]  Waiting for merge....A000000386
+[log (2017-03-22 08:53:55.426)]  Waiting for merge....60
+[log (2017-03-22 08:53:56.456)]  Order A000000386 merged
+[log (2017-03-22 08:53:56.466)]  Waiting for merge....A000000387
+[log (2017-03-22 08:53:56.466)]  Waiting for merge....60
+[log (2017-03-22 08:53:57.507)]  Order A000000387 merged
+[log (2017-03-22 08:53:57.507)]  Waiting for merge....A000000388
+[log (2017-03-22 08:53:57.507)]  Waiting for merge....60
+[log (2017-03-22 08:53:58.548)]  Order A000000388 merged
+[log (2017-03-22 08:53:58.548)]  Waiting for merge....A000000389
+[log (2017-03-22 08:53:58.548)]  Waiting for merge....60
+[log (2017-03-22 08:53:59.587)]  Order A000000389 merged
+[log (2017-03-22 08:53:59.587)]  Waiting for merge....A000000390
+[log (2017-03-22 08:53:59.597)]  Waiting for merge....60
+[log (2017-03-22 08:54:00.646)]  Order A000000390 merged
+[log (2017-03-22 08:54:00.656)]  Logging into the application
+[log (2017-03-22 08:54:00.666)]  Attempting to log into the application.
+[log (2017-03-22 08:54:08.928)]  Login successful
+[log (2017-03-22 08:54:08.938)]  Running Order Grouping
+[log (2017-03-22 08:54:19.296)]  FindFailed: can not find images/next.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 08:54:19.568)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1369726004\sikuliximage-1490172859346.png
+[log (2017-03-22 08:54:19.578)]  Attempting Allocation A000000385
+[log (2017-03-22 08:54:19.608)]  Allocate flag set
+[log (2017-03-22 08:54:20.612)]  Waiting for allocation....70
+[log (2017-03-22 08:54:20.663)]  Allocation succesful
+[log (2017-03-22 08:54:20.663)]  Attempting Allocation A000000386
+[log (2017-03-22 08:54:20.693)]  Allocate flag set
+[log (2017-03-22 08:54:21.698)]  Waiting for allocation....70
+[log (2017-03-22 08:54:21.718)]  Allocation succesful
+[log (2017-03-22 08:54:21.718)]  Attempting Allocation A000000387
+[log (2017-03-22 08:54:21.738)]  Allocate flag set
+[log (2017-03-22 08:54:22.747)]  Waiting for allocation....70
+[log (2017-03-22 08:54:22.767)]  Allocation succesful
+[log (2017-03-22 08:54:22.767)]  Attempting Allocation A000000388
+[log (2017-03-22 08:54:22.787)]  Allocate flag set
+[log (2017-03-22 08:54:23.787)]  Waiting for allocation....70
+[log (2017-03-22 08:54:23.807)]  Allocation succesful
+[log (2017-03-22 08:54:23.807)]  Attempting Allocation A000000389
+[log (2017-03-22 08:54:23.827)]  Allocate flag set
+[log (2017-03-22 08:54:24.834)]  Waiting for allocation....70
+[log (2017-03-22 08:54:24.854)]  Allocation succesful
+[log (2017-03-22 08:54:24.854)]  Attempting Allocation A000000390
+[log (2017-03-22 08:54:24.874)]  Allocate flag set
+[log (2017-03-22 08:54:25.878)]  Waiting for allocation....70
+[log (2017-03-22 08:54:25.898)]  Allocation succesful
+[log (2017-03-22 08:54:25.898)]  Releasing move tasks. A000000385
+[log (2017-03-22 08:54:25.938)]  Move tasks already at status released
+[log (2017-03-22 08:54:25.938)]  Releasing move tasks. A000000386
+[log (2017-03-22 08:54:25.968)]  Move tasks already at status released
+[log (2017-03-22 08:54:25.968)]  Releasing move tasks. A000000387
+[log (2017-03-22 08:54:26.008)]  Move tasks already at status released
+[log (2017-03-22 08:54:26.008)]  Releasing move tasks. A000000388
+[log (2017-03-22 08:54:26.038)]  Move tasks already at status released
+[log (2017-03-22 08:54:26.038)]  Releasing move tasks. A000000389
+[log (2017-03-22 08:54:26.078)]  Move tasks already at status released
+[log (2017-03-22 08:54:26.078)]  Releasing move tasks. A000000390
+[log (2017-03-22 08:54:26.118)]  Move tasks already at status released
+[log (2017-03-22 08:54:26.128)]  Logging in to RDT
+[log (2017-03-22 08:54:26.128)]  Trying to log into the RDT 
+[log (2017-03-22 08:54:51.690)]  Failed to login to RDT
+[log (2017-03-22 08:56:22.565)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:56:22.565)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:56:22.575)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:56:22.575)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:56:22.575)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:56:22.575)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:56:22.575)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:56:22.575)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:56:23.652)]  Logging into the application
+[log (2017-03-22 08:56:23.652)]  Attempting to log into the application.
+[log (2017-03-22 08:56:31.524)]  Login successful
+[log (2017-03-22 08:56:31.524)]  Running Order Grouping
+[log (2017-03-22 08:56:41.444)]  FindFailed: can not find images/next.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 08:56:41.724)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1715816136\sikuliximage-1490173001494.png
+[log (2017-03-22 08:57:56.980)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:57:56.980)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:57:56.980)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:57:56.980)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:57:56.980)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:57:56.980)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:57:56.980)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:57:56.980)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:57:58.098)]  Logging into the application
+[log (2017-03-22 08:57:58.098)]  Attempting to log into the application.
+[log (2017-03-22 08:58:06.030)]  Login successful
+[log (2017-03-22 08:58:06.040)]  Running Order Grouping
+[log (2017-03-22 08:59:14.318)]  FindFailed: can not find images/Menu/Operations/Order/ordersGrouped.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 08:59:14.579)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_641811749\sikuliximage-1490173154369.png
+[log (2017-03-22 08:59:53.130)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 08:59:53.130)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 08:59:53.130)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 08:59:53.130)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 08:59:53.140)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 08:59:53.150)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 08:59:53.150)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 08:59:53.150)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 08:59:54.183)]  Logging into the application
+[log (2017-03-22 08:59:54.183)]  Attempting to log into the application.
+[log (2017-03-22 09:00:02.771)]  Login successful
+[log (2017-03-22 09:00:02.781)]  Running Order Grouping
+[log (2017-03-22 09:00:40.569)]  Checking orders have been grouped
+[log (2017-03-22 09:00:40.690)]  Orders have grouped A000000385
+[log (2017-03-22 09:00:40.720)]  Orders have grouped A000000386
+[log (2017-03-22 09:00:40.761)]  Orders have grouped A000000387
+[log (2017-03-22 09:00:40.801)]  Orders have grouped A000000388
+[log (2017-03-22 09:00:40.831)]  Orders have grouped A000000389
+[log (2017-03-22 09:00:40.871)]  Orders have grouped A000000390
+[log (2017-03-22 09:02:01.855)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 09:02:01.855)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 09:02:01.855)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 09:02:01.855)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 09:02:01.855)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 09:02:01.855)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 09:02:01.865)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 09:02:01.865)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 09:02:02.906)]  Logging in to RDT
+[log (2017-03-22 09:02:02.916)]  Trying to log into the RDT 
+[log (2017-03-22 09:02:08.022)]  Navigating to containerPicking
+[log (2017-03-22 09:02:08.022)]  Navigating to Container Picking
+[log (2017-03-22 09:02:09.156)]  Picking order: A000000385
+[log (2017-03-22 09:02:13.151)]  FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 09:02:13.435)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1354764304\sikuliximage-1490173333181.png
+[log (2017-03-22 09:09:32.987)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 09:09:32.987)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 09:09:32.987)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 09:09:32.997)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 09:09:32.997)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 09:09:32.997)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 09:09:32.997)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 09:09:32.997)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 09:09:34.324)]  Logging in to RDT
+[log (2017-03-22 09:09:34.324)]  Trying to log into the RDT 
+[log (2017-03-22 09:09:39.788)]  Navigating to containerPicking
+[log (2017-03-22 09:09:39.788)]  Navigating to Container Picking
+[log (2017-03-22 09:09:40.948)]  Picking order: A000000385
+[log (2017-03-22 09:13:40.081)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 09:13:40.081)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 09:13:40.081)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 09:13:40.081)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 09:13:40.081)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 09:13:40.081)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 09:13:40.091)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 09:13:40.091)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 09:13:41.130)]  Logging in to RDT
+[log (2017-03-22 09:13:41.140)]  Trying to log into the RDT 
+[log (2017-03-22 09:13:46.699)]  Navigating to containerPicking
+[log (2017-03-22 09:13:46.699)]  Navigating to Container Picking
+[log (2017-03-22 09:13:47.487)]  Picking order: A000000385
+[log (2017-03-22 09:14:02.434)]  FindFailed: can not find images/rdt/pckSubConTro.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 09:14:02.694)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_982693968\sikuliximage-1490174042482.png
+[log (2017-03-22 09:30:10.216)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 09:30:10.216)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 09:30:10.216)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 09:30:10.226)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 09:30:10.226)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 09:30:10.226)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 09:30:10.226)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 09:30:10.226)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 09:30:11.265)]  Logging in to RDT
+[log (2017-03-22 09:30:11.265)]  Trying to log into the RDT 
+[log (2017-03-22 09:30:16.560)]  Navigating to containerPicking
+[log (2017-03-22 09:30:16.570)]  Navigating to Container Picking
+[log (2017-03-22 09:30:17.724)]  Picking order: A000000386
+[log (2017-03-22 10:36:54.245)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 10:36:54.245)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 10:36:54.245)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 10:36:54.255)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 10:36:54.255)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 10:36:54.255)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 10:36:54.255)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 10:36:54.255)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 10:36:55.574)]  Logging in to RDT
+[log (2017-03-22 10:36:55.574)]  Trying to log into the RDT 
+[log (2017-03-22 10:37:03.976)]  Failed to login to RDT
+[log (2017-03-22 10:37:23.044)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 10:37:23.054)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 10:37:23.054)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 10:37:23.054)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 10:37:23.054)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 10:37:23.054)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 10:37:23.054)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 10:37:23.054)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 10:37:24.064)]  Logging in to RDT
+[log (2017-03-22 10:37:24.064)]  Trying to log into the RDT 
+[log (2017-03-22 10:37:29.988)]  Navigating to containerPicking
+[log (2017-03-22 10:37:29.988)]  Navigating to Container Picking
+[log (2017-03-22 10:37:31.138)]  Picking order: A000000386
+[log (2017-03-22 10:37:45.071)]  Order picked
+[log (2017-03-22 10:37:45.071)]  Picking order: A000000387
+[log (2017-03-22 10:39:28.262)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 10:39:28.262)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 10:39:28.262)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 10:39:28.278)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 10:39:28.278)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 10:39:28.278)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 10:39:28.278)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 10:39:28.278)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 10:39:29.307)]  Logging in to RDT
+[log (2017-03-22 10:39:29.307)]  Trying to log into the RDT 
+[log (2017-03-22 10:39:35.013)]  Navigating to containerPicking
+[log (2017-03-22 10:39:35.013)]  Navigating to Container Picking
+[log (2017-03-22 10:39:36.123)]  Picking order: A000000386
+[log (2017-03-22 10:41:28.020)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 10:41:28.020)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 10:41:28.020)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 10:41:28.020)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 10:41:28.035)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 10:41:28.035)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 10:41:28.035)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 10:41:28.035)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 10:41:29.143)]  Logging in to RDT
+[log (2017-03-22 10:41:29.143)]  Trying to log into the RDT 
+[log (2017-03-22 10:41:34.794)]  Navigating to containerPicking
+[log (2017-03-22 10:41:34.794)]  Navigating to Container Picking
+[log (2017-03-22 10:41:35.942)]  Picking order: A000000387
+[log (2017-03-22 10:41:54.340)]  Order picked
+[log (2017-03-22 10:41:54.340)]  Picking order: A000000388
+[log (2017-03-22 10:42:04.458)]  Order picked
+[log (2017-03-22 10:42:04.458)]  Picking order: A000000389
+[log (2017-03-22 10:47:43.018)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 10:47:43.018)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 10:47:43.018)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 10:47:43.018)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 10:47:43.018)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 10:47:43.034)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 10:47:43.034)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 10:47:43.034)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 10:47:44.173)]  Logging in to RDT
+[log (2017-03-22 10:47:44.189)]  Trying to log into the RDT 
+[log (2017-03-22 10:47:50.026)]  Navigating to containerPicking
+[log (2017-03-22 10:47:50.026)]  Navigating to Container Picking
+[log (2017-03-22 10:47:50.844)]  Picking order: A000000387
+[log (2017-03-22 10:51:45.548)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 10:51:45.548)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 10:51:45.548)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 10:51:45.563)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 10:51:45.563)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 10:51:45.563)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 10:51:45.563)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 10:51:45.563)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 10:51:46.671)]  Logging in to RDT
+[log (2017-03-22 10:51:46.687)]  Trying to log into the RDT 
+[log (2017-03-22 10:51:52.449)]  Navigating to containerPicking
+[log (2017-03-22 10:51:52.449)]  Navigating to Container Picking
+[log (2017-03-22 10:51:53.277)]  Picking order: A000000387
+[log (2017-03-22 10:53:34.476)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 10:53:34.492)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 10:53:34.492)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 10:53:34.492)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 10:53:34.492)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 10:53:34.492)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 10:53:34.492)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 10:53:34.492)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 10:53:35.547)]  Logging in to RDT
+[log (2017-03-22 10:53:35.547)]  Trying to log into the RDT 
+[log (2017-03-22 10:53:41.637)]  Navigating to containerPicking
+[log (2017-03-22 10:53:41.637)]  Navigating to Container Picking
+[log (2017-03-22 10:53:42.445)]  Picking order: A000000387
+[log (2017-03-22 11:24:15.694)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:24:15.694)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:24:15.694)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:24:15.694)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:24:15.694)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:24:15.694)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:24:15.694)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:24:15.694)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:24:16.739)]  Logging in to RDT
+[log (2017-03-22 11:24:16.739)]  Trying to log into the RDT 
+[log (2017-03-22 11:24:25.457)]  Navigating to containerPicking
+[log (2017-03-22 11:24:25.467)]  Navigating to Container Picking
+[log (2017-03-22 11:24:26.587)]  Picking order: A000000387
+[log (2017-03-22 11:25:09.236)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:25:09.236)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:25:09.236)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:25:09.251)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:25:09.251)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:25:09.251)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:25:09.251)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:25:09.251)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:25:10.203)]  Logging in to RDT
+[log (2017-03-22 11:25:10.203)]  Trying to log into the RDT 
+[log (2017-03-22 11:25:15.938)]  Navigating to containerPicking
+[log (2017-03-22 11:25:15.948)]  Navigating to Container Picking
+[log (2017-03-22 11:25:16.756)]  Picking order: A000000390
+[log (2017-03-22 11:32:40.730)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:32:40.746)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:32:40.746)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:32:40.746)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:32:40.746)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:32:40.746)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:32:40.746)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:32:40.746)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:32:41.744)]  Attempting to interface an Order
+[log (2017-03-22 11:32:41.744)]  inserting order header
+[log (2017-03-22 11:32:42.134)]  inserting order header
+[log (2017-03-22 11:32:42.275)]  inserting order header
+[log (2017-03-22 11:32:42.431)]  inserting order header
+[log (2017-03-22 11:32:42.555)]  inserting order header
+[log (2017-03-22 11:32:42.696)]  inserting order header
+[log (2017-03-22 11:32:42.821)]  inserting order header
+[log (2017-03-22 11:32:42.939)]  inserting order header
+[log (2017-03-22 11:32:43.098)]  inserting order header
+[log (2017-03-22 11:32:43.223)]  inserting order header
+[log (2017-03-22 11:32:43.379)]  Logging into the application
+[log (2017-03-22 11:32:43.395)]  Attempting to log into the application.
+[log (2017-03-22 11:35:15.348)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:35:15.364)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:35:15.364)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:35:15.364)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:35:15.364)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:35:15.364)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:35:15.364)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:35:15.364)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:35:16.456)]  Attempting to interface an Order
+[log (2017-03-22 11:35:16.456)]  inserting order header
+[log (2017-03-22 11:35:16.815)]  inserting order header
+[log (2017-03-22 11:35:16.955)]  inserting order header
+[log (2017-03-22 11:35:17.096)]  inserting order header
+[log (2017-03-22 11:35:17.252)]  inserting order header
+[log (2017-03-22 11:35:17.392)]  inserting order header
+[log (2017-03-22 11:35:17.532)]  inserting order header
+[log (2017-03-22 11:35:17.673)]  inserting order header
+[log (2017-03-22 11:37:20.626)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:37:20.626)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:37:20.626)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:37:20.642)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:37:20.642)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:37:20.642)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:37:20.642)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:37:20.642)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:37:21.672)]  Attempting to interface an Order
+[log (2017-03-22 11:37:21.672)]  inserting order header
+[log (2017-03-22 11:37:22.046)]  inserting order line A000000132::1
+[log (2017-03-22 11:37:22.233)]  Waiting for merge....A000000132
+[log (2017-03-22 11:37:22.233)]  Waiting for merge....60
+[log (2017-03-22 11:37:23.310)]  Order A000000132 merged
+[log (2017-03-22 11:37:23.310)]  Logging into the application
+[log (2017-03-22 11:37:23.325)]  Attempting to log into the application.
+[log (2017-03-22 11:40:39.572)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:40:39.572)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:40:39.572)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:40:39.572)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:40:39.572)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:40:39.572)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:40:39.572)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:40:39.572)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:40:40.664)]  Attempting to interface an Order
+[log (2017-03-22 11:40:40.695)]  inserting order header
+[log (2017-03-22 11:40:41.178)]  inserting order header
+[log (2017-03-22 11:40:41.381)]  inserting order header
+[log (2017-03-22 11:40:41.568)]  inserting order header
+[log (2017-03-22 11:40:41.740)]  inserting order header
+[log (2017-03-22 11:40:41.943)]  inserting order header
+[log (2017-03-22 11:40:42.130)]  inserting order header
+[log (2017-03-22 11:40:42.302)]  inserting order header
+[log (2017-03-22 11:40:42.489)]  inserting order header
+[log (2017-03-22 11:40:42.676)]  inserting order header
+[log (2017-03-22 11:40:42.894)]  Logging into the application
+[log (2017-03-22 11:40:42.894)]  Attempting to log into the application.
+[log (2017-03-22 11:43:04.326)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:43:04.326)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:43:04.326)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:43:04.326)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:43:04.326)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:43:04.326)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:43:04.326)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:43:04.326)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:43:05.387)]  Attempting to interface an Order
+[log (2017-03-22 11:43:05.387)]  inserting order header
+[log (2017-03-22 11:43:05.746)]  inserting order header
+[log (2017-03-22 11:43:05.918)]  inserting order header
+[log (2017-03-22 11:43:06.105)]  inserting order header
+[log (2017-03-22 11:43:06.292)]  inserting order header
+[log (2017-03-22 11:43:06.479)]  inserting order header
+[log (2017-03-22 11:43:06.667)]  inserting order header
+[log (2017-03-22 11:43:06.838)]  inserting order header
+[log (2017-03-22 11:43:07.025)]  inserting order header
+[log (2017-03-22 11:43:07.197)]  inserting order header
+[log (2017-03-22 11:43:07.431)]  Logging into the application
+[log (2017-03-22 11:43:07.431)]  Attempting to log into the application.
+[log (2017-03-22 11:44:46.237)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:44:46.252)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:44:46.252)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:44:46.252)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:44:46.252)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:44:46.252)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:44:46.252)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:44:46.252)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:44:47.329)]  Attempting to interface an Order
+[log (2017-03-22 11:44:47.329)]  inserting order header
+[log (2017-03-22 11:44:47.719)]  inserting order header
+[log (2017-03-22 11:44:47.906)]  inserting order header
+[log (2017-03-22 11:44:48.077)]  inserting order header
+[log (2017-03-22 11:44:48.265)]  inserting order header
+[log (2017-03-22 11:44:48.483)]  inserting order header
+[log (2017-03-22 11:44:48.670)]  inserting order header
+[log (2017-03-22 11:44:48.857)]  inserting order header
+[log (2017-03-22 11:44:49.045)]  inserting order header
+[log (2017-03-22 11:44:49.232)]  inserting order header
+[log (2017-03-22 11:44:49.419)]  inserting order header
+[log (2017-03-22 11:44:49.606)]  inserting order header
+[log (2017-03-22 11:44:49.793)]  inserting order header
+[log (2017-03-22 11:44:49.981)]  inserting order header
+[log (2017-03-22 11:44:50.152)]  inserting order header
+[log (2017-03-22 11:44:50.339)]  inserting order header
+[log (2017-03-22 11:44:50.527)]  inserting order header
+[log (2017-03-22 11:44:50.698)]  inserting order header
+[log (2017-03-22 11:44:50.885)]  inserting order header
+[log (2017-03-22 11:44:51.073)]  inserting order header
+[log (2017-03-22 11:44:51.260)]  inserting order header
+[log (2017-03-22 11:44:51.494)]  inserting order header
+[log (2017-03-22 11:44:52.367)]  inserting order header
+[log (2017-03-22 11:44:53.087)]  inserting order header
+[log (2017-03-22 11:44:53.805)]  inserting order header
+[log (2017-03-22 11:44:54.054)]  inserting order header
+[log (2017-03-22 11:44:54.273)]  inserting order header
+[log (2017-03-22 11:44:54.475)]  inserting order header
+[log (2017-03-22 11:44:54.647)]  inserting order header
+[log (2017-03-22 11:44:54.834)]  inserting order header
+[log (2017-03-22 11:44:55.006)]  inserting order line A000000400::1
+[log (2017-03-22 11:44:55.162)]  inserting order line A000000401::1
+[log (2017-03-22 11:44:55.318)]  inserting order line A000000402::1
+[log (2017-03-22 11:44:55.474)]  inserting order line A000000403::1
+[log (2017-03-22 11:44:55.630)]  inserting order line A000000404::1
+[log (2017-03-22 11:44:55.770)]  inserting order line A000000405::1
+[log (2017-03-22 11:44:55.926)]  inserting order line A000000406::1
+[log (2017-03-22 11:44:56.082)]  inserting order line A000000407::1
+[log (2017-03-22 11:44:56.238)]  inserting order line A000000408::1
+[log (2017-03-22 11:44:56.394)]  inserting order line A000000409::1
+[log (2017-03-22 11:44:56.550)]  inserting order line A000000410::1
+[log (2017-03-22 11:44:56.722)]  inserting order line A000000411::1
+[log (2017-03-22 11:44:56.878)]  inserting order line A000000412::1
+[log (2017-03-22 11:44:57.034)]  inserting order line A000000413::1
+[log (2017-03-22 11:44:57.174)]  inserting order line A000000414::1
+[log (2017-03-22 11:44:57.330)]  inserting order line A000000415::1
+[log (2017-03-22 11:44:57.486)]  inserting order line A000000416::1
+[log (2017-03-22 11:44:57.658)]  inserting order line A000000417::1
+[log (2017-03-22 11:44:57.814)]  inserting order line A000000418::1
+[log (2017-03-22 11:44:57.970)]  inserting order line A000000419::1
+[log (2017-03-22 11:44:58.126)]  inserting order line A000000420::1
+[log (2017-03-22 11:44:58.297)]  inserting order line A000000421::1
+[log (2017-03-22 11:44:58.438)]  inserting order line A000000422::1
+[log (2017-03-22 11:44:58.594)]  inserting order line A000000423::1
+[log (2017-03-22 11:44:58.750)]  inserting order line A000000424::1
+[log (2017-03-22 11:44:58.921)]  inserting order line A000000425::1
+[log (2017-03-22 11:44:59.077)]  inserting order line A000000426::1
+[log (2017-03-22 11:44:59.233)]  inserting order line A000000427::1
+[log (2017-03-22 11:44:59.389)]  inserting order line A000000428::1
+[log (2017-03-22 11:44:59.592)]  inserting order line A000000429::1
+[log (2017-03-22 11:44:59.748)]  Waiting for merge....A000000400
+[log (2017-03-22 11:44:59.748)]  Waiting for merge....60
+[log (2017-03-22 11:45:00.825)]  Waiting for merge....59
+[log (2017-03-22 11:45:01.854)]  Waiting for merge....58
+[log (2017-03-22 11:45:02.884)]  Waiting for merge....57
+[log (2017-03-22 11:45:03.913)]  Waiting for merge....56
+[log (2017-03-22 11:45:04.943)]  Waiting for merge....55
+[log (2017-03-22 11:45:05.973)]  Waiting for merge....54
+[log (2017-03-22 11:45:07.002)]  Waiting for merge....53
+[log (2017-03-22 11:45:08.032)]  Waiting for merge....52
+[log (2017-03-22 11:45:09.061)]  Waiting for merge....51
+[log (2017-03-22 11:45:10.091)]  Waiting for merge....50
+[log (2017-03-22 11:45:11.121)]  Waiting for merge....49
+[log (2017-03-22 11:45:12.150)]  Waiting for merge....48
+[log (2017-03-22 11:45:13.180)]  Waiting for merge....47
+[log (2017-03-22 11:45:14.210)]  Waiting for merge....46
+[log (2017-03-22 11:45:15.239)]  Waiting for merge....45
+[log (2017-03-22 11:45:16.284)]  Order A000000400 merged
+[log (2017-03-22 11:45:16.284)]  Waiting for merge....A000000401
+[log (2017-03-22 11:45:16.284)]  Waiting for merge....60
+[log (2017-03-22 11:45:17.345)]  Order A000000401 merged
+[log (2017-03-22 11:45:17.345)]  Waiting for merge....A000000402
+[log (2017-03-22 11:45:17.345)]  Waiting for merge....60
+[log (2017-03-22 11:45:18.392)]  Order A000000402 merged
+[log (2017-03-22 11:45:18.392)]  Waiting for merge....A000000403
+[log (2017-03-22 11:45:18.392)]  Waiting for merge....60
+[log (2017-03-22 11:45:19.469)]  Order A000000403 merged
+[log (2017-03-22 11:45:19.469)]  Waiting for merge....A000000404
+[log (2017-03-22 11:45:19.469)]  Waiting for merge....60
+[log (2017-03-22 11:45:20.515)]  Order A000000404 merged
+[log (2017-03-22 11:45:20.515)]  Waiting for merge....A000000405
+[log (2017-03-22 11:45:20.515)]  Waiting for merge....60
+[log (2017-03-22 11:45:21.591)]  Order A000000405 merged
+[log (2017-03-22 11:45:21.591)]  Waiting for merge....A000000406
+[log (2017-03-22 11:45:21.591)]  Waiting for merge....60
+[log (2017-03-22 11:45:22.652)]  Order A000000406 merged
+[log (2017-03-22 11:45:22.652)]  Waiting for merge....A000000407
+[log (2017-03-22 11:45:22.652)]  Waiting for merge....60
+[log (2017-03-22 11:45:23.713)]  Order A000000407 merged
+[log (2017-03-22 11:45:23.713)]  Waiting for merge....A000000408
+[log (2017-03-22 11:45:23.713)]  Waiting for merge....60
+[log (2017-03-22 11:45:24.774)]  Order A000000408 merged
+[log (2017-03-22 11:45:24.774)]  Waiting for merge....A000000409
+[log (2017-03-22 11:45:24.789)]  Waiting for merge....60
+[log (2017-03-22 11:45:25.850)]  Order A000000409 merged
+[log (2017-03-22 11:45:25.850)]  Waiting for merge....A000000410
+[log (2017-03-22 11:45:25.850)]  Waiting for merge....60
+[log (2017-03-22 11:45:26.897)]  Order A000000410 merged
+[log (2017-03-22 11:45:26.897)]  Waiting for merge....A000000411
+[log (2017-03-22 11:45:26.897)]  Waiting for merge....60
+[log (2017-03-22 11:45:27.958)]  Order A000000411 merged
+[log (2017-03-22 11:45:27.958)]  Waiting for merge....A000000412
+[log (2017-03-22 11:45:27.958)]  Waiting for merge....60
+[log (2017-03-22 11:45:29.019)]  Order A000000412 merged
+[log (2017-03-22 11:45:29.019)]  Waiting for merge....A000000413
+[log (2017-03-22 11:45:29.019)]  Waiting for merge....60
+[log (2017-03-22 11:45:30.080)]  Order A000000413 merged
+[log (2017-03-22 11:45:30.080)]  Waiting for merge....A000000414
+[log (2017-03-22 11:45:30.080)]  Waiting for merge....60
+[log (2017-03-22 11:45:31.156)]  Order A000000414 merged
+[log (2017-03-22 11:45:31.156)]  Waiting for merge....A000000415
+[log (2017-03-22 11:45:31.156)]  Waiting for merge....60
+[log (2017-03-22 11:45:32.218)]  Order A000000415 merged
+[log (2017-03-22 11:45:32.218)]  Waiting for merge....A000000416
+[log (2017-03-22 11:45:32.218)]  Waiting for merge....60
+[log (2017-03-22 11:45:33.294)]  Order A000000416 merged
+[log (2017-03-22 11:45:33.294)]  Waiting for merge....A000000417
+[log (2017-03-22 11:45:33.294)]  Waiting for merge....60
+[log (2017-03-22 11:45:34.386)]  Order A000000417 merged
+[log (2017-03-22 11:45:34.386)]  Waiting for merge....A000000418
+[log (2017-03-22 11:45:34.386)]  Waiting for merge....60
+[log (2017-03-22 11:45:35.447)]  Order A000000418 merged
+[log (2017-03-22 11:45:35.447)]  Waiting for merge....A000000419
+[log (2017-03-22 11:45:35.447)]  Waiting for merge....60
+[log (2017-03-22 11:45:36.508)]  Order A000000419 merged
+[log (2017-03-22 11:45:36.508)]  Waiting for merge....A000000420
+[log (2017-03-22 11:45:36.508)]  Waiting for merge....60
+[log (2017-03-22 11:45:37.569)]  Order A000000420 merged
+[log (2017-03-22 11:45:37.569)]  Waiting for merge....A000000421
+[log (2017-03-22 11:45:37.569)]  Waiting for merge....60
+[log (2017-03-22 11:45:38.630)]  Order A000000421 merged
+[log (2017-03-22 11:45:38.630)]  Waiting for merge....A000000422
+[log (2017-03-22 11:45:38.630)]  Waiting for merge....60
+[log (2017-03-22 11:45:39.690)]  Order A000000422 merged
+[log (2017-03-22 11:45:39.690)]  Waiting for merge....A000000423
+[log (2017-03-22 11:45:39.690)]  Waiting for merge....60
+[log (2017-03-22 11:45:40.751)]  Order A000000423 merged
+[log (2017-03-22 11:45:40.751)]  Waiting for merge....A000000424
+[log (2017-03-22 11:45:40.751)]  Waiting for merge....60
+[log (2017-03-22 11:45:41.859)]  Order A000000424 merged
+[log (2017-03-22 11:45:41.859)]  Waiting for merge....A000000425
+[log (2017-03-22 11:45:41.859)]  Waiting for merge....60
+[log (2017-03-22 11:45:42.920)]  Order A000000425 merged
+[log (2017-03-22 11:45:42.920)]  Waiting for merge....A000000426
+[log (2017-03-22 11:45:42.935)]  Waiting for merge....60
+[log (2017-03-22 11:45:43.996)]  Order A000000426 merged
+[log (2017-03-22 11:45:43.996)]  Waiting for merge....A000000427
+[log (2017-03-22 11:45:43.996)]  Waiting for merge....60
+[log (2017-03-22 11:45:45.057)]  Order A000000427 merged
+[log (2017-03-22 11:45:45.057)]  Waiting for merge....A000000428
+[log (2017-03-22 11:45:45.057)]  Waiting for merge....60
+[log (2017-03-22 11:45:46.118)]  Order A000000428 merged
+[log (2017-03-22 11:45:46.118)]  Waiting for merge....A000000429
+[log (2017-03-22 11:45:46.118)]  Waiting for merge....60
+[log (2017-03-22 11:45:47.179)]  Order A000000429 merged
+[log (2017-03-22 11:45:47.194)]  Logging into the application
+[log (2017-03-22 11:45:47.194)]  Attempting to log into the application.
+[log (2017-03-22 11:45:56.052)]  Login successful
+[log (2017-03-22 11:45:56.052)]  Running Order Grouping
+[log (2017-03-22 11:46:28.008)]  Checking orders have been grouped
+[log (2017-03-22 11:46:28.054)]  Orders have grouped A000000400
+[log (2017-03-22 11:46:28.086)]  Orders have grouped A000000401
+[log (2017-03-22 11:46:28.117)]  Orders have grouped A000000402
+[log (2017-03-22 11:46:28.148)]  Orders have grouped A000000403
+[log (2017-03-22 11:46:28.195)]  Orders have grouped A000000404
+[log (2017-03-22 11:46:28.242)]  Orders have grouped A000000405
+[log (2017-03-22 11:46:28.273)]  Orders have grouped A000000406
+[log (2017-03-22 11:46:28.320)]  Orders have grouped A000000407
+[log (2017-03-22 11:46:28.366)]  Orders have grouped A000000408
+[log (2017-03-22 11:46:28.398)]  Orders have grouped A000000409
+[log (2017-03-22 11:46:28.429)]  Orders have grouped A000000410
+[log (2017-03-22 11:46:28.460)]  Orders have grouped A000000411
+[log (2017-03-22 11:46:28.507)]  Orders have grouped A000000412
+[log (2017-03-22 11:46:28.538)]  Orders have grouped A000000413
+[log (2017-03-22 11:46:28.569)]  Orders have grouped A000000414
+[log (2017-03-22 11:46:28.600)]  Orders have grouped A000000415
+[log (2017-03-22 11:46:28.647)]  Orders have grouped A000000416
+[log (2017-03-22 11:46:28.678)]  Orders have grouped A000000417
+[log (2017-03-22 11:46:28.710)]  Orders have grouped A000000418
+[log (2017-03-22 11:46:28.741)]  Orders have grouped A000000419
+[log (2017-03-22 11:46:28.788)]  Orders have grouped A000000420
+[log (2017-03-22 11:46:28.819)]  Orders have grouped A000000421
+[log (2017-03-22 11:46:28.850)]  Orders have grouped A000000422
+[log (2017-03-22 11:46:28.881)]  Orders have grouped A000000423
+[log (2017-03-22 11:46:28.928)]  Orders have grouped A000000424
+[log (2017-03-22 11:46:28.959)]  Orders have grouped A000000425
+[log (2017-03-22 11:46:28.990)]  Orders have grouped A000000426
+[log (2017-03-22 11:46:29.037)]  Orders have grouped A000000427
+[log (2017-03-22 11:46:29.068)]  Orders have grouped A000000428
+[log (2017-03-22 11:46:29.115)]  Orders have grouped A000000429
+[log (2017-03-22 11:46:29.115)]  Attempting Allocation A000000400
+[log (2017-03-22 11:46:29.146)]  Allocate flag set
+[log (2017-03-22 11:46:30.160)]  Waiting for allocation....70
+[log (2017-03-22 11:46:31.222)]  Waiting for allocation....69
+[log (2017-03-22 11:46:32.255)]  Waiting for allocation....68
+[log (2017-03-22 11:46:33.287)]  Waiting for allocation....67
+[log (2017-03-22 11:46:34.332)]  Waiting for allocation....66
+[log (2017-03-22 11:46:35.365)]  Waiting for allocation....65
+[log (2017-03-22 11:46:36.411)]  Waiting for allocation....64
+[log (2017-03-22 11:46:37.456)]  Waiting for allocation....63
+[log (2017-03-22 11:46:38.501)]  Waiting for allocation....62
+[log (2017-03-22 11:46:39.546)]  Waiting for allocation....61
+[log (2017-03-22 11:46:40.591)]  Waiting for allocation....60
+[log (2017-03-22 11:46:41.637)]  Waiting for allocation....59
+[log (2017-03-22 11:46:42.682)]  Waiting for allocation....58
+[log (2017-03-22 11:46:43.727)]  Waiting for allocation....57
+[log (2017-03-22 11:46:43.758)]  Allocation succesful
+[log (2017-03-22 11:46:43.774)]  Attempting Allocation A000000401
+[log (2017-03-22 11:46:43.805)]  Allocate flag set
+[log (2017-03-22 11:46:44.819)]  Waiting for allocation....70
+[log (2017-03-22 11:46:44.835)]  Allocation succesful
+[log (2017-03-22 11:46:44.835)]  Attempting Allocation A000000402
+[log (2017-03-22 11:46:44.866)]  Allocate flag set
+[log (2017-03-22 11:46:45.880)]  Waiting for allocation....70
+[log (2017-03-22 11:46:45.895)]  Allocation succesful
+[log (2017-03-22 11:46:45.895)]  Attempting Allocation A000000403
+[log (2017-03-22 11:46:45.927)]  Allocate flag set
+[log (2017-03-22 11:46:46.941)]  Waiting for allocation....70
+[log (2017-03-22 11:46:46.956)]  Allocation succesful
+[log (2017-03-22 11:46:46.956)]  Attempting Allocation A000000404
+[log (2017-03-22 11:46:46.987)]  Allocate flag set
+[log (2017-03-22 11:46:48.001)]  Waiting for allocation....70
+[log (2017-03-22 11:46:48.017)]  Allocation succesful
+[log (2017-03-22 11:46:48.017)]  Attempting Allocation A000000405
+[log (2017-03-22 11:46:48.048)]  Allocate flag set
+[log (2017-03-22 11:46:49.062)]  Waiting for allocation....70
+[log (2017-03-22 11:46:49.078)]  Allocation succesful
+[log (2017-03-22 11:46:49.078)]  Attempting Allocation A000000406
+[log (2017-03-22 11:46:49.187)]  Allocate flag set
+[log (2017-03-22 11:46:50.201)]  Waiting for allocation....70
+[log (2017-03-22 11:46:50.232)]  Allocation succesful
+[log (2017-03-22 11:46:50.232)]  Attempting Allocation A000000407
+[log (2017-03-22 11:46:50.310)]  Allocate flag set
+[log (2017-03-22 11:46:51.324)]  Waiting for allocation....70
+[log (2017-03-22 11:46:51.340)]  Allocation succesful
+[log (2017-03-22 11:46:51.340)]  Attempting Allocation A000000408
+[log (2017-03-22 11:46:51.371)]  Allocate flag set
+[log (2017-03-22 11:46:52.385)]  Waiting for allocation....70
+[log (2017-03-22 11:46:52.401)]  Allocation succesful
+[log (2017-03-22 11:46:52.416)]  Attempting Allocation A000000409
+[log (2017-03-22 11:46:52.447)]  Allocate flag set
+[log (2017-03-22 11:46:53.461)]  Waiting for allocation....70
+[log (2017-03-22 11:46:53.477)]  Allocation succesful
+[log (2017-03-22 11:46:53.477)]  Attempting Allocation A000000410
+[log (2017-03-22 11:46:53.508)]  Allocate flag set
+[log (2017-03-22 11:46:54.522)]  Waiting for allocation....70
+[log (2017-03-22 11:46:54.538)]  Allocation succesful
+[log (2017-03-22 11:46:54.538)]  Attempting Allocation A000000411
+[log (2017-03-22 11:46:54.569)]  Allocate flag set
+[log (2017-03-22 11:46:55.583)]  Waiting for allocation....70
+[log (2017-03-22 11:46:55.599)]  Allocation succesful
+[log (2017-03-22 11:46:55.599)]  Attempting Allocation A000000412
+[log (2017-03-22 11:46:55.630)]  Allocate flag set
+[log (2017-03-22 11:46:56.644)]  Waiting for allocation....70
+[log (2017-03-22 11:46:56.659)]  Allocation succesful
+[log (2017-03-22 11:46:56.659)]  Attempting Allocation A000000413
+[log (2017-03-22 11:46:56.691)]  Allocate flag set
+[log (2017-03-22 11:46:57.705)]  Waiting for allocation....70
+[log (2017-03-22 11:46:57.720)]  Allocation succesful
+[log (2017-03-22 11:46:57.720)]  Attempting Allocation A000000414
+[log (2017-03-22 11:46:57.767)]  Allocate flag set
+[log (2017-03-22 11:46:58.781)]  Waiting for allocation....70
+[log (2017-03-22 11:46:58.797)]  Allocation succesful
+[log (2017-03-22 11:46:58.797)]  Attempting Allocation A000000415
+[log (2017-03-22 11:46:58.828)]  Allocate flag set
+[log (2017-03-22 11:46:59.842)]  Waiting for allocation....70
+[log (2017-03-22 11:46:59.857)]  Allocation succesful
+[log (2017-03-22 11:46:59.857)]  Attempting Allocation A000000416
+[log (2017-03-22 11:46:59.889)]  Allocate flag set
+[log (2017-03-22 11:47:00.904)]  Waiting for allocation....70
+[log (2017-03-22 11:47:00.919)]  Allocation succesful
+[log (2017-03-22 11:47:00.919)]  Attempting Allocation A000000417
+[log (2017-03-22 11:47:00.950)]  Allocate flag set
+[log (2017-03-22 11:47:01.964)]  Waiting for allocation....70
+[log (2017-03-22 11:47:01.980)]  Allocation succesful
+[log (2017-03-22 11:47:01.980)]  Attempting Allocation A000000418
+[log (2017-03-22 11:47:02.027)]  Allocate flag set
+[log (2017-03-22 11:47:03.041)]  Waiting for allocation....70
+[log (2017-03-22 11:47:03.056)]  Allocation succesful
+[log (2017-03-22 11:47:03.056)]  Attempting Allocation A000000419
+[log (2017-03-22 11:47:03.088)]  Allocate flag set
+[log (2017-03-22 11:47:04.102)]  Waiting for allocation....70
+[log (2017-03-22 11:47:04.117)]  Allocation succesful
+[log (2017-03-22 11:47:04.117)]  Attempting Allocation A000000420
+[log (2017-03-22 11:47:04.149)]  Allocate flag set
+[log (2017-03-22 11:47:05.163)]  Waiting for allocation....70
+[log (2017-03-22 11:47:05.178)]  Allocation succesful
+[log (2017-03-22 11:47:05.178)]  Attempting Allocation A000000421
+[log (2017-03-22 11:47:05.209)]  Allocate flag set
+[log (2017-03-22 11:47:06.223)]  Waiting for allocation....70
+[log (2017-03-22 11:47:06.239)]  Allocation succesful
+[log (2017-03-22 11:47:06.239)]  Attempting Allocation A000000422
+[log (2017-03-22 11:47:06.270)]  Allocate flag set
+[log (2017-03-22 11:47:07.271)]  Waiting for allocation....70
+[log (2017-03-22 11:47:07.286)]  Allocation succesful
+[log (2017-03-22 11:47:07.286)]  Attempting Allocation A000000423
+[log (2017-03-22 11:47:07.303)]  Allocate flag set
+[log (2017-03-22 11:47:08.324)]  Waiting for allocation....70
+[log (2017-03-22 11:47:08.339)]  Allocation succesful
+[log (2017-03-22 11:47:08.339)]  Attempting Allocation A000000424
+[log (2017-03-22 11:47:08.371)]  Allocate flag set
+[log (2017-03-22 11:47:09.385)]  Waiting for allocation....70
+[log (2017-03-22 11:47:09.400)]  Allocation succesful
+[log (2017-03-22 11:47:09.400)]  Attempting Allocation A000000425
+[log (2017-03-22 11:47:09.431)]  Allocate flag set
+[log (2017-03-22 11:47:10.445)]  Waiting for allocation....70
+[log (2017-03-22 11:47:10.461)]  Allocation succesful
+[log (2017-03-22 11:47:10.461)]  Attempting Allocation A000000426
+[log (2017-03-22 11:47:10.492)]  Allocate flag set
+[log (2017-03-22 11:47:11.506)]  Waiting for allocation....70
+[log (2017-03-22 11:47:11.522)]  Allocation succesful
+[log (2017-03-22 11:47:11.522)]  Attempting Allocation A000000427
+[log (2017-03-22 11:47:11.553)]  Allocate flag set
+[log (2017-03-22 11:47:12.567)]  Waiting for allocation....70
+[log (2017-03-22 11:47:12.583)]  Allocation succesful
+[log (2017-03-22 11:47:12.583)]  Attempting Allocation A000000428
+[log (2017-03-22 11:47:12.614)]  Allocate flag set
+[log (2017-03-22 11:47:13.628)]  Waiting for allocation....70
+[log (2017-03-22 11:47:13.643)]  Allocation succesful
+[log (2017-03-22 11:47:13.643)]  Attempting Allocation A000000429
+[log (2017-03-22 11:47:13.675)]  Allocate flag set
+[log (2017-03-22 11:47:14.690)]  Waiting for allocation....70
+[log (2017-03-22 11:47:14.705)]  Allocation succesful
+[log (2017-03-22 11:47:14.705)]  Releasing move tasks. A000000400
+[log (2017-03-22 11:47:14.783)]  Move tasks already at status released
+[log (2017-03-22 11:47:14.783)]  Releasing move tasks. A000000401
+[log (2017-03-22 11:47:14.846)]  Move tasks already at status released
+[log (2017-03-22 11:47:14.846)]  Releasing move tasks. A000000402
+[log (2017-03-22 11:47:14.908)]  Move tasks already at status released
+[log (2017-03-22 11:47:14.908)]  Releasing move tasks. A000000403
+[log (2017-03-22 11:47:14.970)]  Move tasks already at status released
+[log (2017-03-22 11:47:14.970)]  Releasing move tasks. A000000404
+[log (2017-03-22 11:47:15.048)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.048)]  Releasing move tasks. A000000405
+[log (2017-03-22 11:47:15.111)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.111)]  Releasing move tasks. A000000406
+[log (2017-03-22 11:47:15.173)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.173)]  Releasing move tasks. A000000407
+[log (2017-03-22 11:47:15.251)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.251)]  Releasing move tasks. A000000408
+[log (2017-03-22 11:47:15.314)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.314)]  Releasing move tasks. A000000409
+[log (2017-03-22 11:47:15.376)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.376)]  Releasing move tasks. A000000410
+[log (2017-03-22 11:47:15.438)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.438)]  Releasing move tasks. A000000411
+[log (2017-03-22 11:47:15.501)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.501)]  Releasing move tasks. A000000412
+[log (2017-03-22 11:47:15.594)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.594)]  Releasing move tasks. A000000413
+[log (2017-03-22 11:47:15.657)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.657)]  Releasing move tasks. A000000414
+[log (2017-03-22 11:47:15.719)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.719)]  Releasing move tasks. A000000415
+[log (2017-03-22 11:47:15.782)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.782)]  Releasing move tasks. A000000416
+[log (2017-03-22 11:47:15.844)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.844)]  Releasing move tasks. A000000417
+[log (2017-03-22 11:47:15.906)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.906)]  Releasing move tasks. A000000418
+[log (2017-03-22 11:47:15.969)]  Move tasks already at status released
+[log (2017-03-22 11:47:15.969)]  Releasing move tasks. A000000419
+[log (2017-03-22 11:47:16.047)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.047)]  Releasing move tasks. A000000420
+[log (2017-03-22 11:47:16.109)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.109)]  Releasing move tasks. A000000421
+[log (2017-03-22 11:47:16.172)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.172)]  Releasing move tasks. A000000422
+[log (2017-03-22 11:47:16.234)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.234)]  Releasing move tasks. A000000423
+[log (2017-03-22 11:47:16.296)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.296)]  Releasing move tasks. A000000424
+[log (2017-03-22 11:47:16.359)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.374)]  Releasing move tasks. A000000425
+[log (2017-03-22 11:47:16.437)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.437)]  Releasing move tasks. A000000426
+[log (2017-03-22 11:47:16.499)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.515)]  Releasing move tasks. A000000427
+[log (2017-03-22 11:47:16.577)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.577)]  Releasing move tasks. A000000428
+[log (2017-03-22 11:47:16.640)]  Move tasks already at status released
+[log (2017-03-22 11:47:16.640)]  Releasing move tasks. A000000429
+[log (2017-03-22 11:47:16.702)]  Move tasks already at status released
+[log (2017-03-22 11:48:56.229)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 11:48:56.229)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 11:48:56.229)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 11:48:56.229)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 11:48:56.229)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 11:48:56.229)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 11:48:56.229)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 11:48:56.245)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 11:48:57.196)]  Logging in to RDT
+[log (2017-03-22 11:48:57.196)]  Trying to log into the RDT 
+[log (2017-03-22 11:49:03.407)]  Navigating to containerPicking
+[log (2017-03-22 11:49:03.417)]  Navigating to Container Picking
+[log (2017-03-22 11:49:04.256)]  Picking order: A000000400
+[log (2017-03-22 11:49:19.670)]  FindFailed: can not find images/rdt/tucSkuCon in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 11:49:19.920)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1635358288\sikuliximage-1490183359717.png
+[log (2017-03-22 12:01:44.095)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 12:01:44.095)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 12:01:44.095)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 12:01:44.095)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 12:01:44.095)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 12:01:44.095)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 12:01:44.110)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 12:01:44.110)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 12:01:45.189)]  Logging in to RDT
+[log (2017-03-22 12:01:45.204)]  Trying to log into the RDT 
+[log (2017-03-22 12:01:46.686)]  Typing: putty
+
+[log (2017-03-22 12:02:34.609)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 12:02:34.609)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 12:02:34.609)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 12:02:34.609)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 12:02:34.609)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 12:02:34.609)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 12:02:34.609)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 12:02:34.609)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 12:02:35.608)]  Logging in to RDT
+[log (2017-03-22 12:02:35.624)]  Trying to log into the RDT 
+[log (2017-03-22 12:02:37.090)]  Typing: putty
+
+[log (2017-03-22 12:02:40.834)]  Typing: OPTIMUS	
+[log (2017-03-22 12:02:41.132)]  Typing: 1234
+
+[log (2017-03-22 12:02:41.781)]  Navigating to containerPicking
+[log (2017-03-22 12:02:41.791)]  Navigating to Container Picking
+[log (2017-03-22 12:02:42.004)]  Typing: 2313
+
+[log (2017-03-22 12:02:42.928)]  Picking order: A000000401
+[log (2017-03-22 12:02:43.873)]  Typing: A000000401
+
+[log (2017-03-22 12:02:43.874)]  Trolley pick: A000000401
+[log (2017-03-22 12:02:43.874)]  1 on this list
+[log (2017-03-22 12:02:44.835)]  Typing: 
+
+[log (2017-03-22 12:02:45.533)]  Typing: ?
+[log (2017-03-22 12:02:46.983)]  Typing: PRINTER1
+
+[log (2017-03-22 12:02:47.647)]  Typing: 
+
+[log (2017-03-22 12:02:48.287)]  Typing: ?
+[log (2017-03-22 12:02:48.327)]  Typing: ?
+[log (2017-03-22 12:02:48.477)]  Typing: 2c 
+[log (2017-03-22 12:02:48.557)]  Typing: 
+
+[log (2017-03-22 12:02:49.592)]  Typing: 20001311
+
+[log (2017-03-22 12:02:50.943)]  Typing: 8098491523763
+
+[log (2017-03-22 12:02:52.086)]  Typing: 
+
+[log (2017-03-22 12:02:52.884)]  Typing: JW
+
+[log (2017-03-22 12:06:11.372)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 12:06:11.372)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 12:06:11.372)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 12:06:11.372)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 12:06:11.372)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 12:06:11.372)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 12:06:11.372)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 12:06:11.372)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 12:06:12.355)]  Logging in to RDT
+[log (2017-03-22 12:06:12.355)]  Trying to log into the RDT 
+[log (2017-03-22 12:06:13.837)]  Typing: putty
+
+[log (2017-03-22 12:06:17.582)]  Typing: OPTIMUS	
+[log (2017-03-22 12:06:17.894)]  Typing: 1234
+
+[log (2017-03-22 12:06:18.514)]  Navigating to containerPicking
+[log (2017-03-22 12:06:18.514)]  Navigating to Container Picking
+[log (2017-03-22 12:06:18.720)]  Typing: 2313
+
+[log (2017-03-22 12:06:19.680)]  Picking order: A000000401
+[log (2017-03-22 12:06:20.595)]  Typing: A000000401
+
+[log (2017-03-22 12:06:20.596)]  Trolley pick: A000000401
+[log (2017-03-22 12:06:20.596)]  11 on this list
+[log (2017-03-22 12:06:21.588)]  Typing: 
+
+[log (2017-03-22 12:06:22.300)]  Typing: ?
+[log (2017-03-22 12:06:23.728)]  Typing: PRINTER1
+
+[log (2017-03-22 12:06:24.392)]  Typing: 
+
+[log (2017-03-22 12:06:25.016)]  Typing: ?
+[log (2017-03-22 12:06:25.056)]  Typing: ?
+[log (2017-03-22 12:06:25.216)]  Typing: 1c 
+[log (2017-03-22 12:06:25.296)]  Typing: 
+
+[log (2017-03-22 12:06:26.301)]  Typing: 20001311
+
+[log (2017-03-22 12:06:27.663)]  Typing: 8098491523771
+
+[log (2017-03-22 12:06:28.331)]  Typing: 
+
+[log (2017-03-22 12:06:28.953)]  Typing: ?
+[log (2017-03-22 12:06:28.993)]  Typing: ?
+[log (2017-03-22 12:06:29.153)]  Typing: 1c 
+[log (2017-03-22 12:06:29.243)]  Typing: 
+
+[log (2017-03-22 12:06:30.292)]  Typing: 20001311
+
+[log (2017-03-22 12:06:31.674)]  Typing: 8098491523789
+
+[log (2017-03-22 12:06:34.787)]  FindFailed: can not find images/rdt/tucSkuCon in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 12:06:35.053)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1098753664\sikuliximage-1490184394850.png
+[log (2017-03-22 12:09:26.700)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 12:09:26.700)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 12:09:26.700)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 12:09:26.700)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 12:09:26.700)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 12:09:26.715)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 12:09:26.715)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 12:09:26.715)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 12:09:27.792)]  Logging in to RDT
+[log (2017-03-22 12:09:27.792)]  Trying to log into the RDT 
+[log (2017-03-22 12:09:29.305)]  Typing: putty
+
+[log (2017-03-22 12:09:32.690)]  Typing: OPTIMUS	
+[log (2017-03-22 12:09:33.002)]  Typing: 1234
+
+[log (2017-03-22 12:09:33.710)]  Navigating to containerPicking
+[log (2017-03-22 12:09:33.720)]  Navigating to Container Picking
+[log (2017-03-22 12:09:33.939)]  Typing: 2313
+
+[log (2017-03-22 12:09:34.579)]  Picking order: A000000402
+[log (2017-03-22 12:09:47.015)]  Typing: A000000402
+
+[log (2017-03-22 12:11:09.768)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 12:11:09.768)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 12:11:09.768)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 12:11:09.768)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 12:11:09.768)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 12:11:09.768)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 12:11:09.768)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 12:11:09.768)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 12:11:10.906)]  Logging in to RDT
+[log (2017-03-22 12:11:10.906)]  Trying to log into the RDT 
+[log (2017-03-22 12:11:12.388)]  Typing: putty
+
+[log (2017-03-22 12:11:15.728)]  Typing: OPTIMUS	
+[log (2017-03-22 12:11:16.026)]  Typing: 1234
+
+[log (2017-03-22 12:11:16.675)]  Navigating to containerPicking
+[log (2017-03-22 12:11:16.675)]  Navigating to Container Picking
+[log (2017-03-22 12:11:16.882)]  Typing: 2313
+
+[log (2017-03-22 12:11:17.503)]  Picking order: A000000402
+[log (2017-03-22 12:13:13.023)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 12:13:13.023)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 12:13:13.023)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 12:13:13.023)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 12:13:13.023)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 12:13:13.023)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 12:13:13.039)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 12:13:13.039)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 12:13:14.021)]  Logging in to RDT
+[log (2017-03-22 12:13:14.021)]  Trying to log into the RDT 
+[log (2017-03-22 12:13:15.566)]  Typing: putty
+
+[log (2017-03-22 12:13:19.341)]  Typing: OPTIMUS	
+[log (2017-03-22 12:13:19.653)]  Typing: 1234
+
+[log (2017-03-22 12:13:20.277)]  Navigating to containerPicking
+[log (2017-03-22 12:13:20.277)]  Navigating to Container Picking
+[log (2017-03-22 12:13:20.485)]  Typing: 2313
+
+[log (2017-03-22 12:13:21.386)]  Picking order: A000000402
+[log (2017-03-22 12:13:22.315)]  Typing: A000000402
+
+[log (2017-03-22 12:13:22.331)]  Trolley pick: A000000402
+[log (2017-03-22 12:13:22.331)]  2 on this list
+[log (2017-03-22 12:13:23.272)]  Typing: 
+
+[log (2017-03-22 12:13:24.010)]  Typing: ?
+[log (2017-03-22 12:13:25.393)]  Typing: PRINTER1
+
+[log (2017-03-22 12:13:26.050)]  Typing: 
+
+[log (2017-03-22 12:13:27.033)]  Typing: ?
+[log (2017-03-22 12:13:27.073)]  Typing: ?
+[log (2017-03-22 12:13:27.240)]  Typing: 2c 
+[log (2017-03-22 12:13:27.340)]  Typing: 
+
+[log (2017-03-22 12:13:28.316)]  Typing: 20001311
+
+[log (2017-03-22 12:13:29.728)]  Typing: 8098491523730
+
+[log (2017-03-22 12:13:30.382)]  Typing: 
+
+[log (2017-03-22 12:13:31.009)]  Typing: ?
+[log (2017-03-22 12:13:31.049)]  Typing: ?
+[log (2017-03-22 12:13:31.209)]  Typing: 2c 
+[log (2017-03-22 12:13:31.295)]  Typing: 
+
+[log (2017-03-22 12:13:32.298)]  Typing: 20001311
+
+[log (2017-03-22 12:13:33.681)]  Typing: 8098491523748
+
+[log (2017-03-22 12:13:34.865)]  Typing: 
+
+[log (2017-03-22 12:13:35.664)]  Typing: JW
+
+[log (2017-03-22 12:13:36.355)]  Typing: 
+
+[log (2017-03-22 12:13:37.147)]  Typing: JW
+
+[log (2017-03-22 12:15:52.022)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 12:15:52.037)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 12:15:52.037)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 12:15:52.037)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 12:15:52.037)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 12:15:52.037)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 12:15:52.037)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 12:15:52.037)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 12:15:52.989)]  Logging in to RDT
+[log (2017-03-22 12:15:52.989)]  Trying to log into the RDT 
+[log (2017-03-22 12:15:54.486)]  Typing: putty
+
+[log (2017-03-22 12:15:58.544)]  Typing: OPTIMUS	
+[log (2017-03-22 12:15:58.856)]  Typing: 1234
+
+[log (2017-03-22 12:15:59.496)]  Navigating to containerPicking
+[log (2017-03-22 12:15:59.506)]  Navigating to Container Picking
+[log (2017-03-22 12:15:59.713)]  Typing: 2313
+
+[log (2017-03-22 12:16:00.673)]  Picking order: A000000403
+[log (2017-03-22 12:16:01.584)]  Typing: A000000403
+
+[log (2017-03-22 12:16:01.625)]  Trolley pick: A000000403
+[log (2017-03-22 12:16:01.625)]  2 on this list
+[log (2017-03-22 12:16:02.625)]  Typing: 
+
+[log (2017-03-22 12:16:03.481)]  Typing: ?
+[log (2017-03-22 12:16:04.914)]  Typing: PRINTER1
+
+[log (2017-03-22 12:16:05.591)]  Typing: 
+
+[log (2017-03-22 12:16:06.265)]  Typing: ?
+[log (2017-03-22 12:16:06.305)]  Typing: ?
+[log (2017-03-22 12:16:06.455)]  Typing: 2c 
+[log (2017-03-22 12:16:06.535)]  Typing: 
+
+[log (2017-03-22 12:16:07.538)]  Typing: 20001311
+
+[log (2017-03-22 12:16:08.893)]  Typing: 8098491523714
+
+[log (2017-03-22 12:16:09.558)]  Typing: 
+
+[log (2017-03-22 12:16:10.201)]  Typing: ?
+[log (2017-03-22 12:16:10.241)]  Typing: ?
+[log (2017-03-22 12:16:10.391)]  Typing: 1c 
+[log (2017-03-22 12:16:10.471)]  Typing: 
+
+[log (2017-03-22 12:16:11.475)]  Typing: 20001311
+
+[log (2017-03-22 12:16:12.829)]  Typing: 8098491523722
+
+[log (2017-03-22 12:16:13.523)]  Typing: 
+
+[log (2017-03-22 12:16:14.304)]  Typing: JW
+
+[log (2017-03-22 12:16:17.375)]  FindFailed: can not find images/rdt/pckPalTo.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 12:16:17.609)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1404033047\sikuliximage-1490184977422.png
+[log (2017-03-22 12:16:17.625)]  Order picked
+[log (2017-03-22 12:16:17.625)]  Picking order: null
+[log (2017-03-22 12:17:44.786)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 12:17:44.786)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 12:17:44.786)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 12:17:44.786)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 12:17:44.786)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 12:17:44.786)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 12:17:44.786)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 12:17:44.801)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 12:17:45.753)]  Logging in to RDT
+[log (2017-03-22 12:17:45.753)]  Trying to log into the RDT 
+[log (2017-03-22 12:17:47.219)]  Typing: putty
+
+[log (2017-03-22 12:17:50.620)]  Typing: OPTIMUS	
+[log (2017-03-22 12:17:50.932)]  Typing: 1234
+
+[log (2017-03-22 12:17:52.008)]  Navigating to containerPicking
+[log (2017-03-22 12:17:52.008)]  Navigating to Container Picking
+[log (2017-03-22 12:17:52.277)]  Typing: 2313
+
+[log (2017-03-22 12:17:53.219)]  Picking order: A000000404
+[log (2017-03-22 12:17:54.163)]  Typing: A000000404
+
+[log (2017-03-22 12:17:54.195)]  Trolley pick: A000000404
+[log (2017-03-22 12:17:54.195)]  2 on this list
+[log (2017-03-22 12:17:55.163)]  Typing: 
+
+[log (2017-03-22 12:17:55.922)]  Typing: ?
+[log (2017-03-22 12:17:57.327)]  Typing: PRINTER1
+
+[log (2017-03-22 12:17:57.965)]  Typing: 
+
+[log (2017-03-22 12:17:58.647)]  Typing: ?
+[log (2017-03-22 12:17:58.687)]  Typing: ?
+[log (2017-03-22 12:17:58.847)]  Typing: 2c 
+[log (2017-03-22 12:17:58.937)]  Typing: 
+
+[log (2017-03-22 12:17:59.932)]  Typing: 20001311
+
+[log (2017-03-22 12:18:01.269)]  Typing: 8098491523680
+
+[log (2017-03-22 12:18:04.293)]  FindFailed: can not find images/rdt/tucSkuCon in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 12:18:04.512)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1736706507\sikuliximage-1490185084340.png
+[log (2017-03-22 12:18:04.512)]  Order picked
+[log (2017-03-22 12:18:04.527)]  Picking order: null
+[log (2017-03-22 14:14:15.703)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 14:14:15.703)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 14:14:15.703)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 14:14:15.703)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 14:14:15.703)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 14:14:15.703)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 14:14:15.703)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 14:14:15.703)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 14:14:17.091)]  Logging in to RDT
+[log (2017-03-22 14:14:17.091)]  Trying to log into the RDT 
+[log (2017-03-22 14:14:18.739)]  Typing: putty
+
+[log (2017-03-22 14:14:24.067)]  Typing: OPTIMUS	
+[log (2017-03-22 14:14:24.364)]  Typing: 1234
+
+[log (2017-03-22 14:14:25.053)]  Navigating to containerPicking
+[log (2017-03-22 14:14:25.053)]  Navigating to Container Picking
+[log (2017-03-22 14:14:25.261)]  Typing: 2313
+
+[log (2017-03-22 14:14:25.911)]  Picking order: A000000409
+[log (2017-03-22 14:14:26.789)]  Typing: A000000409
+
+[log (2017-03-22 14:14:26.820)]  Trolley pick: A000000409
+[log (2017-03-22 14:14:26.820)]  1 on this list
+[log (2017-03-22 14:14:27.770)]  Typing: 
+
+[log (2017-03-22 14:14:28.505)]  Typing: ?
+[log (2017-03-22 14:14:29.904)]  Typing: PRINTER1
+
+[log (2017-03-22 14:14:30.591)]  Typing: 
+
+[log (2017-03-22 14:14:31.264)]  Typing: ?
+[log (2017-03-22 14:14:31.304)]  Typing: ?
+[log (2017-03-22 14:14:31.454)]  Typing: 2c 
+[log (2017-03-22 14:14:31.540)]  Typing: 
+
+[log (2017-03-22 14:14:32.553)]  Typing: 20001311
+
+[log (2017-03-22 14:14:33.962)]  Typing: 8098491523565
+
+[log (2017-03-22 14:14:34.664)]  Typing: 
+
+[log (2017-03-22 14:14:35.493)]  Typing: JW
+
+[log (2017-03-22 14:14:35.493)]  Order picked
+[log (2017-03-22 14:14:35.493)]  Picking order: null
+[log (2017-03-22 14:19:42.387)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 14:19:42.387)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 14:19:42.387)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 14:19:42.387)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 14:19:42.387)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 14:19:42.387)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 14:19:42.387)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 14:19:42.387)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 14:19:43.557)]  Logging in to RDT
+[log (2017-03-22 14:19:43.557)]  Trying to log into the RDT 
+[log (2017-03-22 14:19:45.102)]  Typing: putty
+
+[log (2017-03-22 14:19:48.409)]  Typing: OPTIMUS	
+[log (2017-03-22 14:19:48.721)]  Typing: 1234
+
+[log (2017-03-22 14:19:49.366)]  Navigating to containerPicking
+[log (2017-03-22 14:19:49.376)]  Navigating to Container Picking
+[log (2017-03-22 14:19:49.590)]  Typing: 2313
+
+[log (2017-03-22 14:19:50.210)]  Picking order: A000000410
+[log (2017-03-22 14:19:57.478)]  Typing: A000000410
+
+[log (2017-03-22 14:20:28.075)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 14:20:28.091)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 14:20:28.091)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 14:20:28.091)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 14:20:28.091)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 14:20:28.091)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 14:20:28.091)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 14:20:28.091)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 14:20:29.198)]  Logging in to RDT
+[log (2017-03-22 14:20:29.198)]  Trying to log into the RDT 
+[log (2017-03-22 14:20:30.711)]  Typing: putty
+
+[log (2017-03-22 14:20:34.534)]  Typing: OPTIMUS	
+[log (2017-03-22 14:20:34.846)]  Typing: 1234
+
+[log (2017-03-22 14:20:35.502)]  Navigating to containerPicking
+[log (2017-03-22 14:20:35.502)]  Navigating to Container Picking
+[log (2017-03-22 14:20:35.715)]  Typing: 2313
+
+[log (2017-03-22 14:20:36.664)]  Picking order: A000000410
+[log (2017-03-22 14:20:37.505)]  Typing: A000000410
+
+[log (2017-03-22 14:20:43.353)]  Trolley pick: A000000410
+[log (2017-03-22 14:20:43.353)]  2 on this list
+[log (2017-03-22 14:20:43.634)]  Typing: 
+
+[log (2017-03-22 14:20:46.832)]  FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 14:20:47.097)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1094163366\sikuliximage-1490192446894.png
+[log (2017-03-22 14:20:47.113)]  Order picked
+[log (2017-03-22 14:20:47.113)]  Picking order: null
+[log (2017-03-22 14:21:46.254)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 14:21:46.254)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 14:21:46.254)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 14:21:46.254)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 14:21:46.254)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 14:21:46.254)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 14:21:46.254)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 14:21:46.254)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 14:21:47.253)]  Logging in to RDT
+[log (2017-03-22 14:21:47.253)]  Trying to log into the RDT 
+[log (2017-03-22 14:21:48.735)]  Typing: putty
+
+[log (2017-03-22 14:21:52.494)]  Typing: OPTIMUS	
+[log (2017-03-22 14:21:52.822)]  Typing: 1234
+
+[log (2017-03-22 14:21:53.588)]  Navigating to containerPicking
+[log (2017-03-22 14:21:53.588)]  Navigating to Container Picking
+[log (2017-03-22 14:21:53.806)]  Typing: 2313
+
+[log (2017-03-22 14:21:54.764)]  Picking order: A000000410
+[log (2017-03-22 14:21:55.546)]  Typing: A000000410
+
+[log (2017-03-22 14:21:55.567)]  Trolley pick: A000000410
+[log (2017-03-22 14:21:55.567)]  2 on this list
+[log (2017-03-22 14:21:56.527)]  Typing: 
+
+[log (2017-03-22 14:21:57.215)]  Typing: ?
+[log (2017-03-22 14:21:58.640)]  Typing: PRINTER1
+
+[log (2017-03-22 14:21:59.309)]  Typing: 
+
+[log (2017-03-22 14:22:00.027)]  Typing: ?
+[log (2017-03-22 14:22:00.067)]  Typing: ?
+[log (2017-03-22 14:22:00.217)]  Typing: 2c 
+[log (2017-03-22 14:22:00.302)]  Typing: 
+
+[log (2017-03-22 14:38:50.296)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 14:38:50.298)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 14:38:50.299)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 14:38:50.301)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 14:38:50.302)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 14:38:50.304)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 14:38:50.305)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 14:38:50.306)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 14:38:51.414)]  Logging in to RDT
+[log (2017-03-22 14:38:51.416)]  Trying to log into the RDT 
+[log (2017-03-22 14:38:52.765)]  Typing: putty
+
+[log (2017-03-22 14:38:55.956)]  Typing: OPTIMUS	
+[log (2017-03-22 14:38:56.159)]  Typing: 1234
+
+[log (2017-03-22 14:38:56.854)]  Navigating to containerPicking
+[log (2017-03-22 14:38:56.856)]  Navigating to Container Picking
+[log (2017-03-22 14:38:57.059)]  Typing: 2313
+
+[log (2017-03-22 14:38:57.792)]  Picking order: A000000410
+[log (2017-03-22 14:38:59.999)]  Typing: A000000410
+
+[log (2017-03-22 14:39:00.019)]  Trolley pick: A000000410
+[log (2017-03-22 14:39:00.021)]  2 on this list
+[log (2017-03-22 14:39:01.150)]  Typing: 
+
+[log (2017-03-22 14:39:02.018)]  Typing: ?
+[log (2017-03-22 14:39:03.211)]  Typing: PRINTER1
+
+[log (2017-03-22 14:39:03.951)]  Typing: 
+
+[log (2017-03-22 14:39:04.669)]  Typing: ?
+[log (2017-03-22 14:39:04.711)]  Typing: ?
+[log (2017-03-22 14:39:04.867)]  Typing: 2c 
+[log (2017-03-22 14:39:04.942)]  Typing: 
+
+[log (2017-03-22 14:39:06.040)]  Typing: 20001311
+
+[log (2017-03-22 14:39:07.569)]  Typing: 8098491523532
+
+[log (2017-03-22 14:49:22.505)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 14:49:22.505)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 14:49:22.505)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 14:49:22.505)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 14:49:22.505)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 14:49:22.505)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 14:49:22.505)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 14:49:22.505)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 14:49:23.473)]  Attempting to interface an Order
+[log (2017-03-22 14:49:23.488)]  inserting order header
+[log (2017-03-22 14:49:23.894)]  inserting order header
+[log (2017-03-22 14:49:24.081)]  inserting order header
+[log (2017-03-22 14:49:24.253)]  inserting order header
+[log (2017-03-22 14:49:24.440)]  inserting order header
+[log (2017-03-22 14:49:24.627)]  inserting order header
+[log (2017-03-22 14:49:24.814)]  inserting order header
+[log (2017-03-22 14:49:25.001)]  inserting order header
+[log (2017-03-22 14:49:25.173)]  inserting order header
+[log (2017-03-22 14:49:25.360)]  inserting order header
+[log (2017-03-22 14:49:25.547)]  inserting order header
+[log (2017-03-22 14:49:25.735)]  inserting order header
+[log (2017-03-22 14:49:25.922)]  inserting order header
+[log (2017-03-22 14:49:26.109)]  inserting order header
+[log (2017-03-22 14:49:26.283)]  inserting order header
+[log (2017-03-22 14:49:26.470)]  inserting order header
+[log (2017-03-22 14:49:26.657)]  inserting order header
+[log (2017-03-22 14:49:26.829)]  inserting order header
+[log (2017-03-22 14:49:27.016)]  inserting order header
+[log (2017-03-22 14:49:27.188)]  inserting order header
+[log (2017-03-22 14:49:27.406)]  inserting order line A000000512::1
+[log (2017-03-22 14:49:27.562)]  inserting order line A000000513::1
+[log (2017-03-22 14:49:27.718)]  inserting order line A000000514::1
+[log (2017-03-22 14:49:27.874)]  inserting order line A000000515::1
+[log (2017-03-22 14:49:28.046)]  inserting order line A000000516::1
+[log (2017-03-22 14:49:28.186)]  inserting order line A000000517::1
+[log (2017-03-22 14:49:28.342)]  inserting order line A000000518::1
+[log (2017-03-22 14:49:28.498)]  inserting order line A000000519::1
+[log (2017-03-22 14:49:28.654)]  inserting order line A000000520::1
+[log (2017-03-22 14:49:28.810)]  inserting order line A000000521::1
+[log (2017-03-22 14:49:28.966)]  inserting order line A000000522::1
+[log (2017-03-22 14:49:29.122)]  inserting order line A000000523::1
+[log (2017-03-22 14:49:29.294)]  inserting order line A000000524::1
+[log (2017-03-22 14:49:29.453)]  inserting order line A000000525::1
+[log (2017-03-22 14:49:29.593)]  inserting order line A000000526::1
+[log (2017-03-22 14:49:29.749)]  inserting order line A000000527::1
+[log (2017-03-22 14:49:29.905)]  inserting order line A000000528::1
+[log (2017-03-22 14:49:30.061)]  inserting order line A000000529::1
+[log (2017-03-22 14:49:30.264)]  Logging into the application
+[log (2017-03-22 14:49:30.264)]  Attempting to log into the application.
+[log (2017-03-22 14:53:13.111)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 14:53:13.127)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 14:53:13.127)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 14:53:13.127)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 14:53:13.127)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 14:53:13.127)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 14:53:13.127)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 14:53:13.127)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 14:53:14.188)]  Attempting to interface an Order
+[log (2017-03-22 14:53:14.188)]  inserting order header
+[log (2017-03-22 14:53:14.578)]  inserting order header
+[log (2017-03-22 14:53:14.765)]  inserting order header
+[log (2017-03-22 14:53:14.952)]  inserting order header
+[log (2017-03-22 14:53:15.139)]  inserting order header
+[log (2017-03-22 14:53:15.321)]  inserting order header
+[log (2017-03-22 14:53:15.508)]  inserting order header
+[log (2017-03-22 14:53:15.711)]  inserting order header
+[log (2017-03-22 14:53:15.898)]  inserting order header
+[log (2017-03-22 14:53:16.085)]  inserting order header
+[log (2017-03-22 14:53:16.273)]  inserting order header
+[log (2017-03-22 14:53:16.460)]  inserting order header
+[log (2017-03-22 14:53:16.647)]  inserting order header
+[log (2017-03-22 14:53:16.834)]  inserting order header
+[log (2017-03-22 14:53:17.021)]  inserting order header
+[log (2017-03-22 14:53:17.193)]  inserting order header
+[log (2017-03-22 14:53:17.380)]  inserting order header
+[log (2017-03-22 14:53:17.567)]  inserting order header
+[log (2017-03-22 14:53:17.755)]  inserting order header
+[log (2017-03-22 14:53:17.943)]  inserting order header
+[log (2017-03-22 14:53:18.161)]  inserting order line A000000512::1
+[log (2017-03-22 14:53:18.317)]  inserting order line A000000513::1
+[log (2017-03-22 14:53:18.473)]  inserting order line A000000514::1
+[log (2017-03-22 14:53:18.629)]  inserting order line A000000515::1
+[log (2017-03-22 14:53:18.816)]  inserting order line A000000516::1
+[log (2017-03-22 14:53:18.972)]  inserting order line A000000517::1
+[log (2017-03-22 14:53:19.128)]  inserting order line A000000518::1
+[log (2017-03-22 14:53:19.300)]  inserting order line A000000519::1
+[log (2017-03-22 14:53:19.456)]  inserting order line A000000520::1
+[log (2017-03-22 14:53:19.612)]  inserting order line A000000521::1
+[log (2017-03-22 14:53:19.768)]  inserting order line A000000522::1
+[log (2017-03-22 14:53:19.924)]  inserting order line A000000523::1
+[log (2017-03-22 14:53:20.080)]  inserting order line A000000524::1
+[log (2017-03-22 14:53:20.267)]  inserting order line A000000525::1
+[log (2017-03-22 14:53:20.454)]  inserting order line A000000526::1
+[log (2017-03-22 14:53:20.610)]  inserting order line A000000527::1
+[log (2017-03-22 14:53:20.766)]  inserting order line A000000528::1
+[log (2017-03-22 14:53:20.938)]  inserting order line A000000529::1
+[log (2017-03-22 14:53:21.110)]  Logging into the application
+[log (2017-03-22 14:53:21.110)]  Attempting to log into the application.
+[log (2017-03-22 14:55:55.880)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 14:55:55.880)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 14:55:55.880)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 14:55:55.896)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 14:55:55.896)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 14:55:55.896)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 14:55:55.896)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 14:55:55.896)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 14:55:56.989)]  Attempting to interface an Order
+[log (2017-03-22 14:55:56.989)]  inserting order header
+[log (2017-03-22 14:55:57.363)]  inserting order header
+[log (2017-03-22 14:55:57.566)]  inserting order header
+[log (2017-03-22 14:55:57.753)]  inserting order header
+[log (2017-03-22 14:55:57.940)]  inserting order header
+[log (2017-03-22 14:55:58.127)]  inserting order header
+[log (2017-03-22 14:55:58.315)]  inserting order header
+[log (2017-03-22 14:55:58.502)]  inserting order header
+[log (2017-03-22 14:55:58.689)]  inserting order header
+[log (2017-03-22 14:55:58.876)]  inserting order header
+[log (2017-03-22 14:55:59.079)]  inserting order header
+[log (2017-03-22 14:55:59.253)]  inserting order header
+[log (2017-03-22 14:55:59.440)]  inserting order header
+[log (2017-03-22 14:55:59.627)]  inserting order header
+[log (2017-03-22 14:55:59.814)]  inserting order header
+[log (2017-03-22 14:55:59.986)]  inserting order header
+[log (2017-03-22 14:56:00.189)]  inserting order header
+[log (2017-03-22 14:56:00.376)]  inserting order header
+[log (2017-03-22 14:56:00.547)]  inserting order line A000000512::1
+[log (2017-03-22 14:56:00.781)]  inserting order line A000000513::1
+[log (2017-03-22 14:56:00.937)]  inserting order line A000000514::1
+[log (2017-03-22 14:56:01.093)]  inserting order line A000000515::1
+[log (2017-03-22 14:56:01.249)]  inserting order line A000000516::1
+[log (2017-03-22 14:56:01.405)]  inserting order line A000000517::1
+[log (2017-03-22 14:56:01.577)]  inserting order line A000000518::1
+[log (2017-03-22 14:56:01.733)]  inserting order line A000000519::1
+[log (2017-03-22 14:56:01.905)]  inserting order line A000000520::1
+[log (2017-03-22 14:56:02.076)]  inserting order line A000000521::1
+[log (2017-03-22 14:56:02.248)]  inserting order line A000000522::1
+[log (2017-03-22 14:56:02.388)]  inserting order line A000000523::1
+[log (2017-03-22 14:56:02.544)]  inserting order line A000000524::1
+[log (2017-03-22 14:56:02.716)]  inserting order line A000000525::1
+[log (2017-03-22 14:56:02.872)]  inserting order line A000000526::1
+[log (2017-03-22 14:56:03.028)]  inserting order line A000000527::1
+[log (2017-03-22 14:56:03.199)]  inserting order line A000000528::1
+[log (2017-03-22 14:56:03.340)]  inserting order line A000000529::1
+[log (2017-03-22 14:56:03.511)]  Waiting for merge....A000000512
+[log (2017-03-22 14:56:03.511)]  Waiting for merge....60
+[log (2017-03-22 14:56:04.572)]  Waiting for merge....59
+[log (2017-03-22 14:56:05.589)]  Waiting for merge....58
+[log (2017-03-22 14:56:06.619)]  Waiting for merge....57
+[log (2017-03-22 14:56:07.648)]  Waiting for merge....56
+[log (2017-03-22 14:56:08.678)]  Waiting for merge....55
+[log (2017-03-22 14:56:09.708)]  Waiting for merge....54
+[log (2017-03-22 14:56:10.737)]  Waiting for merge....53
+[log (2017-03-22 14:56:11.767)]  Waiting for merge....52
+[log (2017-03-22 14:56:12.796)]  Waiting for merge....51
+[log (2017-03-22 14:56:13.826)]  Waiting for merge....50
+[log (2017-03-22 14:56:14.856)]  Waiting for merge....49
+[log (2017-03-22 14:56:15.885)]  Waiting for merge....48
+[log (2017-03-22 14:56:16.915)]  Waiting for merge....47
+[log (2017-03-22 14:56:17.945)]  Waiting for merge....46
+[log (2017-03-22 14:56:18.990)]  Order A000000512 merged
+[log (2017-03-22 14:56:18.990)]  Waiting for merge....A000000513
+[log (2017-03-22 14:56:18.990)]  Waiting for merge....60
+[log (2017-03-22 14:56:20.051)]  Order A000000513 merged
+[log (2017-03-22 14:56:20.051)]  Waiting for merge....A000000514
+[log (2017-03-22 14:56:20.051)]  Waiting for merge....60
+[log (2017-03-22 14:56:21.098)]  Order A000000514 merged
+[log (2017-03-22 14:56:21.098)]  Waiting for merge....A000000515
+[log (2017-03-22 14:56:21.098)]  Waiting for merge....60
+[log (2017-03-22 14:56:22.159)]  Order A000000515 merged
+[log (2017-03-22 14:56:22.159)]  Waiting for merge....A000000516
+[log (2017-03-22 14:56:22.159)]  Waiting for merge....60
+[log (2017-03-22 14:56:23.219)]  Order A000000516 merged
+[log (2017-03-22 14:56:23.219)]  Waiting for merge....A000000517
+[log (2017-03-22 14:56:23.219)]  Waiting for merge....60
+[log (2017-03-22 14:56:24.281)]  Order A000000517 merged
+[log (2017-03-22 14:56:24.281)]  Waiting for merge....A000000518
+[log (2017-03-22 14:56:24.281)]  Waiting for merge....60
+[log (2017-03-22 14:56:25.342)]  Order A000000518 merged
+[log (2017-03-22 14:56:25.342)]  Waiting for merge....A000000519
+[log (2017-03-22 14:56:25.342)]  Waiting for merge....60
+[log (2017-03-22 14:56:26.398)]  Order A000000519 merged
+[log (2017-03-22 14:56:26.398)]  Waiting for merge....A000000520
+[log (2017-03-22 14:56:26.398)]  Waiting for merge....60
+[log (2017-03-22 14:56:27.459)]  Order A000000520 merged
+[log (2017-03-22 14:56:27.459)]  Waiting for merge....A000000521
+[log (2017-03-22 14:56:27.459)]  Waiting for merge....60
+[log (2017-03-22 14:56:28.520)]  Order A000000521 merged
+[log (2017-03-22 14:56:28.520)]  Waiting for merge....A000000522
+[log (2017-03-22 14:56:28.520)]  Waiting for merge....60
+[log (2017-03-22 14:56:29.580)]  Order A000000522 merged
+[log (2017-03-22 14:56:29.580)]  Waiting for merge....A000000523
+[log (2017-03-22 14:56:29.580)]  Waiting for merge....60
+[log (2017-03-22 14:56:30.641)]  Order A000000523 merged
+[log (2017-03-22 14:56:30.641)]  Waiting for merge....A000000524
+[log (2017-03-22 14:56:30.641)]  Waiting for merge....60
+[log (2017-03-22 14:56:31.705)]  Order A000000524 merged
+[log (2017-03-22 14:56:31.705)]  Waiting for merge....A000000525
+[log (2017-03-22 14:56:31.705)]  Waiting for merge....60
+[log (2017-03-22 14:56:32.766)]  Order A000000525 merged
+[log (2017-03-22 14:56:32.766)]  Waiting for merge....A000000526
+[log (2017-03-22 14:56:32.766)]  Waiting for merge....60
+[log (2017-03-22 14:56:33.827)]  Order A000000526 merged
+[log (2017-03-22 14:56:33.827)]  Waiting for merge....A000000527
+[log (2017-03-22 14:56:33.827)]  Waiting for merge....60
+[log (2017-03-22 14:56:34.874)]  Order A000000527 merged
+[log (2017-03-22 14:56:34.874)]  Waiting for merge....A000000528
+[log (2017-03-22 14:56:34.874)]  Waiting for merge....60
+[log (2017-03-22 14:56:35.950)]  Order A000000528 merged
+[log (2017-03-22 14:56:35.950)]  Waiting for merge....A000000529
+[log (2017-03-22 14:56:35.950)]  Waiting for merge....60
+[log (2017-03-22 14:56:37.011)]  Order A000000529 merged
+[log (2017-03-22 14:56:37.027)]  Logging into the application
+[log (2017-03-22 14:56:37.027)]  Attempting to log into the application.
+[log (2017-03-22 14:56:45.319)]  Login successful
+[log (2017-03-22 14:56:45.319)]  Running Order Grouping
+[log (2017-03-22 14:57:17.555)]  Checking orders have been grouped
+[log (2017-03-22 14:57:17.602)]  Orders have grouped A000000512
+[log (2017-03-22 14:57:17.633)]  Orders have grouped A000000513
+[log (2017-03-22 14:57:17.664)]  Orders have grouped A000000514
+[log (2017-03-22 14:57:17.711)]  Orders have grouped A000000515
+[log (2017-03-22 14:57:17.742)]  Orders have grouped A000000516
+[log (2017-03-22 14:57:17.774)]  Orders have grouped A000000517
+[log (2017-03-22 14:57:17.805)]  Orders have grouped A000000518
+[log (2017-03-22 14:57:17.852)]  Orders have grouped A000000519
+[log (2017-03-22 14:57:17.883)]  Orders have grouped A000000520
+[log (2017-03-22 14:57:17.914)]  Orders have grouped A000000521
+[log (2017-03-22 14:57:17.961)]  Orders have grouped A000000522
+[log (2017-03-22 14:57:17.992)]  Orders have grouped A000000523
+[log (2017-03-22 14:57:18.023)]  Orders have grouped A000000524
+[log (2017-03-22 14:57:18.070)]  Orders have grouped A000000525
+[log (2017-03-22 14:57:18.101)]  Orders have grouped A000000526
+[log (2017-03-22 14:57:18.132)]  Orders have grouped A000000527
+[log (2017-03-22 14:57:18.149)]  Orders have grouped A000000528
+[log (2017-03-22 14:57:18.212)]  Orders have grouped A000000529
+[log (2017-03-22 14:57:18.228)]  Attempting Allocation A000000512
+[log (2017-03-22 14:57:18.259)]  Allocate flag set
+[log (2017-03-22 14:57:19.260)]  Waiting for allocation....70
+[log (2017-03-22 14:57:20.322)]  Waiting for allocation....69
+[log (2017-03-22 14:57:21.367)]  Waiting for allocation....68
+[log (2017-03-22 14:57:22.412)]  Waiting for allocation....67
+[log (2017-03-22 14:57:23.457)]  Waiting for allocation....66
+[log (2017-03-22 14:57:24.489)]  Waiting for allocation....65
+[log (2017-03-22 14:57:25.534)]  Waiting for allocation....64
+[log (2017-03-22 14:57:26.579)]  Waiting for allocation....63
+[log (2017-03-22 14:57:27.614)]  Waiting for allocation....62
+[log (2017-03-22 14:57:28.659)]  Waiting for allocation....61
+[log (2017-03-22 14:57:29.704)]  Waiting for allocation....60
+[log (2017-03-22 14:57:30.750)]  Waiting for allocation....59
+[log (2017-03-22 14:57:31.795)]  Waiting for allocation....58
+[log (2017-03-22 14:57:32.840)]  Waiting for allocation....57
+[log (2017-03-22 14:57:33.885)]  Waiting for allocation....56
+[log (2017-03-22 14:57:34.931)]  Waiting for allocation....55
+[log (2017-03-22 14:57:35.976)]  Waiting for allocation....54
+[log (2017-03-22 14:57:37.014)]  Waiting for allocation....53
+[log (2017-03-22 14:57:38.060)]  Waiting for allocation....52
+[log (2017-03-22 14:57:39.105)]  Waiting for allocation....51
+[log (2017-03-22 14:57:40.150)]  Waiting for allocation....50
+[log (2017-03-22 14:57:41.195)]  Waiting for allocation....49
+[log (2017-03-22 14:57:42.240)]  Waiting for allocation....48
+[log (2017-03-22 14:57:42.272)]  Allocation succesful
+[log (2017-03-22 14:57:42.272)]  Attempting Allocation A000000513
+[log (2017-03-22 14:57:42.303)]  Allocate flag set
+[log (2017-03-22 14:57:43.317)]  Waiting for allocation....70
+[log (2017-03-22 14:57:43.332)]  Allocation succesful
+[log (2017-03-22 14:57:43.332)]  Attempting Allocation A000000514
+[log (2017-03-22 14:57:43.364)]  Allocate flag set
+[log (2017-03-22 14:57:44.378)]  Waiting for allocation....70
+[log (2017-03-22 14:57:44.393)]  Allocation succesful
+[log (2017-03-22 14:57:44.393)]  Attempting Allocation A000000515
+[log (2017-03-22 14:57:44.424)]  Allocate flag set
+[log (2017-03-22 14:57:45.438)]  Waiting for allocation....70
+[log (2017-03-22 14:57:45.454)]  Allocation succesful
+[log (2017-03-22 14:57:45.454)]  Attempting Allocation A000000516
+[log (2017-03-22 14:57:45.485)]  Allocate flag set
+[log (2017-03-22 14:57:46.499)]  Waiting for allocation....70
+[log (2017-03-22 14:57:46.515)]  Allocation succesful
+[log (2017-03-22 14:57:46.515)]  Attempting Allocation A000000517
+[log (2017-03-22 14:57:46.546)]  Allocate flag set
+[log (2017-03-22 14:57:47.560)]  Waiting for allocation....70
+[log (2017-03-22 14:57:47.576)]  Allocation succesful
+[log (2017-03-22 14:57:47.576)]  Attempting Allocation A000000518
+[log (2017-03-22 14:57:47.607)]  Allocate flag set
+[log (2017-03-22 14:57:48.621)]  Waiting for allocation....70
+[log (2017-03-22 14:57:48.636)]  Allocation succesful
+[log (2017-03-22 14:57:48.636)]  Attempting Allocation A000000519
+[log (2017-03-22 14:57:48.714)]  Allocate flag set
+[log (2017-03-22 14:57:49.728)]  Waiting for allocation....70
+[log (2017-03-22 14:57:49.744)]  Allocation succesful
+[log (2017-03-22 14:57:49.744)]  Attempting Allocation A000000520
+[log (2017-03-22 14:57:49.806)]  Allocate flag set
+[log (2017-03-22 14:57:50.820)]  Waiting for allocation....70
+[log (2017-03-22 14:57:50.836)]  Allocation succesful
+[log (2017-03-22 14:57:50.836)]  Attempting Allocation A000000521
+[log (2017-03-22 14:57:50.867)]  Allocate flag set
+[log (2017-03-22 14:57:51.881)]  Waiting for allocation....70
+[log (2017-03-22 14:57:51.897)]  Allocation succesful
+[log (2017-03-22 14:57:51.897)]  Attempting Allocation A000000522
+[log (2017-03-22 14:57:51.928)]  Allocate flag set
+[log (2017-03-22 14:57:52.942)]  Waiting for allocation....70
+[log (2017-03-22 14:57:52.958)]  Allocation succesful
+[log (2017-03-22 14:57:52.958)]  Attempting Allocation A000000523
+[log (2017-03-22 14:57:52.989)]  Allocate flag set
+[log (2017-03-22 14:57:54.003)]  Waiting for allocation....70
+[log (2017-03-22 14:57:54.018)]  Allocation succesful
+[log (2017-03-22 14:57:54.018)]  Attempting Allocation A000000524
+[log (2017-03-22 14:57:54.050)]  Allocate flag set
+[log (2017-03-22 14:57:55.064)]  Waiting for allocation....70
+[log (2017-03-22 14:57:55.079)]  Allocation succesful
+[log (2017-03-22 14:57:55.079)]  Attempting Allocation A000000525
+[log (2017-03-22 14:57:55.110)]  Allocate flag set
+[log (2017-03-22 14:57:56.124)]  Waiting for allocation....70
+[log (2017-03-22 14:57:56.140)]  Allocation succesful
+[log (2017-03-22 14:57:56.156)]  Attempting Allocation A000000526
+[log (2017-03-22 14:57:56.171)]  Allocate flag set
+[log (2017-03-22 14:57:57.201)]  Waiting for allocation....70
+[log (2017-03-22 14:57:57.216)]  Allocation succesful
+[log (2017-03-22 14:57:57.216)]  Attempting Allocation A000000527
+[log (2017-03-22 14:57:57.248)]  Allocate flag set
+[log (2017-03-22 14:57:58.248)]  Waiting for allocation....70
+[log (2017-03-22 14:57:58.264)]  Allocation succesful
+[log (2017-03-22 14:57:58.264)]  Attempting Allocation A000000528
+[log (2017-03-22 14:57:58.295)]  Allocate flag set
+[log (2017-03-22 14:57:59.310)]  Waiting for allocation....70
+[log (2017-03-22 14:57:59.325)]  Allocation succesful
+[log (2017-03-22 14:57:59.325)]  Attempting Allocation A000000529
+[log (2017-03-22 14:57:59.357)]  Allocate flag set
+[log (2017-03-22 14:58:00.371)]  Waiting for allocation....70
+[log (2017-03-22 14:58:00.386)]  Allocation succesful
+[log (2017-03-22 15:02:23.382)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:02:23.382)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:02:23.382)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:02:23.382)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:02:23.382)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:02:23.382)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:02:23.382)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:02:23.382)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:02:24.349)]  Logging in to RDT
+[log (2017-03-22 15:02:24.349)]  Trying to log into the RDT 
+[log (2017-03-22 15:02:25.894)]  Typing: putty
+
+[log (2017-03-22 15:02:29.217)]  Typing: OPTIMUS	
+[log (2017-03-22 15:02:29.515)]  Typing: 1234
+
+[log (2017-03-22 15:02:30.171)]  Navigating to containerPicking
+[log (2017-03-22 15:02:30.181)]  Navigating to Container Picking
+[log (2017-03-22 15:02:30.399)]  Typing: 2313
+
+[log (2017-03-22 15:02:31.059)]  Picking order: A000000412
+[log (2017-03-22 15:02:31.922)]  Typing: A000000412
+
+[log (2017-03-22 15:02:31.953)]  Trolley pick: A000000412
+[log (2017-03-22 15:02:31.953)]  2 on this list
+[log (2017-03-22 15:02:33.148)]  Typing: 
+
+[log (2017-03-22 15:02:33.927)]  Typing: ?
+[log (2017-03-22 15:02:35.334)]  Typing: PRINTER1
+
+[log (2017-03-22 15:02:36.021)]  Typing: 
+
+[log (2017-03-22 15:02:36.699)]  Typing: ?
+[log (2017-03-22 15:02:36.739)]  Typing: ?
+[log (2017-03-22 15:02:36.889)]  Typing: 1c 
+[log (2017-03-22 15:02:36.979)]  Typing: 
+
+[log (2017-03-22 15:02:38.013)]  Typing: 20001311
+
+[log (2017-03-22 15:03:17.337)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:03:17.337)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:03:17.337)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:03:17.337)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:03:17.352)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:03:17.352)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:03:17.352)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:03:17.352)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:03:18.351)]  Logging in to RDT
+[log (2017-03-22 15:03:18.366)]  Trying to log into the RDT 
+[log (2017-03-22 15:03:19.817)]  Typing: putty
+
+[log (2017-03-22 15:03:23.172)]  Typing: OPTIMUS	
+[log (2017-03-22 15:03:23.484)]  Typing: 1234
+
+[log (2017-03-22 15:03:24.104)]  Navigating to containerPicking
+[log (2017-03-22 15:03:24.104)]  Navigating to Container Picking
+[log (2017-03-22 15:03:24.312)]  Typing: 2313
+
+[log (2017-03-22 15:03:24.882)]  Picking order: A000000412
+[log (2017-03-22 15:03:25.586)]  Typing: A000000412
+
+[log (2017-03-22 15:03:25.607)]  Trolley pick: A000000412
+[log (2017-03-22 15:03:25.607)]  2 on this list
+[log (2017-03-22 15:03:26.725)]  Typing: 
+
+[log (2017-03-22 15:03:27.444)]  Typing: ?
+[log (2017-03-22 15:03:29.211)]  Typing: PRINTER1
+
+[log (2017-03-22 15:03:29.863)]  Typing: 
+
+[log (2017-03-22 15:03:30.849)]  Typing: ?
+[log (2017-03-22 15:03:30.889)]  Typing: ?
+[log (2017-03-22 15:03:31.061)]  Typing: 1c 
+[log (2017-03-22 15:03:31.140)]  Typing: 
+
+[log (2017-03-22 15:03:32.137)]  Typing: 20001311
+
+[log (2017-03-22 15:03:33.509)]  Typing: 8098491523482
+
+[log (2017-03-22 15:03:36.880)]  FindFailed: can not find images/rdt/tucSkuCon in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:03:37.130)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_202256991\sikuliximage-1490195016927.png
+[log (2017-03-22 15:03:37.146)]  Order picked
+[log (2017-03-22 15:03:37.146)]  Picking order: A000000413
+[log (2017-03-22 15:03:47.365)]  FindFailed: can not find images/rdt/pckEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:03:47.537)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_202256991\sikuliximage-1490195027396.png
+[log (2017-03-22 15:03:47.552)]  Order picked
+[log (2017-03-22 15:03:47.552)]  Picking order: A000000414
+[log (2017-03-22 15:08:12.521)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:08:12.521)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:08:12.521)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:08:12.521)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:08:12.521)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:08:12.521)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:08:12.521)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:08:12.521)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:08:13.613)]  Logging in to RDT
+[log (2017-03-22 15:08:13.613)]  Trying to log into the RDT 
+[log (2017-03-22 15:08:15.083)]  Typing: putty
+
+[log (2017-03-22 15:08:18.422)]  Typing: OPTIMUS	
+[log (2017-03-22 15:08:18.752)]  Typing: 1234
+
+[log (2017-03-22 15:08:19.362)]  Navigating to containerPicking
+[log (2017-03-22 15:08:19.362)]  Navigating to Container Picking
+[log (2017-03-22 15:08:19.569)]  Typing: 2313
+
+[log (2017-03-22 15:08:20.219)]  Picking order: A000000412
+[log (2017-03-22 15:08:20.968)]  Typing: A000000412
+
+[log (2017-03-22 15:08:20.989)]  Trolley pick: A000000412
+[log (2017-03-22 15:08:20.989)]  2 on this list
+[log (2017-03-22 15:08:21.945)]  Typing: 
+
+[log (2017-03-22 15:08:22.675)]  Typing: ?
+[log (2017-03-22 15:08:24.147)]  Typing: PRINTER1
+
+[log (2017-03-22 15:08:24.810)]  Typing: 
+
+[log (2017-03-22 15:08:25.420)]  Typing: ?
+[log (2017-03-22 15:08:25.460)]  Typing: ?
+[log (2017-03-22 15:08:25.610)]  Typing: 1c 
+[log (2017-03-22 15:08:25.711)]  Typing: 
+
+[log (2017-03-22 15:08:26.725)]  Typing: 20001311
+
+[log (2017-03-22 15:08:28.103)]  Typing: 8098491523490
+
+[log (2017-03-22 15:08:28.791)]  Typing: 
+
+[log (2017-03-22 15:08:29.399)]  Typing: ?
+[log (2017-03-22 15:08:29.439)]  Typing: ?
+[log (2017-03-22 15:08:29.549)]  Typing: 1e
+[log (2017-03-22 15:08:29.629)]  Typing: 
+
+[log (2017-03-22 15:08:32.993)]  FindFailed: can not find images/rdt/skuCnf.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:08:33.227)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_848828072\sikuliximage-1490195313040.png
+[log (2017-03-22 15:08:33.227)]  Order picked
+[log (2017-03-22 15:08:33.227)]  Picking order: A000000413
+[log (2017-03-22 15:10:12.436)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:10:12.436)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:10:12.436)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:10:12.451)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:10:12.451)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:10:12.451)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:10:12.451)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:10:12.451)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:10:13.497)]  Logging in to RDT
+[log (2017-03-22 15:10:13.497)]  Trying to log into the RDT 
+[log (2017-03-22 15:10:14.916)]  Typing: putty
+
+[log (2017-03-22 15:10:18.177)]  Typing: OPTIMUS	
+[log (2017-03-22 15:10:18.474)]  Typing: 1234
+
+[log (2017-03-22 15:10:19.943)]  Navigating to containerPicking
+[log (2017-03-22 15:10:19.943)]  Navigating to Container Picking
+[log (2017-03-22 15:10:20.156)]  Typing: 2313
+
+[log (2017-03-22 15:10:20.746)]  Picking order: A000000412
+[log (2017-03-22 15:10:21.481)]  Typing: A000000412
+
+[log (2017-03-22 15:10:21.502)]  Trolley pick: A000000412
+[log (2017-03-22 15:10:21.502)]  3 on this list
+[log (2017-03-22 15:10:22.077)]  Typing: 
+
+[log (2017-03-22 15:10:23.344)]  Typing: ?
+[log (2017-03-22 15:10:24.686)]  Typing: PRINTER1
+
+[log (2017-03-22 15:10:25.328)]  Typing: 
+
+[log (2017-03-22 15:10:26.311)]  Typing: ?
+[log (2017-03-22 15:10:26.351)]  Typing: ?
+[log (2017-03-22 15:10:26.533)]  Typing: 1c 
+[log (2017-03-22 15:10:26.627)]  Typing: 
+
+[log (2017-03-22 15:10:27.645)]  Typing: 20001311
+
+[log (2017-03-22 15:10:29.027)]  Typing: 8098491523508
+
+[log (2017-03-22 15:10:29.675)]  Typing: 
+
+[log (2017-03-22 15:10:30.292)]  Typing: ?
+[log (2017-03-22 15:10:30.332)]  Typing: ?
+[log (2017-03-22 15:10:30.442)]  Typing: 1e
+[log (2017-03-22 15:10:30.528)]  Typing: 
+
+[log (2017-03-22 15:10:33.533)]  FindFailed: can not find images/rdt/skuCnf.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:10:33.861)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1751536038\sikuliximage-1490195433611.png
+[log (2017-03-22 15:10:33.861)]  Order picked
+[log (2017-03-22 15:10:33.861)]  Picking order: A000000413
+[log (2017-03-22 15:12:12.164)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:12:12.164)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:12:12.164)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:12:12.164)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:12:12.179)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:12:12.179)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:12:12.179)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:12:12.179)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:12:13.131)]  Logging in to RDT
+[log (2017-03-22 15:12:13.131)]  Trying to log into the RDT 
+[log (2017-03-22 15:12:14.613)]  Typing: putty
+
+[log (2017-03-22 15:12:17.906)]  Typing: OPTIMUS	
+[log (2017-03-22 15:12:18.203)]  Typing: 1234
+
+[log (2017-03-22 15:12:18.832)]  Navigating to containerPicking
+[log (2017-03-22 15:12:18.832)]  Navigating to Container Picking
+[log (2017-03-22 15:12:19.050)]  Typing: 2313
+
+[log (2017-03-22 15:12:19.940)]  Picking order: A000000414
+[log (2017-03-22 15:12:20.843)]  Typing: A000000414
+
+[log (2017-03-22 15:12:20.865)]  Trolley pick: A000000414
+[log (2017-03-22 15:12:20.875)]  2 on this list
+[log (2017-03-22 15:12:21.845)]  Typing: 
+
+[log (2017-03-22 15:12:22.609)]  Typing: ?
+[log (2017-03-22 15:12:24.192)]  Typing: PRINTER1
+
+[log (2017-03-22 15:12:24.855)]  Typing: 
+
+[log (2017-03-22 15:12:25.497)]  Typing: ?
+[log (2017-03-22 15:12:25.537)]  Typing: ?
+[log (2017-03-22 15:12:25.697)]  Typing: 2c 
+[log (2017-03-22 15:12:25.787)]  Typing: 
+
+[log (2017-03-22 15:12:26.826)]  Typing: 20001311
+
+[log (2017-03-22 15:12:28.198)]  Typing: 8098491523433
+
+[log (2017-03-22 15:12:28.872)]  Typing: 
+
+[log (2017-03-22 15:12:29.514)]  Typing: ?
+[log (2017-03-22 15:12:29.554)]  Typing: ?
+[log (2017-03-22 15:12:29.704)]  Typing: 1c 
+[log (2017-03-22 15:12:29.789)]  Typing: 
+
+[log (2017-03-22 15:12:30.791)]  Typing: 20001311
+
+[log (2017-03-22 15:12:32.112)]  Typing: 8098491523441
+
+[log (2017-03-22 15:12:32.801)]  Typing: 
+
+[log (2017-03-22 15:12:33.604)]  Typing: JW
+
+[log (2017-03-22 15:12:34.246)]  Typing: 
+
+[log (2017-03-22 15:12:35.059)]  Typing: JW
+
+[log (2017-03-22 15:12:35.059)]  Order picked
+[log (2017-03-22 15:12:35.075)]  Picking order: A000000415
+[log (2017-03-22 15:12:45.122)]  FindFailed: can not find images/rdt/pckEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:12:45.356)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1010675069\sikuliximage-1490195565169.png
+[log (2017-03-22 15:12:45.356)]  Order picked
+[log (2017-03-22 15:12:45.356)]  Picking order: A000000416
+[log (2017-03-22 15:16:12.816)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:16:12.816)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:16:12.816)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:16:12.816)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:16:12.816)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:16:12.816)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:16:12.816)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:16:12.816)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:16:13.815)]  Logging in to RDT
+[log (2017-03-22 15:16:13.815)]  Trying to log into the RDT 
+[log (2017-03-22 15:16:15.312)]  Typing: putty
+
+[log (2017-03-22 15:16:19.088)]  Typing: OPTIMUS	
+[log (2017-03-22 15:16:19.400)]  Typing: 1234
+
+[log (2017-03-22 15:16:20.006)]  Navigating to containerPicking
+[log (2017-03-22 15:16:20.006)]  Navigating to Container Picking
+[log (2017-03-22 15:16:20.224)]  Typing: 2313
+
+[log (2017-03-22 15:16:21.161)]  Picking order: A000000415
+[log (2017-03-22 15:16:21.967)]  Typing: A000000415
+
+[log (2017-03-22 15:16:21.998)]  Trolley pick: A000000415
+[log (2017-03-22 15:16:22.014)]  2 on this list
+[log (2017-03-22 15:16:22.966)]  Typing: 
+
+[log (2017-03-22 15:16:23.800)]  Typing: ?
+[log (2017-03-22 15:16:25.163)]  Typing: PRINTER1
+
+[log (2017-03-22 15:16:25.811)]  Typing: 
+
+[log (2017-03-22 15:16:26.438)]  Typing: ?
+[log (2017-03-22 15:16:26.478)]  Typing: ?
+[log (2017-03-22 15:16:26.628)]  Typing: 1c 
+[log (2017-03-22 15:16:26.708)]  Typing: 
+
+[log (2017-03-22 15:16:27.723)]  Typing: 20001311
+
+[log (2017-03-22 15:16:29.080)]  Typing: 8098491523409
+
+[log (2017-03-22 15:16:32.479)]  FindFailed: can not find images/rdt/tucSkuCon in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:16:32.698)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1707693181\sikuliximage-1490195792526.png
+[log (2017-03-22 15:16:32.729)]  Trolley pick: A000000415
+[log (2017-03-22 15:16:32.729)]  1 on this list
+[log (2017-03-22 15:16:41.048)]  FindFailed: can not find images/rdt/trolleyPick.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:16:41.219)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1707693181\sikuliximage-1490195801094.png
+[log (2017-03-22 15:16:41.219)]  Order picked
+[log (2017-03-22 15:16:41.219)]  Picking order: A000000416
+[log (2017-03-22 15:19:40.700)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:19:40.700)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:19:40.700)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:19:40.700)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:19:40.700)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:19:40.700)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:19:40.700)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:19:40.700)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:19:41.746)]  Logging in to RDT
+[log (2017-03-22 15:19:41.746)]  Trying to log into the RDT 
+[log (2017-03-22 15:19:43.196)]  Typing: putty
+
+[log (2017-03-22 15:19:46.535)]  Typing: OPTIMUS	
+[log (2017-03-22 15:19:46.853)]  Typing: 1234
+
+[log (2017-03-22 15:19:47.463)]  Navigating to containerPicking
+[log (2017-03-22 15:19:47.473)]  Navigating to Container Picking
+[log (2017-03-22 15:19:47.680)]  Typing: 2313
+
+[log (2017-03-22 15:19:48.582)]  Picking order: A000000416
+[log (2017-03-22 15:19:49.502)]  Typing: A000000416
+
+[log (2017-03-22 15:19:49.563)]  Trolley pick: A000000416
+[log (2017-03-22 15:19:49.563)]  1 on this list
+[log (2017-03-22 15:19:50.920)]  Typing: 
+
+[log (2017-03-22 15:19:51.630)]  Typing: ?
+[log (2017-03-22 15:19:53.046)]  Typing: PRINTER1
+
+[log (2017-03-22 15:19:53.739)]  Typing: 
+
+[log (2017-03-22 15:19:54.726)]  Typing: ?
+[log (2017-03-22 15:19:54.766)]  Typing: ?
+[log (2017-03-22 15:19:54.950)]  Typing: 2c 
+[log (2017-03-22 15:19:55.050)]  Typing: 
+
+[log (2017-03-22 15:19:56.061)]  Typing: 20001311
+
+[log (2017-03-22 15:19:57.377)]  Typing: 8098491523383
+
+[log (2017-03-22 15:19:58.047)]  Typing: 
+
+[log (2017-03-22 15:19:58.850)]  Typing: JW
+
+[log (2017-03-22 15:19:58.881)]  Trolley pick: A000000416
+[log (2017-03-22 15:19:58.881)]  1 on this list
+[log (2017-03-22 15:20:04.731)]  Typing: 
+
+[log (2017-03-22 15:20:05.432)]  Typing: ?
+[log (2017-03-22 15:20:06.850)]  Typing: PRINTER1
+
+[log (2017-03-22 15:20:07.528)]  Typing: 
+
+[log (2017-03-22 15:20:08.155)]  Typing: ?
+[log (2017-03-22 15:20:08.195)]  Typing: ?
+[log (2017-03-22 15:20:08.355)]  Typing: 1c 
+[log (2017-03-22 15:20:08.425)]  Typing: 
+
+[log (2017-03-22 15:20:09.454)]  Typing: 20001311
+
+[log (2017-03-22 15:20:10.773)]  Typing: 8098491523896
+
+[log (2017-03-22 15:20:25.923)]  FindFailed: can not find images/rdt/pckPalTo.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:20:26.173)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_1759583340\sikuliximage-1490196025954.png
+[log (2017-03-22 15:20:26.188)]  Order picked
+[log (2017-03-22 15:20:26.188)]  Picking order: A000000417
+[log (2017-03-22 15:33:57.688)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:33:57.688)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:33:57.688)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:33:57.688)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:33:57.688)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:33:57.688)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:33:57.688)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:33:57.704)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:33:58.718)]  Logging in to RDT
+[log (2017-03-22 15:33:58.718)]  Trying to log into the RDT 
+[log (2017-03-22 15:34:00.168)]  Typing: putty
+
+[log (2017-03-22 15:34:03.460)]  Typing: OPTIMUS	
+[log (2017-03-22 15:34:03.757)]  Typing: 1234
+
+[log (2017-03-22 15:34:04.376)]  Navigating to containerPicking
+[log (2017-03-22 15:34:04.376)]  Navigating to Container Picking
+[log (2017-03-22 15:34:04.594)]  Typing: 2313
+
+[log (2017-03-22 15:34:05.184)]  Picking order: A000000418
+[log (2017-03-22 15:34:06.071)]  Typing: A000000418
+
+[log (2017-03-22 15:34:06.100)]  Trolley pick: A000000418
+[log (2017-03-22 15:34:06.100)]  2 on this list
+[log (2017-03-22 15:34:07.115)]  Typing: 
+
+[log (2017-03-22 15:34:07.132)]  
+[log (2017-03-22 15:34:07.913)]  Typing: ?
+[log (2017-03-22 15:34:09.397)]  Typing: PRINTER1
+
+[log (2017-03-22 15:34:10.178)]  Typing: 
+
+[log (2017-03-22 15:34:11.194)]  Typing: ?
+[log (2017-03-22 15:34:11.234)]  Typing: ?
+[log (2017-03-22 15:34:11.384)]  Typing: 2c 
+[log (2017-03-22 15:34:11.469)]  Typing: 
+
+[log (2017-03-22 15:34:12.559)]  Typing: 20001311
+
+[log (2017-03-22 15:34:13.948)]  Typing: 8098491523334
+
+[log (2017-03-22 15:34:14.661)]  Typing: 
+
+[log (2017-03-22 15:34:15.305)]  Typing: ?
+[log (2017-03-22 15:34:15.345)]  Typing: ?
+[log (2017-03-22 15:34:15.495)]  Typing: 1c 
+[log (2017-03-22 15:34:15.584)]  Typing: 
+
+[log (2017-03-22 15:34:16.592)]  Typing: 20001311
+
+[log (2017-03-22 15:34:17.985)]  Typing: 8098491523334
+
+[log (2017-03-22 15:34:33.149)]  FindFailed: can not find images/rdt/pckPalTo.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:34:33.399)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_973187872\sikuliximage-1490196873196.png
+[log (2017-03-22 15:34:33.430)]  Trolley pick: A000000418
+[log (2017-03-22 15:34:33.430)]  1 on this list
+[log (2017-03-22 15:34:41.698)]  FindFailed: can not find images/rdt/trolleyPick.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:34:41.885)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_973187872\sikuliximage-1490196881745.png
+[log (2017-03-22 15:34:41.885)]  Order picked
+[log (2017-03-22 15:34:41.885)]  Picking order: A000000419
+[log (2017-03-22 15:34:52.209)]  FindFailed: can not find images/rdt/pckEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 15:34:52.381)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_973187872\sikuliximage-1490196892256.png
+[log (2017-03-22 15:34:52.381)]  Order picked
+[log (2017-03-22 15:34:52.381)]  Picking order: A000000420
+[log (2017-03-22 15:43:43.663)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:43:43.663)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:43:43.663)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:43:43.663)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:43:43.663)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:43:43.663)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:43:43.663)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:43:43.663)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:43:44.786)]  Logging in to RDT
+[log (2017-03-22 15:43:44.786)]  Trying to log into the RDT 
+[log (2017-03-22 15:43:46.268)]  Typing: putty
+
+[log (2017-03-22 15:43:49.950)]  Typing: OPTIMUS	
+[log (2017-03-22 15:43:50.262)]  Typing: 1234
+
+[log (2017-03-22 15:43:50.912)]  Navigating to containerPicking
+[log (2017-03-22 15:43:50.912)]  Navigating to Container Picking
+[log (2017-03-22 15:43:51.125)]  Typing: 2313
+
+[log (2017-03-22 15:43:51.725)]  Picking order: A000000420
+[log (2017-03-22 15:43:52.471)]  Typing: A000000420
+
+[log (2017-03-22 15:43:52.511)]  Trolley pick: A000000420
+[log (2017-03-22 15:43:52.511)]  1 on this list
+[log (2017-03-22 15:43:53.521)]  Typing: 
+
+[log (2017-03-22 15:43:54.254)]  Typing: ?
+[log (2017-03-22 15:43:55.636)]  Typing: PRINTER1
+
+[log (2017-03-22 15:43:55.653)]  List ID: PNH3880851
+[log (2017-03-22 15:43:56.319)]  Typing: 
+
+[log (2017-03-22 15:43:57.327)]  Typing: ?
+[log (2017-03-22 15:43:57.367)]  Typing: ?
+[log (2017-03-22 15:43:57.562)]  Typing: 2c 
+[log (2017-03-22 15:43:57.662)]  Typing: 
+
+[log (2017-03-22 15:43:58.712)]  Typing: 20001311
+
+[log (2017-03-22 15:44:00.176)]  Typing: 8098491523284
+
+[log (2017-03-22 15:44:00.876)]  Typing: 
+
+[log (2017-03-22 15:44:01.750)]  Typing: JW
+
+[log (2017-03-22 15:44:01.770)]  Trolley pick: A000000420
+[log (2017-03-22 15:44:01.770)]  1 on this list
+[log (2017-03-22 15:44:07.774)]  Typing: 
+
+[log (2017-03-22 15:44:08.465)]  Typing: ?
+[log (2017-03-22 15:44:09.910)]  Typing: PRINTER1
+
+[log (2017-03-22 15:44:09.911)]  List ID: PNH3880852
+[log (2017-03-22 15:44:10.567)]  Typing: 
+
+[log (2017-03-22 15:44:11.199)]  Typing: ?
+[log (2017-03-22 15:44:11.239)]  Typing: ?
+[log (2017-03-22 15:44:11.389)]  Typing: 1c 
+[log (2017-03-22 15:44:11.529)]  Typing: 
+
+[log (2017-03-22 15:44:12.517)]  Typing: 20001311
+
+[log (2017-03-22 15:44:13.821)]  Typing: 8098491523292
+
+[log (2017-03-22 15:45:23.186)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:45:23.186)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:45:23.186)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:45:23.186)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:45:23.202)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:45:23.202)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:45:23.202)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:45:23.202)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:45:24.325)]  Logging in to RDT
+[log (2017-03-22 15:45:24.325)]  Trying to log into the RDT 
+[log (2017-03-22 15:45:25.838)]  Typing: putty
+
+[log (2017-03-22 15:45:29.177)]  Typing: OPTIMUS	
+[log (2017-03-22 15:45:29.489)]  Typing: 1234
+
+[log (2017-03-22 15:45:30.134)]  Navigating to containerPicking
+[log (2017-03-22 15:45:30.134)]  Navigating to Container Picking
+[log (2017-03-22 15:45:30.334)]  Typing: 2313
+
+[log (2017-03-22 15:45:31.316)]  Picking order: A000000420
+[log (2017-03-22 15:49:28.044)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:49:28.059)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:49:28.059)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:49:28.059)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:49:28.059)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:49:28.059)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:49:28.059)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:49:28.059)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:49:29.214)]  Logging in to RDT
+[log (2017-03-22 15:49:29.214)]  Trying to log into the RDT 
+[log (2017-03-22 15:49:30.743)]  Typing: putty
+
+[log (2017-03-22 15:49:53.839)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 15:49:53.839)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 15:49:53.839)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 15:49:53.839)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 15:49:53.839)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 15:49:53.839)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 15:49:53.839)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 15:49:53.839)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 15:49:54.995)]  Logging in to RDT
+[log (2017-03-22 15:49:54.995)]  Trying to log into the RDT 
+[log (2017-03-22 15:49:56.477)]  Typing: putty
+
+[log (2017-03-22 15:49:59.768)]  Typing: OPTIMUS	
+[log (2017-03-22 15:50:00.080)]  Typing: 1234
+
+[log (2017-03-22 15:50:00.800)]  Navigating to containerPicking
+[log (2017-03-22 15:50:00.800)]  Navigating to Container Picking
+[log (2017-03-22 15:50:01.019)]  Typing: 2313
+
+[log (2017-03-22 15:50:01.619)]  Picking order: A000000422
+[log (2017-03-22 16:23:01.703)]  Typing: A000000422
+
+[log (2017-03-22 16:23:33.990)]  Trolley pick: A000000422
+[log (2017-03-22 16:23:33.996)]  2 on this list
+[log (2017-03-22 16:23:47.644)]  FindFailed: can not find images/rdt/trolleyPick.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-22 16:23:48.443)]  Screen Cap FILE::::::::C:\Users\P9134107\AppData\Local\Temp\Sikulix_2126628582\sikuliximage-1490199827696.png
+[log (2017-03-22 16:27:28.699)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 16:27:28.701)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 16:27:28.702)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 16:27:28.704)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 16:27:28.705)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 16:27:28.706)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 16:27:28.708)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 16:27:28.709)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 16:27:29.786)]  Logging in to RDT
+[log (2017-03-22 16:27:29.787)]  Trying to log into the RDT 
+[log (2017-03-22 16:27:31.114)]  Typing: putty
+
+[log (2017-03-22 16:27:35.691)]  Typing: OPTIMUS	
+[log (2017-03-22 16:27:35.897)]  Typing: 1234
+
+[log (2017-03-22 16:27:36.568)]  Navigating to containerPicking
+[log (2017-03-22 16:27:36.569)]  Navigating to Container Picking
+[log (2017-03-22 16:27:36.773)]  Typing: 2313
+
+[log (2017-03-22 16:27:37.746)]  Picking order: A000000422
+[log (2017-03-22 16:27:38.426)]  Typing: A000000422
+
+[log (2017-03-22 16:27:38.447)]  Trolley pick: A000000422
+[log (2017-03-22 16:27:38.448)]  2 on this list
+[log (2017-03-22 16:27:39.441)]  Typing: 
+
+[log (2017-03-22 16:27:40.196)]  Typing: ?
+[log (2017-03-22 16:27:41.407)]  Typing: PRINTER1
+
+[log (2017-03-22 16:27:41.430)]  List ID: PNH3880849
+[log (2017-03-22 16:27:42.112)]  Typing: 
+
+[log (2017-03-22 16:27:42.781)]  Typing: ?
+[log (2017-03-22 16:27:42.823)]  Typing: ?
+[log (2017-03-22 16:27:42.981)]  Typing: 2c 
+[log (2017-03-22 16:27:43.072)]  Typing: 
+
+[log (2017-03-22 16:27:44.133)]  Typing: 20001311
+
+[log (2017-03-22 16:27:45.447)]  Typing: 8098491523235
+
+[log (2017-03-22 16:27:46.153)]  Typing: 
+
+[log (2017-03-22 16:27:46.831)]  Typing: ?
+[log (2017-03-22 16:27:46.874)]  Typing: ?
+[log (2017-03-22 16:27:47.031)]  Typing: 1c 
+[log (2017-03-22 16:27:47.115)]  Typing: 
+
+[log (2017-03-22 16:27:48.207)]  Typing: 20001311
+
+[log (2017-03-22 16:27:49.517)]  Typing: 8098491523243
+
+[log (2017-03-22 16:27:50.206)]  Typing: 
+
+[log (2017-03-22 16:27:50.998)]  Typing: JW
+
+[log (2017-03-22 16:27:56.650)]  Typing: 
+
+[log (2017-03-22 16:27:57.471)]  Typing: JW
+
+[log (2017-03-22 16:27:57.490)]  Trolley pick: A000000422
+[log (2017-03-22 16:27:57.491)]  1 on this list
+[log (2017-03-22 16:27:58.109)]  Typing: 
+
+[log (2017-03-22 16:27:58.846)]  Typing: ?
+[log (2017-03-22 16:27:59.420)]  Typing: PRINTER1
+
+[log (2017-03-22 16:27:59.439)]  List ID: PNH3880850
+[log (2017-03-22 16:28:00.126)]  Typing: 
+
+[log (2017-03-22 16:28:00.756)]  Typing: ?
+[log (2017-03-22 16:28:00.801)]  Typing: ?
+[log (2017-03-22 16:28:00.960)]  Typing: 1c 
+[log (2017-03-22 16:28:01.037)]  Typing: 
+
+[log (2017-03-22 16:28:02.062)]  Typing: 20001311
+
+[log (2017-03-22 16:28:03.411)]  Typing: 8098491523250
+
+[log (2017-03-22 16:28:04.121)]  Typing: 
+
+[log (2017-03-22 16:28:04.929)]  Typing: JW
+
+[log (2017-03-22 16:28:04.931)]  Order picked
+[log (2017-03-22 16:28:04.934)]  Picking order: A000000423
+[log (2017-03-22 16:28:11.087)]  Typing: A000000423
+
+[log (2017-03-22 16:28:11.114)]  Trolley pick: A000000423
+[log (2017-03-22 16:28:11.115)]  1 on this list
+[log (2017-03-22 16:28:11.720)]  Typing: 
+
+[log (2017-03-22 16:28:12.457)]  Typing: ?
+[log (2017-03-22 16:28:13.026)]  Typing: PRINTER1
+
+[log (2017-03-22 16:28:13.046)]  List ID: PNH3897967
+[log (2017-03-22 16:28:13.876)]  Typing: 
+
+[log (2017-03-22 16:48:35.582)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 16:48:35.584)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 16:48:35.585)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 16:48:35.587)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 16:48:35.588)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 16:48:35.590)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 16:48:35.591)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 16:48:35.592)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 16:48:36.686)]  Attempting to interface an Order
+[log (2017-03-22 16:48:36.687)]  inserting order header
+[log (2017-03-22 16:48:37.090)]  inserting order header
+[log (2017-03-22 16:48:37.271)]  inserting order header
+[log (2017-03-22 16:48:37.468)]  inserting order header
+[log (2017-03-22 16:48:37.645)]  inserting order header
+[log (2017-03-22 16:48:37.831)]  inserting order header
+[log (2017-03-22 16:48:38.009)]  inserting order header
+[log (2017-03-22 16:48:38.193)]  inserting order header
+[log (2017-03-22 16:48:38.373)]  inserting order header
+[log (2017-03-22 16:49:09.478)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 16:49:09.480)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 16:49:09.481)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 16:49:09.483)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 16:49:09.484)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 16:49:09.485)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 16:49:09.487)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 16:49:09.489)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 16:49:10.625)]  Attempting to interface an Order
+[log (2017-03-22 16:49:10.626)]  inserting order header
+[log (2017-03-22 16:49:10.982)]  inserting order header
+[log (2017-03-22 16:49:11.178)]  inserting order header
+[log (2017-03-22 16:49:11.361)]  inserting order line A000000612::1
+[log (2017-03-22 16:49:11.525)]  Waiting for merge....A000000612
+[log (2017-03-22 16:49:11.526)]  Waiting for merge....60
+[log (2017-03-22 16:49:12.589)]  Waiting for merge....59
+[log (2017-03-22 16:49:13.620)]  Waiting for merge....58
+[log (2017-03-22 16:49:14.638)]  Waiting for merge....57
+[log (2017-03-22 16:49:15.659)]  Waiting for merge....56
+[log (2017-03-22 16:49:16.679)]  Waiting for merge....55
+[log (2017-03-22 16:49:17.696)]  Waiting for merge....54
+[log (2017-03-22 16:49:18.716)]  Waiting for merge....53
+[log (2017-03-22 16:49:19.734)]  Waiting for merge....52
+[log (2017-03-22 16:49:20.770)]  Order A000000612 merged
+[log (2017-03-22 16:49:20.809)]  Logging into the application
+[log (2017-03-22 16:49:20.812)]  Attempting to log into the application.
+[log (2017-03-22 16:54:11.579)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 16:54:11.580)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 16:54:11.581)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 16:54:11.583)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 16:54:11.584)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 16:54:11.586)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 16:54:11.587)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 16:54:11.588)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 16:54:12.796)]  Attempting to interface an Order
+[log (2017-03-22 16:54:12.798)]  inserting order header: A000000613
+[log (2017-03-22 16:54:13.196)]  inserting order header: null
+[log (2017-03-22 16:54:13.393)]  inserting order header: null
+[log (2017-03-22 16:54:13.578)]  inserting order line A000000613::1
+[log (2017-03-22 16:54:13.753)]  Waiting for merge....A000000613
+[log (2017-03-22 16:54:13.759)]  Waiting for merge....60
+[log (2017-03-22 16:54:14.811)]  Waiting for merge....59
+[log (2017-03-22 16:54:15.841)]  Waiting for merge....58
+[log (2017-03-22 16:54:16.860)]  Waiting for merge....57
+[log (2017-03-22 16:54:17.879)]  Waiting for merge....56
+[log (2017-03-22 16:54:18.900)]  Waiting for merge....55
+[log (2017-03-22 16:54:19.919)]  Waiting for merge....54
+[log (2017-03-22 16:54:20.955)]  Order A000000613 merged
+[log (2017-03-22 16:54:20.981)]  Logging into the application
+[log (2017-03-22 16:54:20.989)]  Attempting to log into the application.
+[log (2017-03-22 17:02:11.477)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 17:02:11.478)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 17:02:11.479)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 17:02:11.482)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 17:02:11.483)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 17:02:11.485)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 17:02:11.487)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 17:02:11.489)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 17:02:12.560)]  Attempting to interface an Order
+[log (2017-03-22 17:02:12.562)]  inserting order header: A000000614
+[log (2017-03-22 17:02:12.953)]  inserting order line A000000614::1
+[log (2017-03-22 17:02:13.129)]  Waiting for merge....A000000614
+[log (2017-03-22 17:02:13.130)]  Waiting for merge....60
+[log (2017-03-22 17:02:14.194)]  Waiting for merge....59
+[log (2017-03-22 17:02:15.214)]  Waiting for merge....58
+[log (2017-03-22 17:02:16.232)]  Waiting for merge....57
+[log (2017-03-22 17:02:17.253)]  Waiting for merge....56
+[log (2017-03-22 17:02:18.275)]  Waiting for merge....55
+[log (2017-03-22 17:02:19.294)]  Waiting for merge....54
+[log (2017-03-22 17:02:20.312)]  Waiting for merge....53
+[log (2017-03-22 17:02:21.335)]  Waiting for merge....52
+[log (2017-03-22 17:02:22.357)]  Waiting for merge....51
+[log (2017-03-22 17:02:23.378)]  Waiting for merge....50
+[log (2017-03-22 17:02:24.397)]  Waiting for merge....49
+[log (2017-03-22 17:02:25.415)]  Waiting for merge....48
+[log (2017-03-22 17:02:26.434)]  Waiting for merge....47
+[log (2017-03-22 17:02:27.454)]  Waiting for merge....46
+[log (2017-03-22 17:02:28.473)]  Waiting for merge....45
+[log (2017-03-22 17:02:29.493)]  Waiting for merge....44
+[log (2017-03-22 17:02:30.512)]  Waiting for merge....43
+[log (2017-03-22 17:02:31.533)]  Waiting for merge....42
+[log (2017-03-22 17:02:32.553)]  Waiting for merge....41
+[log (2017-03-22 17:02:33.572)]  Waiting for merge....40
+[log (2017-03-22 17:02:34.591)]  Waiting for merge....39
+[log (2017-03-22 17:02:35.609)]  Waiting for merge....38
+[log (2017-03-22 17:02:36.628)]  Waiting for merge....37
+[log (2017-03-22 17:02:37.650)]  Waiting for merge....36
+[log (2017-03-22 17:02:38.668)]  Waiting for merge....35
+[log (2017-03-22 17:02:39.689)]  Waiting for merge....34
+[log (2017-03-22 17:02:40.709)]  Waiting for merge....33
+[log (2017-03-22 17:02:41.727)]  Waiting for merge....32
+[log (2017-03-22 17:02:42.749)]  Waiting for merge....31
+[log (2017-03-22 17:02:43.768)]  Waiting for merge....30
+[log (2017-03-22 17:02:44.788)]  Waiting for merge....29
+[log (2017-03-22 17:02:45.806)]  Waiting for merge....28
+[log (2017-03-22 17:02:46.827)]  Waiting for merge....27
+[log (2017-03-22 17:02:47.845)]  Waiting for merge....26
+[log (2017-03-22 17:02:48.868)]  Waiting for merge....25
+[log (2017-03-22 17:02:49.886)]  Waiting for merge....24
+[log (2017-03-22 17:02:50.906)]  Waiting for merge....23
+[log (2017-03-22 17:02:51.925)]  Waiting for merge....22
+[log (2017-03-22 17:02:52.944)]  Waiting for merge....21
+[log (2017-03-22 17:02:53.963)]  Waiting for merge....20
+[log (2017-03-22 17:02:54.981)]  Waiting for merge....19
+[log (2017-03-22 17:02:56.001)]  Waiting for merge....18
+[log (2017-03-22 17:02:57.020)]  Waiting for merge....17
+[log (2017-03-22 17:02:58.042)]  Waiting for merge....16
+[log (2017-03-22 17:02:59.061)]  Waiting for merge....15
+[log (2017-03-22 17:03:00.081)]  Waiting for merge....14
+[log (2017-03-22 17:03:01.102)]  Waiting for merge....13
+[log (2017-03-22 17:03:02.122)]  Waiting for merge....12
+[log (2017-03-22 17:03:03.140)]  Waiting for merge....11
+[log (2017-03-22 17:03:04.160)]  Waiting for merge....10
+[log (2017-03-22 17:03:05.179)]  Waiting for merge....9
+[log (2017-03-22 17:03:06.198)]  Waiting for merge....8
+[log (2017-03-22 17:03:07.218)]  Waiting for merge....7
+[log (2017-03-22 17:03:08.236)]  Waiting for merge....6
+[log (2017-03-22 17:03:09.254)]  Waiting for merge....5
+[log (2017-03-22 17:03:10.274)]  Waiting for merge....4
+[log (2017-03-22 17:03:11.293)]  Waiting for merge....3
+[log (2017-03-22 17:03:12.313)]  Waiting for merge....2
+[log (2017-03-22 17:03:13.332)]  Waiting for merge....1
+[log (2017-03-22 17:03:14.367)]  Order not merged
+[log (2017-03-22 17:03:14.397)]  Logging into the application
+[log (2017-03-22 17:03:14.399)]  Attempting to log into the application.
+[log (2017-03-22 17:04:24.850)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-22 17:04:24.852)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-22 17:04:24.853)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-22 17:04:24.854)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-22 17:04:24.856)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-22 17:04:24.857)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-22 17:04:24.859)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-22 17:04:24.860)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-22 17:04:25.854)]  Attempting to interface an Order
+[log (2017-03-22 17:04:25.855)]  inserting order header: A000000614
+[log (2017-03-22 17:04:26.258)]  inserting order line A000000614::1
+[log (2017-03-22 17:04:26.421)]  Waiting for merge....A000000614
+[log (2017-03-22 17:04:26.423)]  Waiting for merge....60
+[log (2017-03-22 17:04:27.451)]  Waiting for merge....59
+[log (2017-03-22 17:04:28.474)]  Waiting for merge....58
+[log (2017-03-22 17:04:29.493)]  Waiting for merge....57
+[log (2017-03-22 17:04:30.517)]  Waiting for merge....56
+[log (2017-03-22 17:04:31.537)]  Waiting for merge....55
+[log (2017-03-22 17:04:32.557)]  Waiting for merge....54
+[log (2017-03-22 17:04:33.577)]  Waiting for merge....53
+[log (2017-03-22 17:04:34.596)]  Waiting for merge....52
+[log (2017-03-22 17:04:35.617)]  Waiting for merge....51
+[log (2017-03-22 17:04:36.637)]  Waiting for merge....50
+[log (2017-03-22 17:04:37.658)]  Waiting for merge....49
+[log (2017-03-22 17:04:38.677)]  Waiting for merge....48
+[log (2017-03-22 17:04:39.696)]  Waiting for merge....47
+[log (2017-03-22 17:04:40.714)]  Waiting for merge....46
+[log (2017-03-22 17:04:41.734)]  Waiting for merge....45
+[log (2017-03-22 17:04:42.754)]  Waiting for merge....44
+[log (2017-03-22 17:04:43.776)]  Waiting for merge....43
+[log (2017-03-22 17:04:44.796)]  Waiting for merge....42
+[log (2017-03-22 17:04:45.813)]  Waiting for merge....41
+[log (2017-03-22 17:04:46.838)]  Waiting for merge....40
+[log (2017-03-22 17:04:47.859)]  Waiting for merge....39
+[log (2017-03-22 17:04:48.877)]  Waiting for merge....38
+[log (2017-03-22 17:04:49.899)]  Waiting for merge....37
+[log (2017-03-22 17:04:50.917)]  Waiting for merge....36
+[log (2017-03-22 17:04:51.937)]  Waiting for merge....35
+[log (2017-03-22 17:04:52.957)]  Waiting for merge....34
+[log (2017-03-22 17:04:53.976)]  Waiting for merge....33
+[log (2017-03-22 17:04:54.996)]  Waiting for merge....32
+[log (2017-03-22 17:04:56.015)]  Waiting for merge....31
+[log (2017-03-22 17:04:57.034)]  Waiting for merge....30
+[log (2017-03-22 17:04:58.053)]  Waiting for merge....29
+[log (2017-03-22 17:04:59.074)]  Waiting for merge....28
+[log (2017-03-22 17:05:00.094)]  Waiting for merge....27
+[log (2017-03-22 17:05:01.112)]  Waiting for merge....26
+[log (2017-03-22 17:05:02.133)]  Waiting for merge....25
+[log (2017-03-22 17:05:03.152)]  Waiting for merge....24
+[log (2017-03-22 17:05:04.172)]  Waiting for merge....23
+[log (2017-03-22 17:05:05.190)]  Waiting for merge....22
+[log (2017-03-22 17:05:06.209)]  Waiting for merge....21
+[log (2017-03-22 17:05:07.229)]  Waiting for merge....20
+[log (2017-03-22 17:05:08.248)]  Waiting for merge....19
+[log (2017-03-22 17:05:09.267)]  Waiting for merge....18
+[log (2017-03-22 17:05:10.286)]  Waiting for merge....17
+[log (2017-03-22 17:05:11.314)]  Waiting for merge....16
+[log (2017-03-22 17:05:12.334)]  Waiting for merge....15
+[log (2017-03-22 17:05:13.354)]  Waiting for merge....14
+[log (2017-03-22 17:05:14.374)]  Waiting for merge....13
+[log (2017-03-22 17:05:15.394)]  Waiting for merge....12
+[log (2017-03-22 17:05:16.413)]  Waiting for merge....11
+[log (2017-03-22 17:05:17.433)]  Waiting for merge....10
+[log (2017-03-22 17:05:18.450)]  Waiting for merge....9
+[log (2017-03-22 17:05:19.468)]  Waiting for merge....8
+[log (2017-03-22 17:05:20.488)]  Waiting for merge....7
+[log (2017-03-22 17:05:21.507)]  Waiting for merge....6
+[log (2017-03-22 17:05:22.527)]  Waiting for merge....5
+[log (2017-03-22 17:05:23.545)]  Waiting for merge....4
+[log (2017-03-22 17:05:24.565)]  Waiting for merge....3
+[log (2017-03-22 17:05:25.584)]  Waiting for merge....2
+[log (2017-03-22 17:05:26.612)]  Waiting for merge....1
+[log (2017-03-22 17:05:27.648)]  Order not merged
+[log (2017-03-22 17:05:27.676)]  Logging into the application
+[log (2017-03-22 17:05:27.678)]  Attempting to log into the application.

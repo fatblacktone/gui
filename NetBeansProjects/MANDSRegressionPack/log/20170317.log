@@ -1,0 +1,1219 @@
+[log (2017-03-17 08:15:41.848)]  Attempting to interface an Order
+[log (2017-03-17 08:15:41.848)]  inserting order header
+[log (2017-03-17 08:15:43.330)]  inserting order line
+[log (2017-03-17 08:15:43.502)]  Waiting for merge....A000000222
+[log (2017-03-17 08:15:43.502)]  Waiting for merge....60
+[log (2017-03-17 08:15:44.547)]  Waiting for merge....59
+[log (2017-03-17 08:15:45.576)]  Waiting for merge....58
+[log (2017-03-17 08:15:46.605)]  Waiting for merge....57
+[log (2017-03-17 08:15:47.635)]  Waiting for merge....56
+[log (2017-03-17 08:15:48.664)]  Waiting for merge....55
+[log (2017-03-17 08:15:49.694)]  Waiting for merge....54
+[log (2017-03-17 08:15:50.724)]  Waiting for merge....53
+[log (2017-03-17 08:15:51.753)]  Waiting for merge....52
+[log (2017-03-17 08:15:52.782)]  Waiting for merge....51
+[log (2017-03-17 08:15:53.812)]  Waiting for merge....50
+[log (2017-03-17 08:15:54.841)]  Waiting for merge....49
+[log (2017-03-17 08:15:55.886)]  Order A000000222 merged
+[log (2017-03-17 08:15:56.089)]  Logging into the application
+[log (2017-03-17 08:15:56.089)]  Attempting to log into the application.
+[log (2017-03-17 08:16:05.099)]  Login successful
+[log (2017-03-17 08:16:05.114)]  Running Order Grouping
+[log (2017-03-17 08:16:34.742)]  Checking orders have been grouped
+[log (2017-03-17 08:16:34.774)]  Orders have grouped A000000222
+[log (2017-03-17 08:16:34.976)]  Attempting Allocation A000000222
+[log (2017-03-17 08:16:35.008)]  Allocate flag set
+[log (2017-03-17 08:16:36.021)]  Waiting for allocation....70
+[log (2017-03-17 08:16:36.053)]  Allocation succesful
+[log (2017-03-17 08:16:36.255)]  Releasing move tasks. A000000222
+[log (2017-03-17 08:16:36.302)]  Waiting for clusting.....60
+[log (2017-03-17 08:16:37.323)]  Waiting for clusting.....59
+[log (2017-03-17 08:16:38.354)]  Waiting for clusting.....58
+[log (2017-03-17 08:16:39.383)]  Waiting for clusting.....57
+[log (2017-03-17 08:16:40.413)]  Waiting for clusting.....56
+[log (2017-03-17 08:16:41.442)]  Waiting for clusting.....55
+[log (2017-03-17 08:16:42.472)]  Waiting for clusting.....54
+[log (2017-03-17 08:16:43.501)]  Waiting for clusting.....53
+[log (2017-03-17 08:16:44.530)]  Waiting for clusting.....52
+[log (2017-03-17 08:16:45.591)]  Waiting for clusting.....51
+[log (2017-03-17 08:16:46.621)]  Waiting for clusting.....50
+[log (2017-03-17 08:16:47.650)]  Waiting for clusting.....49
+[log (2017-03-17 08:16:48.679)]  Waiting for clusting.....48
+[log (2017-03-17 08:16:49.710)]  Waiting for clusting.....47
+[log (2017-03-17 08:16:50.740)]  Waiting for clusting.....46
+[log (2017-03-17 08:16:51.769)]  Waiting for clusting.....45
+[log (2017-03-17 08:16:52.799)]  Waiting for clusting.....44
+[log (2017-03-17 08:16:53.828)]  Waiting for clusting.....43
+[log (2017-03-17 08:17:11.806)]  Move tasks released
+[log (2017-03-17 08:17:11.993)]  Logging in to RDT
+[log (2017-03-17 08:17:11.993)]  Trying to log into the RDT 
+[log (2017-03-17 08:17:17.887)]  Navigating to containerPicking
+[log (2017-03-17 08:17:17.887)]  Navigating to Container Picking
+[log (2017-03-17 08:17:18.744)]  Picking order
+[log (2017-03-17 08:17:31.222)]  Order picked
+[log (2017-03-17 08:17:36.307)]  Logged out of RDT
+[log (2017-03-17 08:24:11.612)]  Attempting to interface an Order
+[log (2017-03-17 08:24:11.612)]  inserting order header
+[log (2017-03-17 08:24:13.032)]  inserting order line
+[log (2017-03-17 08:24:13.188)]  Waiting for merge....A000000223
+[log (2017-03-17 08:24:13.188)]  Waiting for merge....60
+[log (2017-03-17 08:24:14.233)]  Waiting for merge....59
+[log (2017-03-17 08:24:15.278)]  Waiting for merge....58
+[log (2017-03-17 08:24:16.307)]  Waiting for merge....57
+[log (2017-03-17 08:24:17.337)]  Waiting for merge....56
+[log (2017-03-17 08:24:18.367)]  Waiting for merge....55
+[log (2017-03-17 08:24:19.396)]  Waiting for merge....54
+[log (2017-03-17 08:24:20.425)]  Waiting for merge....53
+[log (2017-03-17 08:24:21.441)]  Waiting for merge....52
+[log (2017-03-17 08:24:22.470)]  Waiting for merge....51
+[log (2017-03-17 08:24:23.516)]  Waiting for merge....50
+[log (2017-03-17 08:24:24.608)]  Waiting for merge....49
+[log (2017-03-17 08:24:25.918)]  Waiting for merge....48
+[log (2017-03-17 08:24:27.088)]  Waiting for merge....47
+[log (2017-03-17 08:24:28.117)]  Waiting for merge....46
+[log (2017-03-17 08:24:29.147)]  Waiting for merge....45
+[log (2017-03-17 08:24:30.176)]  Waiting for merge....44
+[log (2017-03-17 08:24:31.206)]  Waiting for merge....43
+[log (2017-03-17 08:24:32.236)]  Waiting for merge....42
+[log (2017-03-17 08:24:33.265)]  Waiting for merge....41
+[log (2017-03-17 08:24:34.295)]  Waiting for merge....40
+[log (2017-03-17 08:24:35.324)]  Waiting for merge....39
+[log (2017-03-17 08:24:36.354)]  Waiting for merge....38
+[log (2017-03-17 08:24:37.384)]  Waiting for merge....37
+[log (2017-03-17 08:24:38.407)]  Waiting for merge....36
+[log (2017-03-17 08:24:39.437)]  Waiting for merge....35
+[log (2017-03-17 08:24:40.467)]  Waiting for merge....34
+[log (2017-03-17 08:24:41.496)]  Waiting for merge....33
+[log (2017-03-17 08:24:42.526)]  Waiting for merge....32
+[log (2017-03-17 08:24:43.556)]  Waiting for merge....31
+[log (2017-03-17 08:24:44.578)]  Waiting for merge....30
+[log (2017-03-17 08:24:45.607)]  Waiting for merge....29
+[log (2017-03-17 08:24:46.637)]  Waiting for merge....28
+[log (2017-03-17 08:24:47.666)]  Waiting for merge....27
+[log (2017-03-17 08:24:48.696)]  Waiting for merge....26
+[log (2017-03-17 08:24:49.726)]  Waiting for merge....25
+[log (2017-03-17 08:24:50.755)]  Waiting for merge....24
+[log (2017-03-17 08:24:51.785)]  Waiting for merge....23
+[log (2017-03-17 08:24:52.804)]  Waiting for merge....22
+[log (2017-03-17 08:24:53.833)]  Waiting for merge....21
+[log (2017-03-17 08:24:54.863)]  Waiting for merge....20
+[log (2017-03-17 08:24:55.892)]  Waiting for merge....19
+[log (2017-03-17 08:24:56.937)]  Order A000000223 merged
+[log (2017-03-17 08:24:57.156)]  Logging into the application
+[log (2017-03-17 08:24:57.156)]  Attempting to log into the application.
+[log (2017-03-17 08:25:06.108)]  Login successful
+[log (2017-03-17 08:25:06.124)]  Running Order Grouping
+[log (2017-03-17 08:25:49.283)]  Checking orders have been grouped
+[log (2017-03-17 08:25:49.314)]  Orders have grouped A000000223
+[log (2017-03-17 08:25:49.610)]  Attempting Allocation A000000223
+[log (2017-03-17 08:25:49.657)]  Allocate flag set
+[log (2017-03-17 08:25:50.644)]  Waiting for allocation....70
+[log (2017-03-17 08:25:51.673)]  Waiting for allocation....69
+[log (2017-03-17 08:25:52.689)]  Waiting for allocation....68
+[log (2017-03-17 08:25:53.743)]  Waiting for allocation....67
+[log (2017-03-17 08:25:54.768)]  Waiting for allocation....66
+[log (2017-03-17 08:25:55.784)]  Waiting for allocation....65
+[log (2017-03-17 08:25:56.801)]  Waiting for allocation....64
+[log (2017-03-17 08:25:57.817)]  Waiting for allocation....63
+[log (2017-03-17 08:25:58.847)]  Waiting for allocation....62
+[log (2017-03-17 08:25:59.877)]  Waiting for allocation....61
+[log (2017-03-17 08:26:00.893)]  Waiting for allocation....60
+[log (2017-03-17 08:26:01.911)]  Waiting for allocation....59
+[log (2017-03-17 08:26:02.941)]  Waiting for allocation....58
+[log (2017-03-17 08:26:03.971)]  Waiting for allocation....57
+[log (2017-03-17 08:26:04.987)]  Waiting for allocation....56
+[log (2017-03-17 08:26:06.005)]  Waiting for allocation....55
+[log (2017-03-17 08:26:07.035)]  Waiting for allocation....54
+[log (2017-03-17 08:26:08.066)]  Waiting for allocation....53
+[log (2017-03-17 08:26:09.084)]  Waiting for allocation....52
+[log (2017-03-17 08:26:10.115)]  Waiting for allocation....51
+[log (2017-03-17 08:26:11.145)]  Waiting for allocation....50
+[log (2017-03-17 08:26:12.162)]  Waiting for allocation....49
+[log (2017-03-17 08:26:13.190)]  Waiting for allocation....48
+[log (2017-03-17 08:26:14.211)]  Waiting for allocation....47
+[log (2017-03-17 08:26:15.238)]  Waiting for allocation....46
+[log (2017-03-17 08:26:16.255)]  Waiting for allocation....45
+[log (2017-03-17 08:26:17.273)]  Waiting for allocation....44
+[log (2017-03-17 08:26:18.303)]  Waiting for allocation....43
+[log (2017-03-17 08:26:19.332)]  Waiting for allocation....42
+[log (2017-03-17 08:26:20.363)]  Waiting for allocation....41
+[log (2017-03-17 08:26:21.380)]  Waiting for allocation....40
+[log (2017-03-17 08:26:22.410)]  Waiting for allocation....39
+[log (2017-03-17 08:26:23.441)]  Waiting for allocation....38
+[log (2017-03-17 08:26:24.472)]  Waiting for allocation....37
+[log (2017-03-17 08:26:25.489)]  Waiting for allocation....36
+[log (2017-03-17 08:26:26.509)]  Waiting for allocation....35
+[log (2017-03-17 08:26:27.536)]  Waiting for allocation....34
+[log (2017-03-17 08:26:28.567)]  Waiting for allocation....33
+[log (2017-03-17 08:26:29.583)]  Waiting for allocation....32
+[log (2017-03-17 08:26:30.613)]  Waiting for allocation....31
+[log (2017-03-17 08:26:31.630)]  Waiting for allocation....30
+[log (2017-03-17 08:26:32.647)]  Waiting for allocation....29
+[log (2017-03-17 08:26:33.678)]  Waiting for allocation....28
+[log (2017-03-17 08:26:34.708)]  Waiting for allocation....27
+[log (2017-03-17 08:26:35.725)]  Waiting for allocation....26
+[log (2017-03-17 08:26:36.742)]  Waiting for allocation....25
+[log (2017-03-17 08:26:37.771)]  Waiting for allocation....24
+[log (2017-03-17 08:26:38.788)]  Waiting for allocation....23
+[log (2017-03-17 08:26:39.804)]  Waiting for allocation....22
+[log (2017-03-17 08:26:40.821)]  Waiting for allocation....21
+[log (2017-03-17 08:26:41.848)]  Waiting for allocation....20
+[log (2017-03-17 08:26:42.864)]  Waiting for allocation....19
+[log (2017-03-17 08:26:43.881)]  Waiting for allocation....18
+[log (2017-03-17 08:26:44.882)]  Waiting for allocation....17
+[log (2017-03-17 08:26:45.914)]  Waiting for allocation....16
+[log (2017-03-17 08:26:46.924)]  Waiting for allocation....15
+[log (2017-03-17 08:26:47.978)]  Waiting for allocation....14
+[log (2017-03-17 08:26:49.007)]  Waiting for allocation....13
+[log (2017-03-17 08:26:50.023)]  Waiting for allocation....12
+[log (2017-03-17 08:26:51.069)]  Waiting for allocation....11
+[log (2017-03-17 08:26:52.087)]  Waiting for allocation....10
+[log (2017-03-17 08:26:53.117)]  Waiting for allocation....9
+[log (2017-03-17 08:26:54.147)]  Waiting for allocation....8
+[log (2017-03-17 08:26:55.177)]  Waiting for allocation....7
+[log (2017-03-17 08:26:56.204)]  Waiting for allocation....6
+[log (2017-03-17 08:26:57.226)]  Waiting for allocation....5
+[log (2017-03-17 08:26:58.261)]  Waiting for allocation....4
+[log (2017-03-17 08:26:59.288)]  Waiting for allocation....3
+[log (2017-03-17 08:27:00.319)]  Waiting for allocation....2
+[log (2017-03-17 08:27:01.351)]  Waiting for allocation....1
+[log (2017-03-17 08:27:01.585)]  Releasing move tasks. A000000223
+[log (2017-03-17 08:27:01.616)]  Waiting for clusting.....60
+[log (2017-03-17 08:27:02.633)]  Waiting for clusting.....59
+[log (2017-03-17 08:27:03.662)]  Waiting for clusting.....58
+[log (2017-03-17 08:27:04.695)]  Waiting for clusting.....57
+[log (2017-03-17 08:27:05.726)]  Waiting for clusting.....56
+[log (2017-03-17 08:27:06.755)]  Waiting for clusting.....55
+[log (2017-03-17 08:27:07.772)]  Waiting for clusting.....54
+[log (2017-03-17 08:27:08.802)]  Waiting for clusting.....53
+[log (2017-03-17 08:27:09.833)]  Waiting for clusting.....52
+[log (2017-03-17 08:40:12.042)]  Attempting to interface an Order
+[log (2017-03-17 08:40:12.042)]  inserting order header
+[log (2017-03-17 08:40:13.493)]  inserting order line
+[log (2017-03-17 08:40:13.695)]  inserting order line
+[log (2017-03-17 08:40:13.867)]  Waiting for merge....A000000224
+[log (2017-03-17 08:40:13.867)]  Waiting for merge....60
+[log (2017-03-17 08:40:14.912)]  Waiting for merge....59
+[log (2017-03-17 08:40:15.929)]  Waiting for merge....58
+[log (2017-03-17 08:40:16.958)]  Waiting for merge....57
+[log (2017-03-17 08:40:17.988)]  Waiting for merge....56
+[log (2017-03-17 08:40:19.017)]  Waiting for merge....55
+[log (2017-03-17 08:40:20.047)]  Waiting for merge....54
+[log (2017-03-17 08:40:21.077)]  Waiting for merge....53
+[log (2017-03-17 08:40:22.106)]  Waiting for merge....52
+[log (2017-03-17 08:40:23.136)]  Waiting for merge....51
+[log (2017-03-17 08:40:24.165)]  Waiting for merge....50
+[log (2017-03-17 08:40:25.195)]  Waiting for merge....49
+[log (2017-03-17 08:40:26.225)]  Waiting for merge....48
+[log (2017-03-17 08:40:27.254)]  Waiting for merge....47
+[log (2017-03-17 08:40:28.271)]  Waiting for merge....46
+[log (2017-03-17 08:40:29.300)]  Waiting for merge....45
+[log (2017-03-17 08:40:30.330)]  Waiting for merge....44
+[log (2017-03-17 08:40:31.359)]  Waiting for merge....43
+[log (2017-03-17 08:40:32.389)]  Waiting for merge....42
+[log (2017-03-17 08:40:33.419)]  Waiting for merge....41
+[log (2017-03-17 08:40:34.442)]  Waiting for merge....40
+[log (2017-03-17 08:40:35.473)]  Waiting for merge....39
+[log (2017-03-17 08:40:36.502)]  Waiting for merge....38
+[log (2017-03-17 08:40:37.532)]  Waiting for merge....37
+[log (2017-03-17 08:40:38.561)]  Waiting for merge....36
+[log (2017-03-17 08:40:39.591)]  Waiting for merge....35
+[log (2017-03-17 08:40:40.621)]  Waiting for merge....34
+[log (2017-03-17 08:40:41.650)]  Waiting for merge....33
+[log (2017-03-17 08:40:42.666)]  Waiting for merge....32
+[log (2017-03-17 08:40:43.696)]  Waiting for merge....31
+[log (2017-03-17 08:40:44.725)]  Waiting for merge....30
+[log (2017-03-17 08:40:45.753)]  Waiting for merge....29
+[log (2017-03-17 08:40:46.783)]  Waiting for merge....28
+[log (2017-03-17 08:40:47.813)]  Waiting for merge....27
+[log (2017-03-17 08:40:48.842)]  Waiting for merge....26
+[log (2017-03-17 08:40:49.872)]  Waiting for merge....25
+[log (2017-03-17 08:40:50.901)]  Waiting for merge....24
+[log (2017-03-17 08:40:51.931)]  Waiting for merge....23
+[log (2017-03-17 08:40:52.961)]  Waiting for merge....22
+[log (2017-03-17 08:40:53.990)]  Waiting for merge....21
+[log (2017-03-17 08:40:55.010)]  Waiting for merge....20
+[log (2017-03-17 08:40:56.036)]  Waiting for merge....19
+[log (2017-03-17 08:40:57.066)]  Waiting for merge....18
+[log (2017-03-17 08:40:58.095)]  Waiting for merge....17
+[log (2017-03-17 08:40:59.141)]  Order A000000224 merged
+[log (2017-03-17 08:40:59.359)]  Logging into the application
+[log (2017-03-17 08:40:59.359)]  Attempting to log into the application.
+[log (2017-03-17 08:41:08.375)]  Login successful
+[log (2017-03-17 08:41:08.375)]  Running Order Grouping
+[log (2017-03-17 08:41:38.000)]  Checking orders have been grouped
+[log (2017-03-17 08:41:38.032)]  Orders have grouped A000000224
+[log (2017-03-17 08:41:38.234)]  Attempting Allocation A000000224
+[log (2017-03-17 08:41:38.251)]  Allocate flag set
+[log (2017-03-17 08:41:39.266)]  Waiting for allocation....70
+[log (2017-03-17 08:41:40.272)]  Waiting for allocation....69
+[log (2017-03-17 08:41:41.344)]  Waiting for allocation....68
+[log (2017-03-17 08:41:42.375)]  Waiting for allocation....67
+[log (2017-03-17 08:41:43.421)]  Waiting for allocation....66
+[log (2017-03-17 08:41:43.484)]  Allocation succesful
+[log (2017-03-17 08:41:43.718)]  Releasing move tasks. A000000224
+[log (2017-03-17 08:41:43.765)]  Waiting for clusting.....60
+[log (2017-03-17 08:41:44.795)]  Waiting for clusting.....59
+[log (2017-03-17 08:41:45.813)]  Waiting for clusting.....58
+[log (2017-03-17 08:41:46.830)]  Waiting for clusting.....57
+[log (2017-03-17 08:41:47.846)]  Waiting for clusting.....56
+[log (2017-03-17 08:41:48.874)]  Waiting for clusting.....55
+[log (2017-03-17 08:41:49.904)]  Waiting for clusting.....54
+[log (2017-03-17 08:41:50.920)]  Waiting for clusting.....53
+[log (2017-03-17 08:41:51.951)]  Waiting for clusting.....52
+[log (2017-03-17 08:42:09.693)]  Move tasks released
+[log (2017-03-17 08:42:09.911)]  Logging in to RDT
+[log (2017-03-17 08:42:09.911)]  Trying to log into the RDT 
+[log (2017-03-17 08:42:15.751)]  Navigating to containerPicking
+[log (2017-03-17 08:42:15.751)]  Navigating to Container Picking
+[log (2017-03-17 08:42:16.605)]  Picking order
+[log (2017-03-17 08:42:30.389)]  Failed to find image: FindFailed: can not find images/rdt/pckSubConTro.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-17 09:17:28.882)]  Attempting to interface an Order
+[log (2017-03-17 09:17:28.898)]  inserting order header
+[log (2017-03-17 09:17:29.350)]  inserting order header
+[log (2017-03-17 09:17:29.537)]  inserting order header
+[log (2017-03-17 09:17:29.725)]  inserting order header
+[log (2017-03-17 09:17:29.912)]  inserting order header
+[log (2017-03-17 09:17:31.113)]  inserting order line
+[log (2017-03-17 09:17:31.675)]  inserting order line
+[log (2017-03-17 09:17:31.846)]  inserting order line
+[log (2017-03-17 09:17:32.065)]  inserting order line
+[log (2017-03-17 09:17:32.252)]  inserting order line
+[log (2017-03-17 09:17:32.423)]  inserting order line
+[log (2017-03-17 09:17:32.595)]  Waiting for merge....A000000225
+[log (2017-03-17 09:17:32.595)]  Waiting for merge....60
+[log (2017-03-17 09:17:33.656)]  Waiting for merge....59
+[log (2017-03-17 09:17:34.685)]  Waiting for merge....58
+[log (2017-03-17 09:17:35.715)]  Waiting for merge....57
+[log (2017-03-17 09:17:36.745)]  Waiting for merge....56
+[log (2017-03-17 09:17:37.774)]  Waiting for merge....55
+[log (2017-03-17 09:17:38.804)]  Waiting for merge....54
+[log (2017-03-17 09:17:39.834)]  Waiting for merge....53
+[log (2017-03-17 09:17:40.863)]  Waiting for merge....52
+[log (2017-03-17 09:17:41.893)]  Waiting for merge....51
+[log (2017-03-17 09:17:42.922)]  Waiting for merge....50
+[log (2017-03-17 09:17:43.952)]  Waiting for merge....49
+[log (2017-03-17 09:17:44.982)]  Waiting for merge....48
+[log (2017-03-17 09:17:46.042)]  Waiting for merge....47
+[log (2017-03-17 09:17:47.072)]  Waiting for merge....46
+[log (2017-03-17 09:17:48.102)]  Waiting for merge....45
+[log (2017-03-17 09:17:49.131)]  Waiting for merge....44
+[log (2017-03-17 09:17:50.161)]  Waiting for merge....43
+[log (2017-03-17 09:17:51.190)]  Waiting for merge....42
+[log (2017-03-17 09:17:52.220)]  Waiting for merge....41
+[log (2017-03-17 09:17:53.250)]  Waiting for merge....40
+[log (2017-03-17 09:17:54.279)]  Waiting for merge....39
+[log (2017-03-17 09:17:55.309)]  Waiting for merge....38
+[log (2017-03-17 09:17:56.338)]  Waiting for merge....37
+[log (2017-03-17 09:17:57.354)]  Waiting for merge....36
+[log (2017-03-17 09:17:58.384)]  Waiting for merge....35
+[log (2017-03-17 09:17:59.414)]  Waiting for merge....34
+[log (2017-03-17 09:18:00.443)]  Waiting for merge....33
+[log (2017-03-17 09:18:01.473)]  Waiting for merge....32
+[log (2017-03-17 09:18:02.518)]  Order A000000225 merged
+[log (2017-03-17 09:18:02.518)]  Waiting for merge....A000000226
+[log (2017-03-17 09:18:02.518)]  Waiting for merge....60
+[log (2017-03-17 09:18:03.579)]  Order A000000226 merged
+[log (2017-03-17 09:18:03.579)]  Waiting for merge....A000000227
+[log (2017-03-17 09:18:03.579)]  Waiting for merge....60
+[log (2017-03-17 09:18:04.640)]  Order A000000227 merged
+[log (2017-03-17 09:18:04.640)]  Waiting for merge....A000000228
+[log (2017-03-17 09:18:04.640)]  Waiting for merge....60
+[log (2017-03-17 09:18:05.700)]  Order A000000228 merged
+[log (2017-03-17 09:18:05.700)]  Waiting for merge....A000000229
+[log (2017-03-17 09:18:05.700)]  Waiting for merge....60
+[log (2017-03-17 09:18:06.761)]  Order A000000229 merged
+[log (2017-03-17 09:18:06.949)]  Logging into the application
+[log (2017-03-17 09:18:06.949)]  Attempting to log into the application.
+[log (2017-03-17 09:18:15.942)]  Login successful
+[log (2017-03-17 09:18:15.942)]  Running Order Grouping
+[log (2017-03-17 09:18:46.491)]  Checking orders have been grouped
+[log (2017-03-17 09:18:46.522)]  Orders have grouped A000000225
+[log (2017-03-17 09:18:46.569)]  Orders have grouped A000000226
+[log (2017-03-17 09:18:46.600)]  Orders have grouped A000000227
+[log (2017-03-17 09:18:46.632)]  Orders have grouped A000000228
+[log (2017-03-17 09:18:46.663)]  Orders have grouped A000000229
+[log (2017-03-17 09:18:46.912)]  Attempting Allocation A000000225
+[log (2017-03-17 09:18:46.959)]  Allocate flag set
+[log (2017-03-17 09:18:47.973)]  Waiting for allocation....70
+[log (2017-03-17 09:18:49.034)]  Waiting for allocation....69
+[log (2017-03-17 09:18:50.079)]  Waiting for allocation....68
+[log (2017-03-17 09:18:51.124)]  Waiting for allocation....67
+[log (2017-03-17 09:18:52.170)]  Waiting for allocation....66
+[log (2017-03-17 09:18:53.215)]  Waiting for allocation....65
+[log (2017-03-17 09:18:54.260)]  Waiting for allocation....64
+[log (2017-03-17 09:18:55.305)]  Waiting for allocation....63
+[log (2017-03-17 09:18:56.351)]  Waiting for allocation....62
+[log (2017-03-17 09:18:57.396)]  Waiting for allocation....61
+[log (2017-03-17 09:18:58.427)]  Waiting for allocation....60
+[log (2017-03-17 09:18:59.473)]  Waiting for allocation....59
+[log (2017-03-17 09:19:00.518)]  Waiting for allocation....58
+[log (2017-03-17 09:19:01.563)]  Waiting for allocation....57
+[log (2017-03-17 09:19:02.608)]  Waiting for allocation....56
+[log (2017-03-17 09:19:03.653)]  Waiting for allocation....55
+[log (2017-03-17 09:19:04.699)]  Waiting for allocation....54
+[log (2017-03-17 09:19:05.744)]  Waiting for allocation....53
+[log (2017-03-17 09:19:06.789)]  Waiting for allocation....52
+[log (2017-03-17 09:19:07.834)]  Waiting for allocation....51
+[log (2017-03-17 09:19:07.850)]  Allocation succesful
+[log (2017-03-17 09:19:07.850)]  Attempting Allocation A000000225
+[log (2017-03-17 09:19:07.865)]  Allocate flag set
+[log (2017-03-17 09:19:08.879)]  Waiting for allocation....70
+[log (2017-03-17 09:19:08.895)]  Allocation succesful
+[log (2017-03-17 09:19:08.895)]  Attempting Allocation A000000226
+[log (2017-03-17 09:19:08.911)]  Allocate flag set
+[log (2017-03-17 09:19:09.940)]  Waiting for allocation....70
+[log (2017-03-17 09:19:09.956)]  Allocation succesful
+[log (2017-03-17 09:19:09.956)]  Attempting Allocation A000000227
+[log (2017-03-17 09:19:09.987)]  Allocate flag set
+[log (2017-03-17 09:19:11.001)]  Waiting for allocation....70
+[log (2017-03-17 09:19:11.017)]  Allocation succesful
+[log (2017-03-17 09:19:11.017)]  Attempting Allocation A000000228
+[log (2017-03-17 09:19:11.048)]  Allocate flag set
+[log (2017-03-17 09:19:12.062)]  Waiting for allocation....70
+[log (2017-03-17 09:19:12.077)]  Allocation succesful
+[log (2017-03-17 09:19:12.280)]  Releasing move tasks. A000000225
+[log (2017-03-17 09:19:12.311)]  Waiting for clusting.....60
+[log (2017-03-17 09:19:13.341)]  Waiting for clusting.....59
+[log (2017-03-17 09:19:14.371)]  Waiting for clusting.....58
+[log (2017-03-17 09:19:15.400)]  Waiting for clusting.....57
+[log (2017-03-17 09:19:16.430)]  Waiting for clusting.....56
+[log (2017-03-17 09:19:17.459)]  Waiting for clusting.....55
+[log (2017-03-17 09:19:18.489)]  Waiting for clusting.....54
+[log (2017-03-17 09:19:19.534)]  Waiting for clusting.....53
+[log (2017-03-17 09:19:20.564)]  Waiting for clusting.....52
+[log (2017-03-17 09:19:21.593)]  Waiting for clusting.....51
+[log (2017-03-17 09:19:22.623)]  Waiting for clusting.....50
+[log (2017-03-17 09:19:23.653)]  Waiting for clusting.....49
+[log (2017-03-17 09:19:24.682)]  Waiting for clusting.....48
+[log (2017-03-17 09:19:25.712)]  Waiting for clusting.....47
+[log (2017-03-17 09:19:26.742)]  Waiting for clusting.....46
+[log (2017-03-17 09:19:27.771)]  Waiting for clusting.....45
+[log (2017-03-17 09:19:28.788)]  Waiting for clusting.....44
+[log (2017-03-17 09:19:29.818)]  Waiting for clusting.....43
+[log (2017-03-17 09:19:30.847)]  Waiting for clusting.....42
+[log (2017-03-17 09:19:31.877)]  Waiting for clusting.....41
+[log (2017-03-17 09:19:32.907)]  Waiting for clusting.....40
+[log (2017-03-17 09:19:33.936)]  Waiting for clusting.....39
+[log (2017-03-17 09:19:34.966)]  Waiting for clusting.....38
+[log (2017-03-17 09:19:35.995)]  Waiting for clusting.....37
+[log (2017-03-17 09:19:37.025)]  Waiting for clusting.....36
+[log (2017-03-17 09:19:38.055)]  Waiting for clusting.....35
+[log (2017-03-17 09:19:39.084)]  Waiting for clusting.....34
+[log (2017-03-17 09:19:40.114)]  Waiting for clusting.....33
+[log (2017-03-17 09:19:41.143)]  Waiting for clusting.....32
+[log (2017-03-17 09:19:42.173)]  Waiting for clusting.....31
+[log (2017-03-17 09:19:43.203)]  Waiting for clusting.....30
+[log (2017-03-17 09:19:44.232)]  Waiting for clusting.....29
+[log (2017-03-17 09:19:45.262)]  Waiting for clusting.....28
+[log (2017-03-17 09:19:46.291)]  Waiting for clusting.....27
+[log (2017-03-17 09:19:47.321)]  Waiting for clusting.....26
+[log (2017-03-17 09:19:48.351)]  Waiting for clusting.....25
+[log (2017-03-17 09:19:49.380)]  Waiting for clusting.....24
+[log (2017-03-17 09:19:50.410)]  Waiting for clusting.....23
+[log (2017-03-17 09:19:51.439)]  Waiting for clusting.....22
+[log (2017-03-17 09:20:09.047)]  Move tasks released
+[log (2017-03-17 09:20:09.047)]  Releasing move tasks. A000000226
+[log (2017-03-17 09:20:23.466)]  Move tasks released
+[log (2017-03-17 09:20:23.466)]  Releasing move tasks. A000000227
+[log (2017-03-17 09:20:37.703)]  Move tasks released
+[log (2017-03-17 09:20:37.703)]  Releasing move tasks. A000000228
+[log (2017-03-17 09:20:51.904)]  Move tasks released
+[log (2017-03-17 09:20:51.904)]  Releasing move tasks. A000000229
+[log (2017-03-17 09:21:07.263)]  Logging in to RDT
+[log (2017-03-17 09:21:07.263)]  Trying to log into the RDT 
+[log (2017-03-17 09:21:13.030)]  Navigating to containerPicking
+[log (2017-03-17 09:21:13.030)]  Navigating to Container Picking
+[log (2017-03-17 09:21:13.887)]  Picking order
+[log (2017-03-17 09:21:27.389)]  Failed to find image: FindFailed: can not find images/rdt/pckSubConTro.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-17 09:44:13.569)]  Logging in to RDT
+[log (2017-03-17 09:44:13.569)]  Trying to log into the RDT 
+[log (2017-03-17 09:44:19.931)]  Navigating to Marshal
+[log (2017-03-17 09:48:23.389)]  Logging in to RDT
+[log (2017-03-17 09:48:23.405)]  Trying to log into the RDT 
+[log (2017-03-17 09:48:29.446)]  Navigating to Marshal
+[log (2017-03-17 09:50:54.326)]  Logging in to RDT
+[log (2017-03-17 09:50:54.342)]  Trying to log into the RDT 
+[log (2017-03-17 09:51:01.686)]  Navigating to Marshal
+[log (2017-03-17 09:56:36.341)]  Logging in to RDT
+[log (2017-03-17 09:56:36.341)]  Trying to log into the RDT 
+[log (2017-03-17 09:56:42.330)]  Navigating to Marshal
+[log (2017-03-17 09:57:08.542)]  Logging in to RDT
+[log (2017-03-17 09:57:08.542)]  Trying to log into the RDT 
+[log (2017-03-17 09:58:47.172)]  Logging in to RDT
+[log (2017-03-17 09:58:47.172)]  Trying to log into the RDT 
+[log (2017-03-17 09:58:53.307)]  Navigating to Marshal
+[log (2017-03-17 10:02:14.807)]  Logging in to RDT
+[log (2017-03-17 10:02:14.822)]  Trying to log into the RDT 
+[log (2017-03-17 10:02:20.985)]  Navigating to Marshal
+[log (2017-03-17 10:16:48.482)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:16:48.498)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:16:48.498)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:16:48.498)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:16:48.498)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:16:48.498)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:16:48.498)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:16:48.498)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:16:50.854)]  Logging in to RDT
+[log (2017-03-17 10:16:50.854)]  Trying to log into the RDT 
+[log (2017-03-17 10:16:56.853)]  Navigating to Marshal
+[log (2017-03-17 10:16:58.493)]  Reading line from file: 8001350201414
+[log (2017-03-17 10:16:58.493)]  Reading line from file: 8001490201936
+[log (2017-03-17 10:18:52.387)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:18:52.387)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:18:52.403)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:18:52.403)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:18:52.403)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:18:52.403)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:18:52.403)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:18:52.403)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:18:54.789)]  Logging in to RDT
+[log (2017-03-17 10:18:54.789)]  Trying to log into the RDT 
+[log (2017-03-17 10:19:00.870)]  Navigating to Marshal
+[log (2017-03-17 10:19:02.604)]  Reading line from file: 8001490201936
+[log (2017-03-17 10:27:10.855)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:27:10.855)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:27:10.855)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:27:10.855)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:27:10.855)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:27:10.855)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:27:10.871)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:27:10.871)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:27:13.227)]  Logging in to RDT
+[log (2017-03-17 10:27:13.227)]  Trying to log into the RDT 
+[log (2017-03-17 10:27:19.261)]  Navigating to Marshal
+[log (2017-03-17 10:27:20.957)]  Reading line from file: 8001490201928
+[log (2017-03-17 10:31:14.477)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:31:14.492)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:31:14.492)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:31:14.492)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:31:14.492)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:31:14.492)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:31:14.492)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:31:14.492)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:31:16.801)]  Logging in to RDT
+[log (2017-03-17 10:31:16.801)]  Trying to log into the RDT 
+[log (2017-03-17 10:31:22.637)]  Navigating to Marshal
+[log (2017-03-17 10:31:24.354)]  Reading line from file: 8001490201928
+[log (2017-03-17 10:36:46.984)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:36:46.984)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:36:46.984)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:36:46.999)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:36:46.999)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:36:46.999)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:36:46.999)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:36:46.999)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:36:49.230)]  Logging in to RDT
+[log (2017-03-17 10:36:49.230)]  Trying to log into the RDT 
+[log (2017-03-17 10:36:55.172)]  Navigating to Marshal
+[log (2017-03-17 10:36:56.855)]  Reading line from file: 8001490201928
+[log (2017-03-17 10:39:36.773)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:39:36.773)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:39:36.773)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:39:36.773)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:39:36.788)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:39:36.788)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:39:36.788)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:39:36.788)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:39:39.019)]  Logging in to RDT
+[log (2017-03-17 10:39:39.019)]  Trying to log into the RDT 
+[log (2017-03-17 10:39:44.968)]  Navigating to Marshal
+[log (2017-03-17 10:39:46.685)]  Reading line from file: 8001300200706
+[log (2017-03-17 10:44:35.808)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:44:35.808)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:44:35.808)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:44:35.808)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:44:35.808)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:44:35.808)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:44:35.808)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:44:35.823)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:44:38.038)]  Logging in to RDT
+[log (2017-03-17 10:44:38.038)]  Trying to log into the RDT 
+[log (2017-03-17 10:44:45.126)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:44:45.126)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:44:45.126)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:44:45.126)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:44:45.126)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:44:45.141)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:44:45.141)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:44:45.141)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:45:09.567)]  Logging in to RDT
+[log (2017-03-17 10:45:09.567)]  Trying to log into the RDT 
+[log (2017-03-17 10:45:27.445)]  Failed to login to RDT
+[log (2017-03-17 10:45:27.445)]  FindFailed: can not find images/optimusRDT.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-17 10:45:42.946)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:45:42.946)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:45:42.946)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:45:42.946)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:45:42.946)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:45:42.946)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:45:42.961)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:45:42.961)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:45:45.192)]  Logging in to RDT
+[log (2017-03-17 10:45:45.192)]  Trying to log into the RDT 
+[log (2017-03-17 10:45:51.241)]  Navigating to Marshal
+[log (2017-03-17 10:45:52.607)]  Reading line from file: 8001300200698
+[log (2017-03-17 10:45:52.617)]  Reading line from file: 8001300200797
+[log (2017-03-17 10:46:10.209)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 10:46:10.209)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 10:46:10.209)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 10:46:10.209)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 10:46:10.225)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 10:46:10.225)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 10:46:10.225)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 10:46:10.225)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 10:46:13.005)]  Logging in to RDT
+[log (2017-03-17 10:46:13.005)]  Trying to log into the RDT 
+[log (2017-03-17 10:46:18.871)]  Navigating to Marshal
+[log (2017-03-17 10:46:20.516)]  Reading line from file: 8001300200698
+[log (2017-03-17 10:46:20.526)]  Reading line from file: 8001300200797
+[log (2017-03-17 11:04:23.671)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 11:04:23.671)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 11:04:23.671)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 11:04:23.671)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 11:04:23.671)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 11:04:23.687)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 11:04:23.687)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 11:04:23.687)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 11:04:25.918)]  Attempting to interface an Order
+[log (2017-03-17 11:04:25.918)]  inserting order header
+[log (2017-03-17 11:04:26.323)]  inserting order header
+[log (2017-03-17 11:04:26.542)]  inserting order header
+[log (2017-03-17 11:04:26.729)]  inserting order header
+[log (2017-03-17 11:04:26.947)]  inserting order header
+[log (2017-03-17 11:04:28.164)]  inserting order line
+[log (2017-03-17 11:04:28.632)]  inserting order line
+[log (2017-03-17 11:04:28.819)]  inserting order line
+[log (2017-03-17 11:04:28.975)]  inserting order line
+[log (2017-03-17 11:04:29.147)]  inserting order line
+[log (2017-03-17 11:04:29.303)]  inserting order line
+[log (2017-03-17 11:04:29.474)]  Waiting for merge....A000000230
+[log (2017-03-17 11:04:29.474)]  Waiting for merge....60
+[log (2017-03-17 11:04:30.535)]  Waiting for merge....59
+[log (2017-03-17 11:04:31.565)]  Waiting for merge....58
+[log (2017-03-17 11:04:32.595)]  Waiting for merge....57
+[log (2017-03-17 11:04:33.624)]  Waiting for merge....56
+[log (2017-03-17 11:04:34.685)]  Waiting for merge....55
+[log (2017-03-17 11:04:35.715)]  Waiting for merge....54
+[log (2017-03-17 11:04:36.744)]  Waiting for merge....53
+[log (2017-03-17 11:04:37.774)]  Waiting for merge....52
+[log (2017-03-17 11:04:38.803)]  Waiting for merge....51
+[log (2017-03-17 11:04:39.833)]  Waiting for merge....50
+[log (2017-03-17 11:04:40.863)]  Waiting for merge....49
+[log (2017-03-17 11:04:41.892)]  Waiting for merge....48
+[log (2017-03-17 11:04:42.922)]  Waiting for merge....47
+[log (2017-03-17 11:04:43.952)]  Waiting for merge....46
+[log (2017-03-17 11:04:44.981)]  Waiting for merge....45
+[log (2017-03-17 11:04:46.011)]  Waiting for merge....44
+[log (2017-03-17 11:04:47.027)]  Waiting for merge....43
+[log (2017-03-17 11:04:48.056)]  Waiting for merge....42
+[log (2017-03-17 11:04:49.086)]  Waiting for merge....41
+[log (2017-03-17 11:04:50.116)]  Waiting for merge....40
+[log (2017-03-17 11:04:51.145)]  Waiting for merge....39
+[log (2017-03-17 11:04:52.175)]  Waiting for merge....38
+[log (2017-03-17 11:04:53.205)]  Waiting for merge....37
+[log (2017-03-17 11:04:54.234)]  Waiting for merge....36
+[log (2017-03-17 11:04:55.264)]  Waiting for merge....35
+[log (2017-03-17 11:04:56.293)]  Waiting for merge....34
+[log (2017-03-17 11:04:57.323)]  Waiting for merge....33
+[log (2017-03-17 11:04:58.353)]  Waiting for merge....32
+[log (2017-03-17 11:04:59.382)]  Waiting for merge....31
+[log (2017-03-17 11:05:00.412)]  Waiting for merge....30
+[log (2017-03-17 11:05:01.441)]  Waiting for merge....29
+[log (2017-03-17 11:05:02.471)]  Waiting for merge....28
+[log (2017-03-17 11:05:03.516)]  Order A000000230 merged
+[log (2017-03-17 11:05:03.516)]  Waiting for merge....A000000231
+[log (2017-03-17 11:05:03.516)]  Waiting for merge....60
+[log (2017-03-17 11:05:04.593)]  Order A000000231 merged
+[log (2017-03-17 11:05:04.608)]  Waiting for merge....A000000232
+[log (2017-03-17 11:05:04.608)]  Waiting for merge....60
+[log (2017-03-17 11:05:05.669)]  Order A000000232 merged
+[log (2017-03-17 11:05:05.669)]  Waiting for merge....A000000233
+[log (2017-03-17 11:05:05.669)]  Waiting for merge....60
+[log (2017-03-17 11:05:06.730)]  Order A000000233 merged
+[log (2017-03-17 11:05:06.730)]  Waiting for merge....A000000234
+[log (2017-03-17 11:05:06.730)]  Waiting for merge....60
+[log (2017-03-17 11:05:07.791)]  Order A000000234 merged
+[log (2017-03-17 11:05:07.994)]  Logging into the application
+[log (2017-03-17 11:05:07.994)]  Attempting to log into the application.
+[log (2017-03-17 11:05:16.884)]  Login successful
+[log (2017-03-17 11:05:16.884)]  Running Order Grouping
+[log (2017-03-17 11:05:52.013)]  Checking orders have been grouped
+[log (2017-03-17 11:05:52.060)]  Orders have grouped A000000230
+[log (2017-03-17 11:05:52.091)]  Orders have grouped A000000231
+[log (2017-03-17 11:05:52.107)]  Orders have grouped A000000232
+[log (2017-03-17 11:05:52.155)]  Orders have grouped A000000233
+[log (2017-03-17 11:05:52.202)]  Orders have grouped A000000234
+[log (2017-03-17 11:05:52.436)]  Attempting Allocation A000000230
+[log (2017-03-17 11:05:52.483)]  Allocate flag set
+[log (2017-03-17 11:05:53.497)]  Waiting for allocation....70
+[log (2017-03-17 11:05:54.558)]  Waiting for allocation....69
+[log (2017-03-17 11:05:55.596)]  Waiting for allocation....68
+[log (2017-03-17 11:05:56.634)]  Waiting for allocation....67
+[log (2017-03-17 11:05:57.679)]  Waiting for allocation....66
+[log (2017-03-17 11:05:58.724)]  Waiting for allocation....65
+[log (2017-03-17 11:05:59.769)]  Waiting for allocation....64
+[log (2017-03-17 11:06:00.814)]  Waiting for allocation....63
+[log (2017-03-17 11:06:01.860)]  Waiting for allocation....62
+[log (2017-03-17 11:06:02.905)]  Waiting for allocation....61
+[log (2017-03-17 11:06:03.950)]  Waiting for allocation....60
+[log (2017-03-17 11:06:04.996)]  Waiting for allocation....59
+[log (2017-03-17 11:06:06.042)]  Waiting for allocation....58
+[log (2017-03-17 11:06:07.087)]  Waiting for allocation....57
+[log (2017-03-17 11:06:08.132)]  Waiting for allocation....56
+[log (2017-03-17 11:06:09.177)]  Waiting for allocation....55
+[log (2017-03-17 11:06:10.222)]  Waiting for allocation....54
+[log (2017-03-17 11:06:11.268)]  Waiting for allocation....53
+[log (2017-03-17 11:06:12.313)]  Waiting for allocation....52
+[log (2017-03-17 11:06:13.358)]  Waiting for allocation....51
+[log (2017-03-17 11:06:14.403)]  Waiting for allocation....50
+[log (2017-03-17 11:06:15.449)]  Waiting for allocation....49
+[log (2017-03-17 11:06:16.494)]  Waiting for allocation....48
+[log (2017-03-17 11:06:17.539)]  Waiting for allocation....47
+[log (2017-03-17 11:06:18.584)]  Waiting for allocation....46
+[log (2017-03-17 11:06:19.629)]  Waiting for allocation....45
+[log (2017-03-17 11:06:20.675)]  Waiting for allocation....44
+[log (2017-03-17 11:06:21.720)]  Waiting for allocation....43
+[log (2017-03-17 11:06:22.765)]  Waiting for allocation....42
+[log (2017-03-17 11:06:23.810)]  Waiting for allocation....41
+[log (2017-03-17 11:06:24.843)]  Waiting for allocation....40
+[log (2017-03-17 11:06:25.888)]  Waiting for allocation....39
+[log (2017-03-17 11:06:26.933)]  Waiting for allocation....38
+[log (2017-03-17 11:06:27.979)]  Waiting for allocation....37
+[log (2017-03-17 11:06:29.024)]  Waiting for allocation....36
+[log (2017-03-17 11:06:30.069)]  Waiting for allocation....35
+[log (2017-03-17 11:06:31.114)]  Waiting for allocation....34
+[log (2017-03-17 11:06:32.159)]  Waiting for allocation....33
+[log (2017-03-17 11:06:33.205)]  Waiting for allocation....32
+[log (2017-03-17 11:06:34.250)]  Waiting for allocation....31
+[log (2017-03-17 11:06:35.295)]  Waiting for allocation....30
+[log (2017-03-17 11:06:36.340)]  Waiting for allocation....29
+[log (2017-03-17 11:06:37.386)]  Waiting for allocation....28
+[log (2017-03-17 11:06:38.431)]  Waiting for allocation....27
+[log (2017-03-17 11:06:39.476)]  Waiting for allocation....26
+[log (2017-03-17 11:06:39.507)]  Allocation succesful
+[log (2017-03-17 11:06:39.523)]  Attempting Allocation A000000230
+[log (2017-03-17 11:06:39.538)]  Allocate flag set
+[log (2017-03-17 11:06:40.552)]  Waiting for allocation....70
+[log (2017-03-17 11:06:40.568)]  Allocation succesful
+[log (2017-03-17 11:06:40.568)]  Attempting Allocation A000000231
+[log (2017-03-17 11:06:40.599)]  Allocate flag set
+[log (2017-03-17 11:06:41.613)]  Waiting for allocation....70
+[log (2017-03-17 11:06:41.629)]  Allocation succesful
+[log (2017-03-17 11:06:41.629)]  Attempting Allocation A000000232
+[log (2017-03-17 11:06:41.660)]  Allocate flag set
+[log (2017-03-17 11:06:42.674)]  Waiting for allocation....70
+[log (2017-03-17 11:06:42.705)]  Allocation succesful
+[log (2017-03-17 11:06:42.705)]  Attempting Allocation A000000233
+[log (2017-03-17 11:06:42.736)]  Allocate flag set
+[log (2017-03-17 11:06:43.751)]  Waiting for allocation....70
+[log (2017-03-17 11:06:43.766)]  Allocation succesful
+[log (2017-03-17 11:06:44.000)]  Releasing move tasks. A000000230
+[log (2017-03-17 11:06:44.031)]  Waiting for clusting.....60
+[log (2017-03-17 11:06:45.061)]  Waiting for clusting.....59
+[log (2017-03-17 11:06:46.091)]  Waiting for clusting.....58
+[log (2017-03-17 11:06:47.120)]  Waiting for clusting.....57
+[log (2017-03-17 11:06:48.150)]  Waiting for clusting.....56
+[log (2017-03-17 11:06:49.179)]  Waiting for clusting.....55
+[log (2017-03-17 11:06:50.209)]  Waiting for clusting.....54
+[log (2017-03-17 11:06:51.239)]  Waiting for clusting.....53
+[log (2017-03-17 11:06:52.268)]  Waiting for clusting.....52
+[log (2017-03-17 11:07:09.635)]  Move tasks released
+[log (2017-03-17 11:07:09.635)]  Releasing move tasks. A000000231
+[log (2017-03-17 11:07:23.751)]  Move tasks released
+[log (2017-03-17 11:07:23.751)]  Releasing move tasks. A000000232
+[log (2017-03-17 11:07:37.765)]  Move tasks released
+[log (2017-03-17 11:07:37.765)]  Releasing move tasks. A000000233
+[log (2017-03-17 11:07:52.033)]  Move tasks released
+[log (2017-03-17 11:07:52.033)]  Releasing move tasks. A000000234
+[log (2017-03-17 11:08:06.228)]  Move tasks released
+[log (2017-03-17 11:08:06.446)]  Logging in to RDT
+[log (2017-03-17 11:08:06.446)]  Trying to log into the RDT 
+[log (2017-03-17 11:39:18.911)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 11:39:18.911)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 11:39:18.911)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 11:39:18.911)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 11:39:18.911)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 11:39:18.911)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 11:39:18.911)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 11:39:18.911)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 11:39:21.335)]  Attempting to interface an Order
+[log (2017-03-17 11:39:21.335)]  inserting order header
+[log (2017-03-17 11:39:22.340)]  inserting order header
+[log (2017-03-17 11:39:22.550)]  inserting order header
+[log (2017-03-17 11:39:22.753)]  inserting order header
+[log (2017-03-17 11:39:22.941)]  inserting order header
+[log (2017-03-17 11:39:24.130)]  inserting order line
+[log (2017-03-17 11:39:24.303)]  inserting order line
+[log (2017-03-17 11:39:24.451)]  inserting order line
+[log (2017-03-17 11:39:24.613)]  inserting order line
+[log (2017-03-17 11:39:24.789)]  inserting order line
+[log (2017-03-17 11:39:24.948)]  Waiting for merge....A000000240
+[log (2017-03-17 11:39:24.949)]  Waiting for merge....60
+[log (2017-03-17 11:39:25.996)]  Waiting for merge....59
+[log (2017-03-17 11:39:27.032)]  Waiting for merge....58
+[log (2017-03-17 11:39:28.021)]  Waiting for merge....57
+[log (2017-03-17 11:39:29.079)]  Waiting for merge....56
+[log (2017-03-17 11:39:30.110)]  Waiting for merge....55
+[log (2017-03-17 11:39:31.125)]  Waiting for merge....54
+[log (2017-03-17 11:39:32.141)]  Waiting for merge....53
+[log (2017-03-17 11:39:33.157)]  Waiting for merge....52
+[log (2017-03-17 11:39:34.171)]  Waiting for merge....51
+[log (2017-03-17 11:39:35.214)]  Waiting for merge....50
+[log (2017-03-17 11:39:36.244)]  Waiting for merge....49
+[log (2017-03-17 11:39:37.267)]  Waiting for merge....48
+[log (2017-03-17 11:39:38.286)]  Waiting for merge....47
+[log (2017-03-17 11:39:39.315)]  Waiting for merge....46
+[log (2017-03-17 11:39:40.339)]  Waiting for merge....45
+[log (2017-03-17 11:39:41.361)]  Waiting for merge....44
+[log (2017-03-17 11:39:42.380)]  Waiting for merge....43
+[log (2017-03-17 11:39:43.405)]  Waiting for merge....42
+[log (2017-03-17 11:39:44.436)]  Waiting for merge....41
+[log (2017-03-17 11:39:45.457)]  Waiting for merge....40
+[log (2017-03-17 11:39:46.462)]  Waiting for merge....39
+[log (2017-03-17 11:39:47.488)]  Waiting for merge....38
+[log (2017-03-17 11:39:48.505)]  Waiting for merge....37
+[log (2017-03-17 11:39:49.525)]  Waiting for merge....36
+[log (2017-03-17 11:39:50.543)]  Waiting for merge....35
+[log (2017-03-17 11:39:51.592)]  Waiting for merge....34
+[log (2017-03-17 11:39:52.599)]  Waiting for merge....33
+[log (2017-03-17 11:39:53.640)]  Waiting for merge....32
+[log (2017-03-17 11:39:54.669)]  Waiting for merge....31
+[log (2017-03-17 11:39:55.702)]  Waiting for merge....30
+[log (2017-03-17 11:39:56.708)]  Waiting for merge....29
+[log (2017-03-17 11:39:57.767)]  Waiting for merge....28
+[log (2017-03-17 11:39:58.795)]  Waiting for merge....27
+[log (2017-03-17 11:39:59.817)]  Waiting for merge....26
+[log (2017-03-17 11:40:00.842)]  Waiting for merge....25
+[log (2017-03-17 11:40:01.862)]  Waiting for merge....24
+[log (2017-03-17 11:40:02.887)]  Waiting for merge....23
+[log (2017-03-17 11:40:03.908)]  Waiting for merge....22
+[log (2017-03-17 11:40:04.943)]  Order A000000240 merged
+[log (2017-03-17 11:40:04.943)]  Waiting for merge....A000000241
+[log (2017-03-17 11:40:04.943)]  Waiting for merge....60
+[log (2017-03-17 11:40:05.966)]  Order A000000241 merged
+[log (2017-03-17 11:40:05.967)]  Waiting for merge....A000000242
+[log (2017-03-17 11:40:05.968)]  Waiting for merge....60
+[log (2017-03-17 11:40:07.041)]  Order A000000242 merged
+[log (2017-03-17 11:40:07.041)]  Waiting for merge....A000000243
+[log (2017-03-17 11:40:07.041)]  Waiting for merge....60
+[log (2017-03-17 11:40:08.118)]  Order A000000243 merged
+[log (2017-03-17 11:40:08.118)]  Waiting for merge....A000000244
+[log (2017-03-17 11:40:08.118)]  Waiting for merge....60
+[log (2017-03-17 11:40:09.179)]  Order A000000244 merged
+[log (2017-03-17 11:40:09.391)]  Logging into the application
+[log (2017-03-17 11:40:09.391)]  Attempting to log into the application.
+[log (2017-03-17 11:40:17.983)]  Login successful
+[log (2017-03-17 11:40:17.984)]  Running Order Grouping
+[log (2017-03-17 11:40:47.446)]  Checking orders have been grouped
+[log (2017-03-17 11:40:47.469)]  Orders have grouped A000000240
+[log (2017-03-17 11:40:47.505)]  Orders have grouped A000000241
+[log (2017-03-17 11:40:47.566)]  Orders have grouped A000000242
+[log (2017-03-17 11:40:47.597)]  Orders have grouped A000000243
+[log (2017-03-17 11:40:47.628)]  Orders have grouped A000000244
+[log (2017-03-17 11:40:47.863)]  Attempting Allocation A000000240
+[log (2017-03-17 11:40:47.896)]  Allocate flag set
+[log (2017-03-17 11:40:48.896)]  Waiting for allocation....70
+[log (2017-03-17 11:40:49.946)]  Waiting for allocation....69
+[log (2017-03-17 11:40:50.956)]  Waiting for allocation....68
+[log (2017-03-17 11:40:52.073)]  Waiting for allocation....67
+[log (2017-03-17 11:40:53.128)]  Waiting for allocation....66
+[log (2017-03-17 11:40:54.162)]  Waiting for allocation....65
+[log (2017-03-17 11:40:55.191)]  Waiting for allocation....64
+[log (2017-03-17 11:40:56.252)]  Waiting for allocation....63
+[log (2017-03-17 11:40:57.294)]  Waiting for allocation....62
+[log (2017-03-17 11:40:58.315)]  Waiting for allocation....61
+[log (2017-03-17 11:40:59.349)]  Waiting for allocation....60
+[log (2017-03-17 11:41:00.401)]  Waiting for allocation....59
+[log (2017-03-17 11:41:01.441)]  Waiting for allocation....58
+[log (2017-03-17 11:41:02.448)]  Waiting for allocation....57
+[log (2017-03-17 11:41:03.484)]  Waiting for allocation....56
+[log (2017-03-17 11:41:04.519)]  Waiting for allocation....55
+[log (2017-03-17 11:41:05.595)]  Waiting for allocation....54
+[log (2017-03-17 11:41:06.640)]  Waiting for allocation....53
+[log (2017-03-17 11:41:07.677)]  Waiting for allocation....52
+[log (2017-03-17 11:41:08.717)]  Waiting for allocation....51
+[log (2017-03-17 11:41:09.753)]  Waiting for allocation....50
+[log (2017-03-17 11:41:10.798)]  Waiting for allocation....49
+[log (2017-03-17 11:41:11.842)]  Waiting for allocation....48
+[log (2017-03-17 11:41:11.858)]  Allocation succesful
+[log (2017-03-17 11:41:11.858)]  Attempting Allocation A000000241
+[log (2017-03-17 11:41:11.889)]  Allocate flag set
+[log (2017-03-17 11:41:12.908)]  Waiting for allocation....70
+[log (2017-03-17 11:41:12.924)]  Allocation succesful
+[log (2017-03-17 11:41:12.924)]  Attempting Allocation A000000242
+[log (2017-03-17 11:41:12.955)]  Allocate flag set
+[log (2017-03-17 11:41:13.968)]  Waiting for allocation....70
+[log (2017-03-17 11:41:13.969)]  Allocation succesful
+[log (2017-03-17 11:41:13.969)]  Attempting Allocation A000000243
+[log (2017-03-17 11:41:14.004)]  Allocate flag set
+[log (2017-03-17 11:41:15.005)]  Waiting for allocation....70
+[log (2017-03-17 11:41:15.027)]  Allocation succesful
+[log (2017-03-17 11:41:15.028)]  Attempting Allocation A000000244
+[log (2017-03-17 11:41:15.077)]  Allocate flag set
+[log (2017-03-17 11:41:16.090)]  Waiting for allocation....70
+[log (2017-03-17 11:41:16.106)]  Allocation succesful
+[log (2017-03-17 11:41:16.309)]  Releasing move tasks. A000000240
+[log (2017-03-17 11:41:16.356)]  Waiting for clusting.....60
+[log (2017-03-17 11:41:17.376)]  Waiting for clusting.....59
+[log (2017-03-17 11:41:18.371)]  Waiting for clusting.....58
+[log (2017-03-17 11:41:19.420)]  Waiting for clusting.....57
+[log (2017-03-17 11:41:20.425)]  Waiting for clusting.....56
+[log (2017-03-17 11:41:21.444)]  Waiting for clusting.....55
+[log (2017-03-17 11:41:22.469)]  Waiting for clusting.....54
+[log (2017-03-17 11:41:23.489)]  Waiting for clusting.....53
+[log (2017-03-17 11:41:24.507)]  Waiting for clusting.....52
+[log (2017-03-17 11:41:25.524)]  Waiting for clusting.....51
+[log (2017-03-17 11:41:26.542)]  Waiting for clusting.....50
+[log (2017-03-17 11:41:27.590)]  Waiting for clusting.....49
+[log (2017-03-17 11:41:28.621)]  Waiting for clusting.....48
+[log (2017-03-17 11:41:29.651)]  Waiting for clusting.....47
+[log (2017-03-17 11:41:30.668)]  Waiting for clusting.....46
+[log (2017-03-17 11:41:31.684)]  Waiting for clusting.....45
+[log (2017-03-17 11:41:32.703)]  Waiting for clusting.....44
+[log (2017-03-17 11:41:33.752)]  Waiting for clusting.....43
+[log (2017-03-17 11:41:34.778)]  Waiting for clusting.....42
+[log (2017-03-17 11:41:35.768)]  Waiting for clusting.....41
+[log (2017-03-17 11:41:36.828)]  Waiting for clusting.....40
+[log (2017-03-17 11:41:37.847)]  Waiting for clusting.....39
+[log (2017-03-17 11:41:38.860)]  Waiting for clusting.....38
+[log (2017-03-17 11:41:39.889)]  Waiting for clusting.....37
+[log (2017-03-17 11:41:40.918)]  Waiting for clusting.....36
+[log (2017-03-17 11:41:41.941)]  Waiting for clusting.....35
+[log (2017-03-17 11:41:42.960)]  Waiting for clusting.....34
+[log (2017-03-17 11:41:43.951)]  Waiting for clusting.....33
+[log (2017-03-17 11:41:44.973)]  Waiting for clusting.....32
+[log (2017-03-17 11:41:45.999)]  Waiting for clusting.....31
+[log (2017-03-17 11:41:47.018)]  Waiting for clusting.....30
+[log (2017-03-17 11:41:48.070)]  Waiting for clusting.....29
+[log (2017-03-17 11:41:49.100)]  Waiting for clusting.....28
+[log (2017-03-17 11:41:50.119)]  Waiting for clusting.....27
+[log (2017-03-17 11:41:51.150)]  Waiting for clusting.....26
+[log (2017-03-17 11:42:09.083)]  Move tasks released
+[log (2017-03-17 11:42:09.083)]  Releasing move tasks. A000000241
+[log (2017-03-17 11:42:23.272)]  Move tasks released
+[log (2017-03-17 11:42:23.272)]  Releasing move tasks. A000000242
+[log (2017-03-17 11:42:37.387)]  Move tasks released
+[log (2017-03-17 11:42:37.387)]  Releasing move tasks. A000000243
+[log (2017-03-17 11:42:51.340)]  Move tasks released
+[log (2017-03-17 11:42:51.340)]  Releasing move tasks. A000000244
+[log (2017-03-17 11:43:05.513)]  Move tasks released
+[log (2017-03-17 13:00:58.944)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 13:00:58.944)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 13:00:58.944)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 13:00:58.944)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 13:00:58.944)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 13:00:58.944)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 13:00:58.954)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 13:00:58.954)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 13:01:01.855)]  Attempting to interface an Order
+[log (2017-03-17 13:01:01.855)]  inserting order header
+[log (2017-03-17 13:01:02.815)]  inserting order header
+[log (2017-03-17 13:01:03.015)]  inserting order header
+[log (2017-03-17 13:01:03.215)]  inserting order header
+[log (2017-03-17 13:01:03.425)]  inserting order header
+[log (2017-03-17 13:01:04.619)]  inserting order line
+[log (2017-03-17 13:01:04.789)]  inserting order line
+[log (2017-03-17 13:01:04.959)]  inserting order line
+[log (2017-03-17 13:01:05.119)]  inserting order line
+[log (2017-03-17 13:01:05.269)]  inserting order line
+[log (2017-03-17 13:01:05.439)]  Waiting for merge....A000000245
+[log (2017-03-17 13:01:05.439)]  Waiting for merge....60
+[log (2017-03-17 13:01:06.519)]  Order A000000245 merged
+[log (2017-03-17 13:01:06.519)]  Waiting for merge....A000000246
+[log (2017-03-17 13:01:06.519)]  Waiting for merge....60
+[log (2017-03-17 13:01:07.579)]  Order A000000246 merged
+[log (2017-03-17 13:01:07.579)]  Waiting for merge....A000000247
+[log (2017-03-17 13:01:07.589)]  Waiting for merge....60
+[log (2017-03-17 13:01:08.639)]  Order A000000247 merged
+[log (2017-03-17 13:01:08.639)]  Waiting for merge....A000000248
+[log (2017-03-17 13:01:08.639)]  Waiting for merge....60
+[log (2017-03-17 13:01:09.699)]  Order A000000248 merged
+[log (2017-03-17 13:01:09.699)]  Waiting for merge....A000000249
+[log (2017-03-17 13:01:09.699)]  Waiting for merge....60
+[log (2017-03-17 13:01:10.751)]  Order A000000249 merged
+[log (2017-03-17 13:01:10.991)]  Logging into the application
+[log (2017-03-17 13:01:10.991)]  Attempting to log into the application.
+[log (2017-03-17 13:01:20.250)]  Login successful
+[log (2017-03-17 13:01:20.250)]  Running Order Grouping
+[log (2017-03-17 13:01:55.948)]  Checking orders have been grouped
+[log (2017-03-17 13:01:55.988)]  Orders have grouped A000000245
+[log (2017-03-17 13:01:56.028)]  Orders have grouped A000000246
+[log (2017-03-17 13:01:56.058)]  Orders have grouped A000000247
+[log (2017-03-17 13:01:56.098)]  Orders have grouped A000000248
+[log (2017-03-17 13:01:56.128)]  Orders have grouped A000000249
+[log (2017-03-17 13:01:56.338)]  Attempting Allocation A000000245
+[log (2017-03-17 13:01:56.368)]  Allocate flag set
+[log (2017-03-17 13:01:57.374)]  Waiting for allocation....70
+[log (2017-03-17 13:01:57.414)]  Allocation succesful
+[log (2017-03-17 13:01:57.414)]  Attempting Allocation A000000246
+[log (2017-03-17 13:01:57.444)]  Allocate flag set
+[log (2017-03-17 13:01:58.448)]  Waiting for allocation....70
+[log (2017-03-17 13:01:58.468)]  Allocation succesful
+[log (2017-03-17 13:01:58.478)]  Attempting Allocation A000000247
+[log (2017-03-17 13:01:58.508)]  Allocate flag set
+[log (2017-03-17 13:01:59.508)]  Waiting for allocation....70
+[log (2017-03-17 13:01:59.528)]  Allocation succesful
+[log (2017-03-17 13:01:59.528)]  Attempting Allocation A000000248
+[log (2017-03-17 13:01:59.558)]  Allocate flag set
+[log (2017-03-17 13:02:00.558)]  Waiting for allocation....70
+[log (2017-03-17 13:02:00.588)]  Allocation succesful
+[log (2017-03-17 13:02:00.588)]  Attempting Allocation A000000249
+[log (2017-03-17 13:02:00.618)]  Allocate flag set
+[log (2017-03-17 13:02:01.618)]  Waiting for allocation....70
+[log (2017-03-17 13:02:01.638)]  Allocation succesful
+[log (2017-03-17 13:02:01.848)]  Releasing move tasks. A000000245
+[log (2017-03-17 13:02:18.119)]  Move tasks released
+[log (2017-03-17 13:02:18.119)]  Releasing move tasks. A000000246
+[log (2017-03-17 13:02:31.942)]  Move tasks released
+[log (2017-03-17 13:02:31.942)]  Releasing move tasks. A000000247
+[log (2017-03-17 13:02:45.680)]  Move tasks released
+[log (2017-03-17 13:02:45.680)]  Releasing move tasks. A000000248
+[log (2017-03-17 13:03:00.081)]  Move tasks released
+[log (2017-03-17 13:03:00.081)]  Releasing move tasks. A000000249
+[log (2017-03-17 13:03:13.998)]  Move tasks released
+[log (2017-03-17 13:27:43.022)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 13:27:43.022)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 13:27:43.022)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 13:27:43.022)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 13:27:43.022)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 13:27:43.022)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 13:27:43.022)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 13:27:43.022)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 13:27:45.846)]  Attempting to interface an Order
+[log (2017-03-17 13:27:45.846)]  inserting order header
+[log (2017-03-17 13:27:46.438)]  inserting order header
+[log (2017-03-17 13:27:46.782)]  inserting order header
+[log (2017-03-17 13:27:46.985)]  inserting order header
+[log (2017-03-17 13:27:47.265)]  inserting order header
+[log (2017-03-17 13:27:48.560)]  inserting order line
+[log (2017-03-17 13:27:48.716)]  inserting order line
+[log (2017-03-17 13:27:48.872)]  inserting order line
+[log (2017-03-17 13:27:49.028)]  inserting order line
+[log (2017-03-17 13:27:49.200)]  inserting order line
+[log (2017-03-17 13:27:49.356)]  Waiting for merge....A000000250
+[log (2017-03-17 13:27:49.356)]  Waiting for merge....60
+[log (2017-03-17 13:27:50.414)]  Waiting for merge....59
+[log (2017-03-17 13:27:51.445)]  Waiting for merge....58
+[log (2017-03-17 13:27:52.475)]  Waiting for merge....57
+[log (2017-03-17 13:27:53.504)]  Waiting for merge....56
+[log (2017-03-17 13:27:54.521)]  Waiting for merge....55
+[log (2017-03-17 13:27:55.551)]  Waiting for merge....54
+[log (2017-03-17 13:27:56.572)]  Waiting for merge....53
+[log (2017-03-17 13:27:57.601)]  Waiting for merge....52
+[log (2017-03-17 13:27:58.632)]  Waiting for merge....51
+[log (2017-03-17 13:27:59.661)]  Waiting for merge....50
+[log (2017-03-17 13:28:00.691)]  Waiting for merge....49
+[log (2017-03-17 13:28:01.721)]  Waiting for merge....48
+[log (2017-03-17 13:28:02.741)]  Waiting for merge....47
+[log (2017-03-17 13:28:03.770)]  Waiting for merge....46
+[log (2017-03-17 13:28:04.800)]  Waiting for merge....45
+[log (2017-03-17 13:28:05.832)]  Waiting for merge....44
+[log (2017-03-17 13:28:06.861)]  Waiting for merge....43
+[log (2017-03-17 13:28:07.906)]  Order A000000250 merged
+[log (2017-03-17 13:28:07.906)]  Waiting for merge....A000000251
+[log (2017-03-17 13:28:07.906)]  Waiting for merge....60
+[log (2017-03-17 13:28:08.967)]  Order A000000251 merged
+[log (2017-03-17 13:28:08.967)]  Waiting for merge....A000000252
+[log (2017-03-17 13:28:08.967)]  Waiting for merge....60
+[log (2017-03-17 13:28:10.028)]  Order A000000252 merged
+[log (2017-03-17 13:28:10.028)]  Waiting for merge....A000000253
+[log (2017-03-17 13:28:10.028)]  Waiting for merge....60
+[log (2017-03-17 13:28:11.104)]  Order A000000253 merged
+[log (2017-03-17 13:28:11.104)]  Waiting for merge....A000000254
+[log (2017-03-17 13:28:11.104)]  Waiting for merge....60
+[log (2017-03-17 13:28:12.165)]  Order A000000254 merged
+[log (2017-03-17 13:28:12.368)]  Logging into the application
+[log (2017-03-17 13:28:12.384)]  Attempting to log into the application.
+[log (2017-03-17 13:28:21.774)]  Login successful
+[log (2017-03-17 13:28:21.776)]  Running Order Grouping
+[log (2017-03-17 13:28:50.146)]  Checking orders have been grouped
+[log (2017-03-17 13:28:50.187)]  Orders have grouped A000000250
+[log (2017-03-17 13:28:50.221)]  Orders have grouped A000000251
+[log (2017-03-17 13:28:50.265)]  Orders have grouped A000000252
+[log (2017-03-17 13:28:50.300)]  Orders have grouped A000000253
+[log (2017-03-17 13:28:50.335)]  Orders have grouped A000000254
+[log (2017-03-17 13:28:50.580)]  Attempting Allocation A000000250
+[log (2017-03-17 13:28:50.608)]  Allocate flag set
+[log (2017-03-17 13:28:51.611)]  Waiting for allocation....70
+[log (2017-03-17 13:28:52.664)]  Waiting for allocation....69
+[log (2017-03-17 13:28:53.700)]  Waiting for allocation....68
+[log (2017-03-17 13:28:54.736)]  Waiting for allocation....67
+[log (2017-03-17 13:28:55.773)]  Waiting for allocation....66
+[log (2017-03-17 13:28:56.808)]  Waiting for allocation....65
+[log (2017-03-17 13:28:57.843)]  Waiting for allocation....64
+[log (2017-03-17 13:28:57.881)]  Allocation succesful
+[log (2017-03-17 13:28:57.883)]  Attempting Allocation A000000251
+[log (2017-03-17 13:28:57.911)]  Allocate flag set
+[log (2017-03-17 13:28:58.913)]  Waiting for allocation....70
+[log (2017-03-17 13:28:58.936)]  Allocation succesful
+[log (2017-03-17 13:28:58.939)]  Attempting Allocation A000000252
+[log (2017-03-17 13:28:58.967)]  Allocate flag set
+[log (2017-03-17 13:28:59.968)]  Waiting for allocation....70
+[log (2017-03-17 13:28:59.989)]  Allocation succesful
+[log (2017-03-17 13:28:59.990)]  Attempting Allocation A000000253
+[log (2017-03-17 13:29:00.050)]  Allocate flag set
+[log (2017-03-17 13:29:01.052)]  Waiting for allocation....70
+[log (2017-03-17 13:29:01.078)]  Allocation succesful
+[log (2017-03-17 13:29:01.079)]  Attempting Allocation A000000254
+[log (2017-03-17 13:29:01.106)]  Allocate flag set
+[log (2017-03-17 13:29:02.107)]  Waiting for allocation....70
+[log (2017-03-17 13:29:02.128)]  Allocation succesful
+[log (2017-03-17 13:29:02.329)]  Releasing move tasks. A000000250
+[log (2017-03-17 13:29:02.369)]  Waiting for clusting.....60
+[log (2017-03-17 13:29:03.389)]  Waiting for clusting.....59
+[log (2017-03-17 13:29:04.411)]  Waiting for clusting.....58
+[log (2017-03-17 13:29:05.430)]  Waiting for clusting.....57
+[log (2017-03-17 13:29:06.450)]  Waiting for clusting.....56
+[log (2017-03-17 13:29:07.470)]  Waiting for clusting.....55
+[log (2017-03-17 13:29:08.489)]  Waiting for clusting.....54
+[log (2017-03-17 13:29:09.508)]  Waiting for clusting.....53
+[log (2017-03-17 13:29:10.526)]  Waiting for clusting.....52
+[log (2017-03-17 13:29:11.549)]  Waiting for clusting.....51
+[log (2017-03-17 13:29:12.568)]  Waiting for clusting.....50
+[log (2017-03-17 13:29:13.587)]  Waiting for clusting.....49
+[log (2017-03-17 13:29:14.606)]  Waiting for clusting.....48
+[log (2017-03-17 13:29:15.626)]  Waiting for clusting.....47
+[log (2017-03-17 13:29:16.645)]  Waiting for clusting.....46
+[log (2017-03-17 13:29:17.666)]  Waiting for clusting.....45
+[log (2017-03-17 13:29:18.685)]  Waiting for clusting.....44
+[log (2017-03-17 13:29:19.705)]  Waiting for clusting.....43
+[log (2017-03-17 13:29:20.725)]  Waiting for clusting.....42
+[log (2017-03-17 13:29:21.744)]  Waiting for clusting.....41
+[log (2017-03-17 13:29:22.763)]  Waiting for clusting.....40
+[log (2017-03-17 13:29:23.782)]  Waiting for clusting.....39
+[log (2017-03-17 13:29:24.799)]  Waiting for clusting.....38
+[log (2017-03-17 13:29:25.819)]  Waiting for clusting.....37
+[log (2017-03-17 13:29:26.837)]  Waiting for clusting.....36
+[log (2017-03-17 13:29:27.857)]  Waiting for clusting.....35
+[log (2017-03-17 13:29:28.877)]  Waiting for clusting.....34
+[log (2017-03-17 13:29:29.896)]  Waiting for clusting.....33
+[log (2017-03-17 13:29:30.915)]  Waiting for clusting.....32
+[log (2017-03-17 13:29:31.933)]  Waiting for clusting.....31
+[log (2017-03-17 13:29:32.951)]  Waiting for clusting.....30
+[log (2017-03-17 13:29:33.971)]  Waiting for clusting.....29
+[log (2017-03-17 13:29:34.988)]  Waiting for clusting.....28
+[log (2017-03-17 13:29:36.006)]  Waiting for clusting.....27
+[log (2017-03-17 13:29:37.033)]  Waiting for clusting.....26
+[log (2017-03-17 13:29:38.070)]  Waiting for clusting.....25
+[log (2017-03-17 13:29:39.090)]  Waiting for clusting.....24
+[log (2017-03-17 13:29:40.107)]  Waiting for clusting.....23
+[log (2017-03-17 13:29:41.126)]  Waiting for clusting.....22
+[log (2017-03-17 13:29:42.145)]  Waiting for clusting.....21
+[log (2017-03-17 13:29:43.164)]  Waiting for clusting.....20
+[log (2017-03-17 13:29:44.185)]  Waiting for clusting.....19
+[log (2017-03-17 13:29:45.205)]  Waiting for clusting.....18
+[log (2017-03-17 13:29:46.232)]  Waiting for clusting.....17
+[log (2017-03-17 13:29:47.252)]  Waiting for clusting.....16
+[log (2017-03-17 13:29:48.272)]  Waiting for clusting.....15
+[log (2017-03-17 13:29:49.290)]  Waiting for clusting.....14
+[log (2017-03-17 13:29:50.310)]  Waiting for clusting.....13
+[log (2017-03-17 13:29:51.329)]  Waiting for clusting.....12
+[log (2017-03-17 13:30:08.649)]  Move tasks released
+[log (2017-03-17 13:30:08.651)]  Releasing move tasks. A000000251
+[log (2017-03-17 13:30:22.184)]  Move tasks released
+[log (2017-03-17 13:30:22.185)]  Releasing move tasks. A000000252
+[log (2017-03-17 13:30:35.734)]  Move tasks released
+[log (2017-03-17 13:30:35.742)]  Releasing move tasks. A000000253
+[log (2017-03-17 13:30:49.575)]  Move tasks released
+[log (2017-03-17 13:30:49.578)]  Releasing move tasks. A000000254
+[log (2017-03-17 13:31:03.142)]  Move tasks released
+[log (2017-03-17 14:15:59.798)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 14:15:59.814)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 14:15:59.814)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 14:15:59.814)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 14:15:59.829)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 14:15:59.829)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 14:15:59.829)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 14:15:59.829)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 14:16:02.187)]  Logging in to RDT
+[log (2017-03-17 14:16:02.187)]  Trying to log into the RDT 
+[log (2017-03-17 14:16:08.978)]  Navigating to containerPicking
+[log (2017-03-17 14:16:08.978)]  Navigating to Container Picking
+[log (2017-03-17 14:16:10.137)]  Picking order
+[log (2017-03-17 14:16:31.391)]  Order picked
+[log (2017-03-17 14:16:31.391)]  Picking order
+[log (2017-03-17 14:16:35.776)]  Failed to find image: FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-17 14:21:10.834)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 14:21:10.834)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 14:21:10.834)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 14:21:10.850)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 14:21:10.850)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 14:21:10.850)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 14:21:10.850)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 14:21:10.850)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 14:21:13.127)]  Logging in to RDT
+[log (2017-03-17 14:21:13.127)]  Trying to log into the RDT 
+[log (2017-03-17 14:21:18.852)]  Navigating to containerPicking
+[log (2017-03-17 14:21:18.852)]  Navigating to Container Picking
+[log (2017-03-17 14:21:19.966)]  Picking order
+[log (2017-03-17 14:21:39.089)]  Order picked
+[log (2017-03-17 14:21:39.089)]  Picking order
+[log (2017-03-17 14:21:43.247)]  Failed to find image: FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-17 14:22:50.361)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 14:22:50.361)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 14:22:50.377)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 14:22:50.377)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 14:22:50.377)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 14:22:50.377)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 14:22:50.377)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 14:22:50.377)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 14:22:52.747)]  Logging in to RDT
+[log (2017-03-17 14:22:52.747)]  Trying to log into the RDT 
+[log (2017-03-17 14:22:58.965)]  Navigating to containerPicking
+[log (2017-03-17 14:22:58.965)]  Navigating to Container Picking
+[log (2017-03-17 14:23:00.174)]  Picking order
+[log (2017-03-17 14:23:09.239)]  Failed to find image: FindFailed: can not find images/rdt/trolleyPick.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-17 14:30:45.128)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 14:30:45.128)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 14:30:45.144)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 14:30:45.144)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 14:30:45.144)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 14:30:45.144)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 14:30:45.144)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 14:30:45.144)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 14:30:47.630)]  Logging in to RDT
+[log (2017-03-17 14:30:47.630)]  Trying to log into the RDT 
+[log (2017-03-17 14:30:53.247)]  Navigating to containerPicking
+[log (2017-03-17 14:30:53.247)]  Navigating to Container Picking
+[log (2017-03-17 14:30:54.040)]  Picking order
+[log (2017-03-17 14:31:18.796)]  Order picked
+[log (2017-03-17 14:31:18.796)]  Picking order
+[log (2017-03-17 14:31:22.926)]  Failed to find image: FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-17 16:11:40.195)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxd0dc003.unix.marksandspencerdev.com:1521:WMSBACD,,,
+[log (2017-03-17 16:11:40.197)]  Reading line from file: OPTIMUS,,dcsdba,,,,
+[log (2017-03-17 16:11:40.198)]  Reading line from file: 1234,,jdadcbacd,,,,
+[log (2017-03-17 16:11:40.199)]  Reading line from file: Pre-Advice,CeConsignment,Receipt Lane,tag,qty,eachToCase,Create
+[log (2017-03-17 16:11:40.201)]  Reading line from file: 2055734P02,000000012,REC001,2017022701,10c,12,N
+[log (2017-03-17 16:11:40.202)]  Reading line from file: SKU,,,,,,Create
+[log (2017-03-17 16:11:40.203)]  Reading line from file: UPC,,,,,,Create
+[log (2017-03-17 16:11:40.204)]  Reading line from file: ORDERS,,,,,,Create
+[log (2017-03-17 16:11:43.956)]  Trying to insert Pre Advice
+[log (2017-03-17 16:11:43.958)]  inserting header file
+[log (2017-03-17 16:11:44.883)]  inserting line file
+[log (2017-03-17 16:11:45.436)]  Waiting for merge.....A000000219
+[log (2017-03-17 16:11:46.439)]  Waiting for merge.....70
+[log (2017-03-17 16:11:46.509)]  merged
+[log (2017-03-17 16:14:50.514)]  Reading line from file: USER,,Database,jdbc:oracle:thin:@hlxp0dc033.unix.marksandspencer.com:1521:JDABACP
+[log (2017-03-17 16:14:50.515)]  Reading line from file: TONEW,,dcsdba,
+[log (2017-03-17 16:14:50.517)]  Reading line from file: 9876,,dcsabd,
+[log (2017-03-17 16:14:53.136)]  Trying to insert Pre Advice
+[log (2017-03-17 16:14:53.139)]  inserting header file
+[log (2017-03-17 16:14:54.397)]  inserting line file
+[log (2017-03-17 16:14:55.121)]  Waiting for merge.....A000000219
+[log (2017-03-17 16:14:56.124)]  Waiting for merge.....70
+[log (2017-03-17 16:14:56.192)]  merged

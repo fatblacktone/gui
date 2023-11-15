@@ -1,0 +1,111 @@
+[log (2017-03-13 12:13:37.671)]  Attempting to log into the application.
+[log (2017-03-13 12:13:46.628)]  Login successful
+[log (2017-03-13 12:15:20.631)]  Trying to log into the RDT 
+[log (2017-03-13 12:15:26.136)]  Navigating to Container Picking
+[log (2017-03-13 12:23:56.292)]  Attempting to log into the application.
+[log (2017-03-13 12:24:07.860)]  Login successful
+[log (2017-03-13 12:24:39.061)]  Trying to log into the RDT 
+[log (2017-03-13 12:24:44.008)]  Navigating to Container Picking
+[log (2017-03-13 12:24:48.515)]  Failed to find image: FindFailed: can not find images/rdt/trolleyPick.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 13:26:15.309)]  Attempting to log into the application.
+[log (2017-03-13 13:28:15.286)]  Attempting to log into the application.
+[log (2017-03-13 13:28:23.922)]  Login successful
+[log (2017-03-13 13:28:29.970)]  Trying to log into the RDT 
+[log (2017-03-13 13:29:16.479)]  Attempting to log into the application.
+[log (2017-03-13 13:32:16.119)]  Attempting to log into the application.
+[log (2017-03-13 13:32:24.822)]  Login successful
+[log (2017-03-13 13:32:53.435)]  Trying to log into the RDT 
+[log (2017-03-13 13:32:59.491)]  Navigating to Container Picking
+[log (2017-03-13 13:33:09.589)]  Failed to find image: FindFailed: can not find images/rdt/trolleyPick.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 13:35:16.178)]  Attempting to log into the application.
+[log (2017-03-13 13:35:24.927)]  Login successful
+[log (2017-03-13 13:36:32.431)]  Trying to log into the RDT 
+[log (2017-03-13 13:36:37.900)]  Navigating to Container Picking
+[log (2017-03-13 13:36:48.005)]  Failed to find image: FindFailed: can not find images/rdt/trolleyPick.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 13:45:16.310)]  Attempting to log into the application.
+[log (2017-03-13 13:45:24.777)]  Login successful
+[log (2017-03-13 13:46:38.458)]  Trying to log into the RDT 
+[log (2017-03-13 13:46:44.391)]  Navigating to Container Picking
+[log (2017-03-13 13:46:54.538)]  Failed to find image: FindFailed: can not find images/rdt/trolleyPick.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 13:49:16.792)]  Attempting to log into the application.
+[log (2017-03-13 13:49:25.358)]  Login successful
+[log (2017-03-13 13:50:51.869)]  Trying to log into the RDT 
+[log (2017-03-13 13:50:57.328)]  Navigating to Container Picking
+[log (2017-03-13 13:53:16.190)]  Attempting to log into the application.
+[log (2017-03-13 13:53:24.717)]  Login successful
+[log (2017-03-13 13:54:44.515)]  Trying to log into the RDT 
+[log (2017-03-13 13:54:50.392)]  Navigating to Container Picking
+[log (2017-03-13 13:57:16.888)]  Attempting to log into the application.
+[log (2017-03-13 13:57:25.216)]  Login successful
+[log (2017-03-13 13:58:46.081)]  Trying to log into the RDT 
+[log (2017-03-13 13:58:51.848)]  Navigating to Container Picking
+[log (2017-03-13 14:09:53.437)]  Attempting to log into the application.
+[log (2017-03-13 14:10:01.927)]  Login successful
+[log (2017-03-13 14:15:16.674)]  Attempting to log into the application.
+[log (2017-03-13 14:15:25.373)]  Login successful
+[log (2017-03-13 14:17:18.624)]  Attempting to log into the application.
+[log (2017-03-13 14:17:27.418)]  Login successful
+[log (2017-03-13 14:22:38.574)]  Trying to log into the RDT 
+[log (2017-03-13 14:22:44.242)]  Navigating to Container Picking
+[log (2017-03-13 14:23:00.485)]  Failed to find image: FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 14:28:18.937)]  Attempting to log into the application.
+[log (2017-03-13 14:28:31.942)]  Login successful
+[log (2017-03-13 14:29:25.659)]  Trying to log into the RDT 
+[log (2017-03-13 14:29:31.150)]  Navigating to Container Picking
+[log (2017-03-13 14:31:18.127)]  Attempting to log into the application.
+[log (2017-03-13 14:31:26.902)]  Login successful
+[log (2017-03-13 14:32:08.732)]  Trying to log into the RDT 
+[log (2017-03-13 14:32:14.544)]  Navigating to Container Picking
+[log (2017-03-13 14:42:17.470)]  Attempting to log into the application.
+[log (2017-03-13 14:42:26.191)]  Login successful
+[log (2017-03-13 14:42:55.975)]  Trying to log into the RDT 
+[log (2017-03-13 14:43:02.040)]  Navigating to Container Picking
+[log (2017-03-13 14:43:07.483)]  Failed to find image: FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 14:47:19.566)]  Attempting to log into the application.
+[log (2017-03-13 14:47:27.905)]  Login successful
+[log (2017-03-13 14:48:13.112)]  Trying to log into the RDT 
+[log (2017-03-13 14:48:18.357)]  Navigating to Container Picking
+[log (2017-03-13 14:48:23.017)]  Failed to find image: FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 14:50:19.846)]  Attempting to log into the application.
+[log (2017-03-13 14:50:28.323)]  Login successful
+[log (2017-03-13 14:51:42.763)]  Trying to log into the RDT 
+[log (2017-03-13 14:51:48.354)]  Navigating to Container Picking
+[log (2017-03-13 14:52:02.742)]  Failed to find image: FindFailed: can not find images/rdt/pckEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 14:55:19.649)]  Attempting to log into the application.
+[log (2017-03-13 14:55:27.865)]  Login successful
+[log (2017-03-13 14:56:46.194)]  Trying to log into the RDT 
+[log (2017-03-13 14:56:51.761)]  Navigating to Container Picking
+[log (2017-03-13 14:57:11.576)]  Failed to find image: FindFailed: can not find images/rdt/quesEnt.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 15:00:20.277)]  Attempting to log into the application.
+[log (2017-03-13 15:00:28.344)]  Login successful
+[log (2017-03-13 15:01:50.287)]  Trying to log into the RDT 
+[log (2017-03-13 15:01:55.409)]  Navigating to Container Picking
+[log (2017-03-13 15:02:24.703)]  Failed to find image: FindFailed: can not find images/rdt/pckSubConTro.png in S(0)[0,0 1366x768]
+  Line 2189, in file Region.java
+
+[log (2017-03-13 16:19:21.176)]  Attempting to log into the application.
+[log (2017-03-13 16:19:30.173)]  Login successful
+[log (2017-03-13 16:20:38.496)]  Trying to log into the RDT 
+[log (2017-03-13 16:20:47.099)]  Failed to login to RDT
+[log (2017-03-13 16:41:23.737)]  Attempting to log into the application.
+[log (2017-03-13 16:41:32.274)]  Login successful
+[log (2017-03-13 16:46:24.386)]  Attempting to log into the application.
+[log (2017-03-13 16:46:39.566)]  Login successful
